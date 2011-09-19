@@ -1,0 +1,172 @@
+body{
+background-color:#222;
+font-family:"helvetica",'arial',sans-serif;
+color:#fff;
+}
+
+.wrap{
+width:1200px;
+margin:0 auto;
+}
+
+.header{
+overflow:hidden;
+margin-bottom:30px;
+margin-top:40px;
+}
+
+.brand{
+float:left;
+}
+
+.brand h1{
+text-transform: uppercase;
+color:#ff0101;
+font-size:50px;
+margin:0;
+padding:0;
+line-height:40px;
+}
+
+.brand h2{
+text-transform: uppercase;
+font-size:26px;
+margin:0;
+padding:0;
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.sections{
+float:right;
+text-align:right;
+}
+
+.sections ul{
+margin:0;
+}
+
+.sections li {
+list-style-type:none;
+}
+
+.sections li a{
+font-weight:bold;
+text-transform:uppercase;
+text-decoration:none;
+font-size:20px;
+color:#fff;
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.sections li a:hover{
+color:#222;
+}
+
+.works{
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.photography{
+float:right;
+}
+
+.works .group{
+float:left;
+margin-right:26px;
+}
+
+.films .group.last{
+padding-top:30px;
+}
+
+.works .group.last{
+margin-right:0;
+}
+
+.works .group ul{
+padding:0;
+margin:0;
+}
+
+.works .group li{
+list-style-type:none;
+margin:0;
+padding:0;
+margin-bottom:30px;
+}
+
+.works .group h3, .bio h3{
+font-size:26px;
+text-transform: uppercase;
+margin:0 0 3px;
+}
+
+.works .items .thumb{
+display:block;
+line-height:0;
+-webkit-transition: all 0.25s ease-in;
+}
+
+.works .items .thumb img{
+width:280px;
+height:150px;
+}
+
+.works .items .thumb:hover{
+-webkit-box-shadow:0 0 6px #000;
+}
+
+.works .items span{
+display:block;
+color:#ff0101;
+text-transform:uppercase;
+font-size:18px;
+margin-top:5px;
+display:block;
+
+text-shadow:0 1px 1px rgba(0,0,0,0.25);
+color:#fff;
+
+}
+
+.bio{
+width:65%;
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.bio p{
+line-height:24px;
+}
+
+.bio .contact span{
+display:block;
+}
+
+.shadow{
+display:none;
+position:fixed;
+top:0;
+right:0;
+bottom:0;
+left:0;
+background:rgba(0,0,0,0.75);
+z-index:5;
+}
+
+.modal{
+position:absolute;
+text-align:center;
+color:#333;
+line-height:350px;
+text-transform:uppercase;
+left:50%;
+top:50%;
+width:800px;
+height:450px;
+margin-left:-400px;
+margin-top:-225px;
+background:rgba(0,0,0,0.9);
+-webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
+border:5px solid #000;
+}
+
