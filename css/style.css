@@ -103,6 +103,8 @@ margin:0 0 3px;
 
 .works .items .thumb{
 display:block;
+width:280px;
+overflow:hidden;
 line-height:0;
 -webkit-transition: all 0.25s ease-in;
 }
@@ -121,9 +123,10 @@ display:block;
 color:#ff0101;
 text-transform:uppercase;
 font-size:18px;
-margin-top:5px;
+margin-top:0;
 display:block;
-
+background:rgba(0,0,0,0.5);
+padding:2px 4px;
 text-shadow:0 1px 1px rgba(0,0,0,0.25);
 color:#fff;
 
@@ -153,7 +156,7 @@ background:rgba(0,0,0,0.75);
 z-index:5;
 }
 
-.modal{
+.super-pop{
 position:absolute;
 text-align:center;
 color:#333;
