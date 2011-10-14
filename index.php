@@ -1,3 +1,4 @@
+            <? $section = 'film'; ?>
             <? include('header.php'); ?>
             
             <div class="films works">
@@ -45,16 +46,16 @@
                     <h3>Cinematography</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099366">
+                            <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg">
                                 <img src="images/screens/peta-promo.png"/>
                             </a>
                             <span>PETA: Promo</span>
                         </li>
                         <li>
-                            <a class="thumb" href="#" rel="">
-                                <img src="images/screens/dentist.png"/>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
+                                <img src="images/screens/film-playmoney-thumb.jpg"/>
                             </a>
-                            <span>Dentist</span>
+                            <span>Play Money</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
@@ -74,13 +75,13 @@
                             <span>Life as Dad: Doc short</span>
                         </li>
                         <li>
-                            <a class="thumb" href="#" rel="">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099138">
                                 <img src="images/screens/art-21-doc-web-series.png"/>
                             </a>
                             <span>Art 21: Doc web series</span>
                         </li>
                         <li>
-                            <a class="thumb" href="#" rel="">
+                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg">
                                 <img src="images/screens/charge-feature-doc.png"/>
                             </a>
                             <span>Charge: feature doc</span>

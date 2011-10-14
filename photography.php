@@ -1,3 +1,4 @@
+            <? $section = 'photography'; ?>
             <? include('header.php'); ?>
             
             <div class="photography works">

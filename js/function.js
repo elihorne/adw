@@ -1,5 +1,5 @@
-var backNumber = Math.floor(Math.random() * (4 - 1 + 1) + 1);
-$.backstretch("images/backs/"+backNumber+".png");
+//var backNumber = Math.floor(Math.random() * (3 - 1 + 1) + 1);
+//$.backstretch("images/backs/bg-"+backNumber+".jpg");
 
 killModal = function(){
     $('.modal').remove();
@@ -24,9 +24,14 @@ showModal= function(targetThumb){
     
     if(targetData == '') {
         targetData = 'coming soon';
-        $('.shadow').html('div class="super-pop">'+targetData+'</div>');
-    } else {   
-        $('.shadow').html('<div class="super-pop"><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="800" height="450" frameborder="0"></iframe></div>');
+        $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
+    } else {
+        if(targetData.indexOf('vimeo.com') > -1) {
+              //alert('targetData = ' + targetData);
+            $('.shadow').html('<div class="super-pop vimeo"><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
+        } else {
+            $('.shadow').html('<div class="super-pop photo"><img src="'+targetData+'"/></div>');
+        }
     };
     $('.shadow').fadeIn('fast');
     event.preventDefault();    

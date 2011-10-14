@@ -21,7 +21,7 @@
         <script type="text/javascript" src="js/function.js"></script>
         
     </head>
-    <body>
+    <body<? if(isset($section)) { echo ' class="'.$section.'"'; } ?>>
         <div class="wrap">
             <div class="header">
                 <div class="brand">

@@ -1,3 +1,4 @@
+            <? $section = 'bio-contact'; ?>
             <? include('header.php'); ?>
             <div class="bio">
                 <h3>About</h3>

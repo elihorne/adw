@@ -1,7 +1,25 @@
+html, body{
+width:100%;
+height:100%;
+}
+
 body{
 background-color:#222;
 font-family:"helvetica",'arial',sans-serif;
 color:#fff;
+background-size: cover;
+}
+
+body.film{
+background:#222 url(../images/backs/bg-1.jpg) center top no-repeat;
+}
+
+body.photography{
+background:#222 url(../images/backs/bg-2.jpg) center top no-repeat;
+}
+
+body.bio-contact{
+background:#222 url(../images/backs/bg-3.jpg) center top no-repeat;
 }
 
 .wrap{
@@ -164,12 +182,22 @@ line-height:350px;
 text-transform:uppercase;
 left:50%;
 top:50%;
-width:800px;
-height:450px;
-margin-left:-400px;
-margin-top:-225px;
 background:rgba(0,0,0,0.9);
 -webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
 border:5px solid #000;
+}
+
+.super-pop.vimeo{
+width:640px;
+height:360px;
+margin-left:-320px;
+margin-top:-180px;
+}
+
+.super-pop.photo{
+width:1000px;
+height:553px;
+margin-left:-500px;
+margin-top:-276px;
 }
 
