@@ -11,15 +11,15 @@ background-size: cover;
 }
 
 body.film{
-background:#222 url(../images/backs/bg-1.jpg) center top no-repeat;
+background:#222 url(../images/backs/film.jpg) center top no-repeat;
 }
 
 body.photography{
-background:#222 url(../images/backs/bg-2.jpg) center top no-repeat;
+background:#222 url(../images/backs/photo.jpg) center top no-repeat;
 }
 
 body.bio-contact{
-background:#222 url(../images/backs/bg-3.jpg) center top no-repeat;
+background:#222 url(../images/backs/bio.jpg) center top no-repeat;
 }
 
 .wrap{
