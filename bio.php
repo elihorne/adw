@@ -1,7 +1,7 @@
             <? $section = 'bio-contact'; ?>
             <? include('header.php'); ?>
             <div class="bio">
-                <h3>About</h3>
+                <h3>About 2</h3>
                 <p>Andrew David Watson is a Director of Photography based in New York City. His specialty is a unique mix of stylized narrative approaches blended with a deep understanding of documentary storytelling. Andrew "shoots documentaries like narratives, and narratives like documentaries." </p>
                 <p>Andrew's work on features, non-profits, and broadcast projects has taken him across the globe; Including shooting environmental issues in Colombia, virtual video game economies in China, nightlife in Germany and educational work in New Orleans. Andrew shot the IFC's documentary series "2008 Uncut" which involved covering the Obama campaign from small town halls in New Hampshire, to traveling on the campaign plane, to election night in Chicago.</p>
                 <p>Andrew's work has been seen on IFC, TLC, MTV, NBC and has received numerous awards and grants. In addition, 
