@@ -9,7 +9,7 @@
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png"/>
                             </a>
-                            <span>2011 Creative Reel</span>
+                            <span>2011 Creative Stupid Reel</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
@@ -23,7 +23,7 @@
                     <h3>Directorial</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="foo" caption="asdfdf" director="asdf">
                                 <img src="images/screens/etsy-liberty-vintage.png"/>
                             </a>
                             <span>Etsy: Liberty Vintage</span>
