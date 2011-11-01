@@ -8,8 +8,19 @@
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png"/>
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type">Director:</span> Andrew David Watson
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director of Photography, Producer
+                                    </li>
+                                    <li>
+                                        <span class="type">Date:</span> November, 2009
+                                    </li>
+                                </ul>
                             </a>
-                            <span>2011 Creative Stupid Reel</span>
+                            <span>2011 Creative Reel</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
