@@ -12,35 +12,52 @@ killModal = function(){
 
 showModal= function(targetThumb){
     
-    //alert('targetThumb = ' + targetThumb);
     
-    targetData = $(targetThumb).attr('rel');
-    if($('.thumb.active .payload').length){
-        targetPayload = $('.thumb.active .payload').html();
-    } else {
-        targetPayload = '';
-    }
-    
-    if(!$('.shadow').length) {
-        $('.header').prepend('<div class="shadow">');
-    }
-    
-    if(targetData == '') {
-        targetData = 'coming soon';
-        $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
-    } else {
-        if(targetData.indexOf('vimeo.com') > -1) {
-              //alert('targetData = ' + targetData);
-            $('.shadow').html('<div class="super-pop vimeo"><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
-            
-            if(typeof targetPayload != 'undefined') {
-                $('<ul class="payload">'+targetPayload+'</ul>').insertAfter('.super-pop iframe');
-            }
-            
-        } else {
-            $('.shadow').html('<div class="super-pop photo"><img src="'+targetData+'"/></div>');
-            
+    if($(targetThumb).hasClass('photoholder')) {
+        firstImage = $('.thumb.active .photo-item:first img');
+        targetData = $(firstImage).attr('src');
+        if(!$('.shadow').length) {
+            $('.header').prepend('<div class="shadow">');
         }
+        $('.shadow').html('<div class="super-pop"><img src="'+targetData+'"/></div>');
+        
+        newWidth = firstImage.innerWidth();
+        newHeight = firstImage.innerHeight();
+        
+        $('.super-pop').css({
+            'margin-left' : -newWidth/2,
+            'margin-top' : -newHeight/2
+        });
+    } else {
+    
+        targetData = $(targetThumb).attr('rel');
+        if($('.thumb.active .payload').length){
+            targetPayload = $('.thumb.active .payload').html();
+        } else {
+            targetPayload = '';
+        }
+        
+        if(!$('.shadow').length) {
+            $('.header').prepend('<div class="shadow">');
+        }
+        
+        if(targetData == '') {
+            targetData = 'coming soon';
+            $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
+        } else {
+            if(targetData.indexOf('vimeo.com') > -1) {
+                  //alert('targetData = ' + targetData);
+                $('.shadow').html('<div class="super-pop vimeo"><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
+                
+                if(typeof targetPayload != 'undefined') {
+                    $('<ul class="payload">'+targetPayload+'</ul>').insertAfter('.super-pop iframe');
+                }
+                
+            } else {
+                $('.shadow').html('<div class="super-pop photo"><img src="'+targetData+'"/></div>');
+                
+            }
+        };
     };
     $('.shadow').fadeIn('fast');
     event.preventDefault();    

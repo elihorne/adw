@@ -6,7 +6,7 @@
                     <h3>Reels</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
+                            <a class="thumb photo" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png"/>
                                 <ul class="payload">
                                     <li>

@@ -6,10 +6,46 @@
                     <h3>Essays</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="">
+                            <a class="thumb photoholder" href="#" rel="">
                                 <img src="images/screens/2011-creative-reel.png"/>
+                                <ul class="gallery">
+                                <li class="photo-item">
+                                    <img src="images/photos/1-voces-1000px/1-IMG_3677.jpg" alt="1-IMG_3677" width="1000" height="645" />
+                                    <ul class="payload">
+                                        <li>
+                                            <span class="type">Caption:</span> Something awesome
+                                        </li>
+                                        <li>
+                                            <span class="type">Location:</span> Somewhere awesome
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="photo-item">
+                                    <img src="images/photos/1-voces-1000px/2-IMG_3554.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                    <ul class="payload">
+                                        <li>
+                                            <span class="type">[Caption:</span> Something awesome
+                                        </li>
+                                        <li>
+                                            <span class="type">Location:</span> Somewhere awesome
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="photo-item">
+                                    <img src="images/photos/1-voces-1000px/3-IMG_3177.jpg" alt="3-IMG_3177" width="1000" height="667" />
+                                    <ul class="payload">
+                                        <li>
+                                            <span class="type">Caption:</span> Something awesome
+                                        </li>
+                                        <li>
+                                            <span class="type">Location:</span> Somewhere awesome
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
                             </a>
                             <span>Voces- Colombia</span>
+                            
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="">
