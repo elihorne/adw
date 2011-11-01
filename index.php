@@ -25,6 +25,17 @@
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
                                 <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="300" height="150" />
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type">Director:</span> Someone else
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Date:</span> December, 2009
+                                    </li>
+                                </ul>
                             </a>
                             <span>2011 TV/Eng Reel</span>
                         </li>

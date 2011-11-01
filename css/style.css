@@ -136,7 +136,7 @@ display:none;
 min-width:225px;
 }
 
-.works .items .thumb:hover{
+.works .items > li:hover{
 -webkit-box-shadow:0 0 6px #000;
 }
 
@@ -194,7 +194,7 @@ border:5px solid #000;
 width:640px;
 min-height:360px;
 margin-left:-320px;
-margin-top:-180px;
+margin-top:-200px;
 }
 
 .super-pop iframe{
@@ -211,6 +211,10 @@ color:#f1f1f1;
 text-align:left;
 padding:6px;
 list-style:none;
+}
+
+.payload .type{
+font-weight:bold;
 }
 
 .super-pop.photo{
