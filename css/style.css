@@ -27,6 +27,12 @@ width:1000px;
 margin:0 auto;
 }
 
+.replaced{
+text-indent: -9999em;
+overflow: hidden;
+display: block;
+}
+
 .header{
 overflow:hidden;
 margin-bottom:30px;
@@ -227,4 +233,30 @@ margin-top:-276px;
 
 .items .gallery{
 display:none;
+}
+
+.super-pop .right{
+position:absolute;
+right:0;
+top:0;
+height:100%;
+width:25%;
+z-index:500;
+}
+
+.super-pop .left{
+position:absolute;
+left:0;
+top:0;
+height:100%;
+width:25%;
+z-index:500;
+}
+
+.super-pop .left:hover{
+background:url(../images/arrow-left.png) center center no-repeat;
+}
+
+.super-pop .right:hover{
+background:url(../images/arrow-right.png) center center no-repeat;
 }

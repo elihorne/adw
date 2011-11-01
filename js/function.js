@@ -10,16 +10,38 @@ killModal = function(){
 };  
 
 
+$('.super-pop.photo .right').live('click', function(){
+    currentPhoto = $('.active-photo');
+    nextPhoto = currentPhoto.next();
+    nextPhotoSrc = nextPhoto.find('img').attr('src');
+    // update the modal
+    currentPhoto.removeClass('active-photo');
+    nextPhoto.addClass('active-photo');
+    $('.super-pop img').attr('src', nextPhotoSrc);
+});
+
+$('.super-pop.photo .left').live('click', function(){
+    currentPhoto = $('.active-photo');
+    nextPhoto = currentPhoto.prev();
+    nextPhotoSrc = nextPhoto.find('img').attr('src');
+    // update the modal
+    currentPhoto.removeClass('active-photo');
+    nextPhoto.addClass('active-photo');
+    $('.super-pop img').attr('src', nextPhotoSrc);
+});
+
 showModal= function(targetThumb){
     
     
     if($(targetThumb).hasClass('photoholder')) {
-        firstImage = $('.thumb.active .photo-item:first img');
+        firstItem = $('.thumb.active .photo-item:first');
+        firstItem.addClass('active-photo');
+        firstImage = firstItem.find('img');
         targetData = $(firstImage).attr('src');
         if(!$('.shadow').length) {
             $('.header').prepend('<div class="shadow">');
         }
-        $('.shadow').html('<div class="super-pop"><img src="'+targetData+'"/></div>');
+        $('.shadow').html('<div class="super-pop photo"><a href="#" class="left replaced">left</a><a href="#" class="right replaced">right</a><img src="'+targetData+'"/></div>');
         
         newWidth = firstImage.innerWidth();
         newHeight = firstImage.innerHeight();
@@ -70,7 +92,7 @@ $('.thumb').live('click', function(){
 });
 
 $('.shadow').live('click',function(){
-    killModal();
+    //killModal();
 })
 
 lightbox = function(targetImage) {
