@@ -10,6 +10,31 @@ killModal = function(){
 };  
 
 
+updateModal = function(nextSource){
+    if($(nextSource).is(':last-child')) {
+        $('.super-pop .right').fadeOut();
+    } else {
+        $('.super-pop .right').fadeIn();
+    }
+    
+    if($(nextSource).is(':first-child')) {
+        $('.super-pop .left').fadeOut();
+    } else {
+        $('.super-pop .left').fadeIn();
+    }
+    
+    $('.super-pop img').load(function(){
+            newWidth = $('.super-pop img').outerWidth();
+            newHeight = $('.super-pop img').outerHeight();
+            $('.super-pop').animate({
+                'margin-left' : -newWidth/2,
+                'margin-top' : -newHeight/2
+            }, 500);
+        });
+    
+    
+};
+
 $('.super-pop.photo .right').live('click', function(){
     currentPhoto = $('.active-photo');
     nextPhoto = currentPhoto.next();
@@ -17,6 +42,7 @@ $('.super-pop.photo .right').live('click', function(){
     // update the modal
     currentPhoto.removeClass('active-photo');
     nextPhoto.addClass('active-photo');
+    updateModal(nextPhoto);
     $('.super-pop img').attr('src', nextPhotoSrc);
 });
 
@@ -27,8 +53,11 @@ $('.super-pop.photo .left').live('click', function(){
     // update the modal
     currentPhoto.removeClass('active-photo');
     nextPhoto.addClass('active-photo');
+    updateModal(nextPhoto);
     $('.super-pop img').attr('src', nextPhotoSrc);
 });
+
+
 
 showModal= function(targetThumb){
     
@@ -41,15 +70,18 @@ showModal= function(targetThumb){
         if(!$('.shadow').length) {
             $('.header').prepend('<div class="shadow">');
         }
-        $('.shadow').html('<div class="super-pop photo"><a href="#" class="left replaced">left</a><a href="#" class="right replaced">right</a><img src="'+targetData+'"/></div>');
+        $('.shadow').html('<div class="super-pop photo"><a class="close replaced" href="#">close</a><a href="#" class="left replaced">left</a><a href="#" class="right replaced">right</a><img src="'+targetData+'"/></div>');
         
-        newWidth = firstImage.innerWidth();
-        newHeight = firstImage.innerHeight();
-        
-        $('.super-pop').css({
-            'margin-left' : -newWidth/2,
-            'margin-top' : -newHeight/2
+        $('.super-pop img').load(function(){
+            newWidth = $('.super-pop img').outerWidth();
+            newHeight = $('.super-pop img').outerHeight();
+            $('.super-pop').animate({
+                'margin-left' : -newWidth/2,
+                'margin-top' : -newHeight/2
+            }, 500);
         });
+        
+        
     } else {
     
         targetData = $(targetThumb).attr('rel');
@@ -69,14 +101,14 @@ showModal= function(targetThumb){
         } else {
             if(targetData.indexOf('vimeo.com') > -1) {
                   //alert('targetData = ' + targetData);
-                $('.shadow').html('<div class="super-pop vimeo"><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
+                $('.shadow').html('<div class="super-pop vimeo"><a class="close replaced" href="#">close</a><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
                 
                 if(typeof targetPayload != 'undefined') {
                     $('<ul class="payload">'+targetPayload+'</ul>').insertAfter('.super-pop iframe');
                 }
                 
             } else {
-                $('.shadow').html('<div class="super-pop photo"><img src="'+targetData+'"/></div>');
+                $('.shadow').html('<div class="super-pop photo"><a class="close replaced" href="#">close</a><img src="'+targetData+'"/></div>');
                 
             }
         };
@@ -91,8 +123,8 @@ $('.thumb').live('click', function(){
     showModal($('.thumb.active'));    
 });
 
-$('.shadow').live('click',function(){
-    //killModal();
+$('.super-pop .close').live('click',function(){
+    killModal();
 })
 
 lightbox = function(targetImage) {

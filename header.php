@@ -16,7 +16,7 @@
         <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 
         <!-- Magic -->
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/backstretch.js"></script>
         <script type="text/javascript" src="js/function.js"></script>
         
