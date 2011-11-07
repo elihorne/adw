@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-        <title>Andrew David Watson</title>
+        <title>Andrew David Watson - Director of Photography - Cinematographer - New York City </title>
         
         <meta name="description" content="Andrew David Watson - Cinematographer">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
