@@ -46,7 +46,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="300" height="150">
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="300" height="150" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Vintage</span>
@@ -63,7 +63,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
-                                <img src="images/screens/etsy-brazenhead-books.png"width="300" height="150"/>
+                                <img src="images/screens/etsy-brazenhead-books.png" width="300" height="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Brazenhead Books</span>
@@ -80,7 +80,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png"width="300" height="150"/>
+                                <img src="images/screens/weathervane-music-series.png" width="300" height="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">  Weathervane Music Series:</span>Twin Sister
@@ -102,7 +102,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
-                                <img src="images/screens/peta-promo.png"width="300" height="150"/>
+                                <img src="images/screens/peta-promo.png" width="300" height="150" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">PETA:</span>  Promo
@@ -125,7 +125,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/film-playmoney-thumb.jpg"/>
+                                <img src="images/screens/film-playmoney-thumb.jpg"  width="300" height="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Play Money:</span>  Feature Film
