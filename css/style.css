@@ -129,7 +129,7 @@ margin:0 0 3px;
 .works .items .thumb{
 display:block;
 height:100px;
-overflow:visible;
+
 line-height:0;
 -webkit-transition: all 0.25s ease-in;
 }
