@@ -10,13 +10,13 @@
                                 <img src="images/screens/2011-creative-reel.png"/>
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">Director:</span> Andrew David Watson
+                                        <span class="type">2011 Creative Demo Reel</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director of Photography, Producer
+                                        <span class="type">Roles:</span> Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Date:</span> November, 2009
+                                        <span class="type">Date:</span> November, 2011
                                     </li>
                                 </ul>
                             </a>
@@ -27,13 +27,13 @@
                                 <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="300" height="150" />
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">Director:</span> Someone else
+                                        <span class="type">2011 ENG/TV Reel</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Date:</span> December, 2009
+                                        <span class="type">Date:</span> November, 2011
                                     </li>
                                 </ul>
                             </a>
@@ -45,15 +45,24 @@
                     <h3>Directorial</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="foo" caption="asdfdf" director="asdf">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/>
                             </a>
                             <span>Etsy: Liberty Vintage</span>
                         </li>
+                        
+                        
+                        
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
                                 <img src="images/screens/etsy-brazenhead-books.png"/>
                             </a>
+                           
+                           
+                           
+                           
+                           
                             <span>Etsy: Brazenhead books</span>
                         </li>
                         <li>
