@@ -90,7 +90,7 @@
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="300" height="150" />
+                                <img src="images/screens/photo-fishmarket.jpg" alt="2011-tv-eng-reel" width="300" height="150" />
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/3-fishmarket-1000px/1-IMG_2074.jpg" alt="1-IMG_2074" width="1000" height="667" />
