@@ -173,13 +173,39 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png"/>
+                                <img src="images/screens/life-as-dad.png"width="300" height="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">Life As Dad:</span> Documentary Short (Trailer)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Anthony Gilmore
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Nameless Films
+                                    </li>
+                                </ul>
                             </a>
                             <span>Life as Dad: Doc short</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099138">
-                                <img src="images/screens/art-21-doc-web-series.png"/>
+                                <img src="images/screens/art-21-doc-web-series.png" width="300" height="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">PBS Art 21:</span>  New York Up Close web series
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Production Company:</span>  Art 21
+                                    </li>
+                                     
+                                </ul>
                             </a>
                             <span>Art 21: Doc web series</span>
                         </li>
