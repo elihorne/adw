@@ -52,7 +52,7 @@
                                         <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -61,24 +61,37 @@
                             </a>
                             <span>Etsy: Liberty Vintage</span>
                         </li>
-                        
-                        
-                        
-                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
-                                <img src="images/screens/etsy-brazenhead-books.png"/>
+                                <img src="images/screens/etsy-brazenhead-books.png"width="300" height="150"/>
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Brazenhead Books</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
                             </a>
-                           
-                           
-                           
-                           
-                           
                             <span>Etsy: Brazenhead books</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png"/>
+                                <img src="images/screens/weathervane-music-series.png"width="300" height="150"/>
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Weathervane Music Series:</span>Twin Sister
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> WXPN / Weathervane Music Series
+                                    </li>
+                                </ul>
                             </a>
                             <span>Weathervane Series</span>
                         </li>
@@ -88,14 +101,31 @@
                     <h3>Cinematography</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg">
-                                <img src="images/screens/peta-promo.png"/>
+                            <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
+                                <img src="images/screens/peta-promo.png"width="300" height="150"/>
                             </a>
                             <span>PETA: Promo</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
                                 <img src="images/screens/film-playmoney-thumb.jpg"/>
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">PETA:</span>promo
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> PETA
+                                    </li>
+                                </ul>
                             </a>
                             <span>Play Money</span>
                         </li>
