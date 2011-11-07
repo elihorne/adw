@@ -169,7 +169,7 @@
                     </ul>
                 </div>
                 <div class="group last">
-                    <h3></h3>
+                    <h3> </h3>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
