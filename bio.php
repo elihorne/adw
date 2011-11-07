@@ -10,10 +10,10 @@ his photography has been featured by Mother Jones and his film work has screened
                 <p>Beyond his freelance work, Andrew has taught as an adjunct professor in the journalism department at Temple 
 University (Spring &amp; Fall 2009). Andrew loves anything with two wheels, whether its his touring bicycle or his 1970s motorcycle, and he is always up for an adventure!</p>
             <p class="contact">
-            <span>Andrew David Watson</span>
-            <span>andrewdavidwatson@gmail.com</span>
-            <span>(c) 215.391.3850</span>
-            <span>(w) 347.926.3456</span>
+            Andrew David Watson</br>
+            andrewdavidwatson@gmail.com</br>
+            (c) 215.391.3850</br>
+            (w) 347.926.3456</br>
             </p>
             </div>
             <? include('footer.php'); ?>
