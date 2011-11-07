@@ -46,7 +46,18 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/>
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="300" height="150">
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Vintage</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
                             </a>
                             <span>Etsy: Liberty Vintage</span>
                         </li>
@@ -69,7 +80,7 @@
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
                                 <img src="images/screens/weathervane-music-series.png"/>
                             </a>
-                            <span>Weathervane music series</span>
+                            <span>Weathervane Series</span>
                         </li>
                     </ul>
                 </div>
