@@ -83,13 +83,13 @@
                                 <img src="images/screens/weathervane-music-series.png"width="300" height="150"/>
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Weathervane Music Series:</span>Twin Sister
+                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> WXPN / Weathervane Music Series
+                                        <span class="type">Client:</span>  WXPN / Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
@@ -103,21 +103,21 @@
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
                                 <img src="images/screens/peta-promo.png"width="300" height="150"/>
-                                             <ul class="payload">
+                             	<ul class="payload">
                                     <li>
-                                        <span class="type">PETA:</span>promo
+                                        <span class="type">PETA:</span>  Promo
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>Director of Photography
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>Scott Whitham
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>Shooters Inc.
+                                        <span class="type">Production Company:</span>  Shooters Inc.
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> PETA
+                                        <span class="type">Client:</span>  PETA
                                     </li>
                                 </ul>
                             </a>
@@ -128,19 +128,19 @@
                                 <img src="images/screens/film-playmoney-thumb.jpg"/>
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Play Money:</span>Feature Film
+                                        <span class="type">Play Money:</span>  Feature Film
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>Director of Photography
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>Anthony Gilmore
+                                        <span class="type">Director:</span>  Anthony Gilmore
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>Nameless Films
+                                        <span class="type">Production Company:</span>  Nameless Films
                                     </li>
                                     <li>
-                                        <span class="type">Note:</span> This is a sample scene without subtitles. 
+                                        <span class="type">Note:</span>  This is a sample scene without subtitles. 
                                     </li>
                                 </ul>
                             </a>
@@ -149,6 +149,20 @@
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
                                 <img src="images/screens/counter-doers-spots.png"/>
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                </ul>
                             </a>
                             <span>Counter &amp; Doers: Spots</span>
                         </li>
