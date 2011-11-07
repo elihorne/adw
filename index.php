@@ -103,13 +103,7 @@
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
                                 <img src="images/screens/peta-promo.png"width="300" height="150"/>
-                            </a>
-                            <span>PETA: Promo</span>
-                        </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/film-playmoney-thumb.jpg"/>
-                                      <ul class="payload">
+                                             <ul class="payload">
                                     <li>
                                         <span class="type">PETA:</span>promo
                                     </li>
@@ -124,6 +118,29 @@
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> PETA
+                                    </li>
+                                </ul>
+                            </a>
+                            <span>PETA: Promo</span>
+                        </li>
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
+                                <img src="images/screens/film-playmoney-thumb.jpg"/>
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Play Money:</span>Feature Film
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>Anthony Gilmore
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>Nameless Films
+                                    </li>
+                                    <li>
+                                        <span class="type">Note:</span> This is a sample scene without subtitles. 
                                     </li>
                                 </ul>
                             </a>
