@@ -218,7 +218,7 @@
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/travel-west.jpg"/>
+                                <img src="images/screens/photo-west.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/6-west-1000px/1-IMG_8151.jpg" alt="1-IMG_8151" width="1000" height="667" />
