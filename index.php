@@ -148,7 +148,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
-                                <img src="images/screens/counter-doers-spots.png"/>
+                                <img src="images/screens/counter-doers-spots.png" width="300" height="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
@@ -184,8 +184,22 @@
                             <span>Art 21: Doc web series</span>
                         </li>
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg">
-                                <img src="images/screens/charge-feature-doc.png"/>
+                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
+                                <img src="images/screens/charge-feature-doc.png" width="300" height="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Charged:</span>  Feature Documentary
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Mike Plunkett
+                                    </li>
+                                        <li>
+                                        <span class="type">Format:</span>  RED 4k
+                                    </li>
+                                </ul>
                             </a>
                             <span>Charge: feature doc</span>
                         </li>
