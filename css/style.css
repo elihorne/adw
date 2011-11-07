@@ -245,7 +245,7 @@ position:absolute;
 right:0;
 top:0;
 height:100%;
-width:25%;
+width:15%;
 z-index:500;
 }
 
@@ -254,7 +254,7 @@ position:absolute;
 left:0;
 top:0;
 height:100%;
-width:25%;
+width:15%;
 z-index:500;
 display:none;
 }
@@ -272,7 +272,7 @@ background:url(../images/close.png) left top no-repeat;
 width:30px;
 height:30px;
 position:absolute;
-left:-5px;
-top:-5px;
+left:-15px;
+top:-15px;
 z-index:600;
 }
