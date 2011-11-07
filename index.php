@@ -24,7 +24,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="225" />
+                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="250" />
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 ENG/TV Reel</span>
@@ -46,7 +46,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="300" height="150" />
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="235" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Vintage</span>
