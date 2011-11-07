@@ -12,7 +12,7 @@ font-size:15px;
 }
 
 body.film{
-background:#222 url(../images/backs/film.jpg) center top no-repeat;
+background:#222 url(../images/backs/film.jpg) bottom top no-repeat;
 }
 
 body.photography{
