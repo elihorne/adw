@@ -7,7 +7,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/2011-creative-reel.png"/>
+                                <img src="images/screens/photo-voices.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/1-voces-1000px/1-IMG_3677.jpg" alt="1-IMG_3677" width="1000" height="645" />
@@ -49,7 +49,7 @@
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="300" height="150" />
+                                <img src="images/screens/photo-goldfarms.jpg" alt="2011-tv-eng-reel" width="300" height="150" />
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/2-goldfarms-1000px/1-IMG_5771.jpg" alt="1-IMG_5771" width="1000" height="667" />
@@ -136,7 +136,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/etsy-liberty-vintage.png"/>
+                                <img src="images/screens/photo-south.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/4-south-1000px/1-IMG_3632.jpg" alt="1-IMG_3632" width="1000" height="666" />
@@ -177,7 +177,7 @@
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/etsy-brazenhead-books.png"/>
+                                <img src="images/screens/photo-east.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/5-east-1000px/1-IMG_2695.jpg" alt="1-IMG_2695" width="1000" height="667" />
@@ -218,7 +218,7 @@
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/weathervane-music-series.png"/>
+                                <img src="images/screens/travel-west.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/6-west-1000px/1-IMG_8151.jpg" alt="1-IMG_8151" width="1000" height="667" />
