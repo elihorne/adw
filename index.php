@@ -7,7 +7,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb photo" href="#" rel="http://player.vimeo.com/video/26251478">
-                                <img src="images/screens/2011-creative-reel.png"/>
+                                <img src="images/screens/2011-creative-reel.png" width="235"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 Creative Demo Reel</span>
@@ -24,7 +24,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="250" />
+                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="235" />
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 ENG/TV Reel</span>
@@ -63,7 +63,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
-                                <img src="images/screens/etsy-brazenhead-books.png" width="300" height="150" />
+                                <img src="images/screens/etsy-brazenhead-books.png" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Brazenhead Books</span>
@@ -80,7 +80,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png" width="300" height="150" />
+                                <img src="images/screens/weathervane-music-series.png" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">  Weathervane Music Series:</span>Twin Sister
@@ -102,7 +102,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
-                                <img src="images/screens/peta-promo.png" width="300" height="150" />
+                                <img src="images/screens/peta-promo.png" width="235" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">PETA:</span>  Promo
@@ -125,7 +125,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/film-playmoney-thumb.jpg"  width="300" height="150" />
+                                <img src="images/screens/film-playmoney-thumb.jpg"  width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Play Money:</span>  Feature Film
@@ -148,7 +148,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
-                                <img src="images/screens/counter-doers-spots.png" width="300" height="150" />
+                                <img src="images/screens/counter-doers-spots.png" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
@@ -173,7 +173,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png"width="300" height="150" />
+                                <img src="images/screens/life-as-dad.png"width="235" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Life As Dad:</span> Documentary Short (Trailer)
@@ -193,7 +193,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099138">
-                                <img src="images/screens/art-21-doc-web-series.png" width="300" height="150" />
+                                <img src="images/screens/art-21-doc-web-series.png" width="235" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">PBS Art 21:</span>  New York Up Close web series
@@ -211,7 +211,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="225" />
+                                <img src="images/screens/charge-feature-doc.png" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Charged:</span>  Feature Documentary
