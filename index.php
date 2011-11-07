@@ -24,7 +24,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="300" height="150" />
+                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="225" />
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 ENG/TV Reel</span>
@@ -211,7 +211,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="300" height="150" />
+                                <img src="images/screens/charge-feature-doc.png" width="225" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Charged:</span>  Feature Documentary
