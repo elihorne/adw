@@ -245,7 +245,7 @@ position:absolute;
 right:0;
 top:0;
 height:100%;
-width:15%;
+width:5%;
 z-index:500;
 }
 
@@ -254,7 +254,7 @@ position:absolute;
 left:0;
 top:0;
 height:100%;
-width:15%;
+width:5%;
 z-index:500;
 display:none;
 }
