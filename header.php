@@ -33,9 +33,7 @@
                         <li>
                             <a href=".">Films</a>
                         </li>
-                        <li>
-                            <a href="./photography.php">Photography</a>
-                        </li>
+                 
                         <li>
                             <a href="./bio.php">Bio &amp; Contact</a>
                         </li>
