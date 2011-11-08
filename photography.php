@@ -354,13 +354,21 @@
                             </a>
                             <span>Voces- Colombia</span>
                             
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
                                 <img src="images/screens/photo-goldfarms.jpg" alt="Chinese Gold Farms" width="235" />
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/2-goldfarms-1000px/1-IMG_5771.jpg" alt="1-IMG_5771" width="1000" height="667" />
+                                        <img src="images/photos/2-goldfarms-1000px/goldfarms-1.jpg" alt="1-IMG_5771" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -369,9 +377,8 @@
                                                 <span class="type">Location:</span> Somewhere awesome
                                             </li>
                                         </ul>
-                                    </li>
-                                    <li class="photo-item">
-                                        <img src="images/photos/2-goldfarms-1000px/2-IMG_5861.jpg" alt="2-IMG_5861" width="1000" height="667" />
+                              		<li class="photo-item">
+                                        <img src="images/photos/2-goldfarms-1000px/goldfarms-2.jpg" alt="2-IMG_5861" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -382,7 +389,29 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/2-goldfarms-1000px/3-IMG_5805.jpg" alt="3-IMG_5805" width="1000" height="667" />
+                                        <img src="images/photos/2-goldfarms-1000px/goldfarms-3.jpg" alt="2-IMG_5861" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="photo-item">
+                                        <img src="images/photos/2-goldfarms-1000px/goldfarms-4.jpg" alt="2-IMG_5861" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="photo-item">
+                                        <img src="images/photos/2-goldfarms-1000px/goldfarms-5.jpg" alt="3-IMG_5805" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -395,6 +424,18 @@
                                 </ul>
                             </a>
                             <span>Chinese gold farms</span>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
                         </li>
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
