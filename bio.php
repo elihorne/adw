@@ -10,7 +10,7 @@ his photography has been featured by Mother Jones and his film work has screened
                 <p>Beyond his freelance work, Andrew has taught as an adjunct professor in the journalism department at Temple 
 University (Spring &amp; Fall 2009). Andrew loves anything with two wheels, whether its his touring bicycle or his 1970s motorcycle, and he is always up for an adventure!</p>
 
-<p><img src="images/screens/clients-wide.jpg" width="600"></p>
+<p><img src="images/screens/clients-wide.jpg" width="650"></p>
 
             <p class="contact"><b>
             Andrew David Watson | 
