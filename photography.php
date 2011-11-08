@@ -813,6 +813,10 @@
                         </li>
                     </ul>
                 </div>
+                
+                
+                
+                
                 <div class="group last">
                     <h3>Travel</h3>
                     <ul class="items">
@@ -821,7 +825,7 @@
                                 <img src="images/screens/photo-south.jpg" width="235"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/4-south-1000px/1-IMG_3632.jpg" alt="1-IMG_3632" width="1000" height="666" />
+                                        <img src="images/photos/4-south-1000px/south-1.jpg" alt="1-IMG_3632" width="1000" height="666" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -832,7 +836,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/4-south-1000px/2-IMG_2912.jpg" alt="2-IMG_2912" width="1000" height="667" />
+                                        <img src="images/photos/4-south-1000px/south-2.jpg" alt="2-IMG_2912" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -843,7 +847,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/4-south-1000px/3-IMG_1690.jpg" alt="3-IMG_1690" width="1000" height="667" />
+                                        <img src="images/photos/4-south-1000px/south-3.jpg" alt="3-IMG_1690" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -862,7 +866,7 @@
                                 <img src="images/screens/photo-east.jpg" width="235" />
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/5-east-1000px/1-IMG_2695.jpg" alt="1-IMG_2695" width="1000" height="667" />
+                                        <img src="images/photos/5-east-1000px/east-1.jpg" alt="1-IMG_2695" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -873,7 +877,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/5-east-1000px/2-combo.jpg" alt="2-combo" width="900" height="667" />
+                                        <img src="images/photos/5-east-1000px/east-2.jpg" alt="2-combo" width="900" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -884,7 +888,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/5-east-1000px/3-IMG_2439.jpg" alt="3-IMG_2439" width="1000" height="667" />
+                                        <img src="images/photos/5-east-1000px/east-3.jpg" alt="3-IMG_2439" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -898,12 +902,14 @@
                             </a>
                             <span>Travel - East</span>
                         </li>
+                        
+                        
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
                                 <img src="images/screens/photo-west.jpg" width="235" />
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/6-west-1000px/1-IMG_8151.jpg" alt="1-IMG_8151" width="1000" height="667" />
+                                        <img src="images/photos/6-west-1000px/west-1.jpg" alt="1-IMG_8151" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -914,7 +920,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/6-west-1000px/2-IMG_8294.jpg" alt="2-IMG_8294" width="1000" height="667" />
+                                        <img src="images/photos/6-west-1000px/west-2.jpg" alt="2-IMG_8294" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -925,7 +931,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/6-west-1000px/3-IMG_8347.jpg" alt="3-IMG_8347" width="1000" height="667" />
+                                        <img src="images/photos/6-west-1000px/west-3.jpg" alt="3-IMG_8347" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
