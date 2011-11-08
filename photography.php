@@ -10,7 +10,7 @@
                                 <img src="images/screens/photo-voices.jpg" width="235"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/1.jpg" alt="1-IMG_3677" width="1000" height="645" />
+                                        <img src="images/photos/1-voces-1000px/1.jpg" alt="1-IMG_3677" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome

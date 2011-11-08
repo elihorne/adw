@@ -45,7 +45,7 @@
                     <h3>Directorial</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251563" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="235" />
                                      <ul class="payload">
                                     <li>
