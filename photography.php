@@ -10,7 +10,7 @@
                                 <img src="images/screens/photo-voices.jpg" width="235"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/1-IMG_3677.jpg" alt="1-IMG_3677" width="1000" height="645" />
+                                        <img src="images/photos/1-voces-1000px/1.jpg" alt="1-IMG_3677" width="1000" height="645" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -21,7 +21,73 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/2-IMG_3554.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/2.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/3.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/4.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/5.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/6.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/7.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/8.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -32,7 +98,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/3-IMG_3177.jpg" alt="3-IMG_3177" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/9.jpg" alt="3-IMG_3177" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
