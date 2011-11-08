@@ -728,17 +728,7 @@
                                             </li>
                                         </ul>
                                     </li>
-                                             <li class="photo-item">
-                                        <img src="images/photos/3-fishmarket-1000px/fishmarket-11.jpg" alt="1-IMG_2074" width="1000" height="667" />
-                                        <ul class="payload">
-                                            <li>
-                                                <span class="type">Caption:</span> Something awesome
-                                            </li>
-                                            <li>
-                                                <span class="type">Location:</span> Somewhere awesome
-                                            </li>
-                                        </ul>
-                                    </li>
+                                 
                                              <li class="photo-item">
                                         <img src="images/photos/3-fishmarket-1000px/fishmarket-12.jpg" alt="1-IMG_2074" width="1000" height="667" />
                                         <ul class="payload">
