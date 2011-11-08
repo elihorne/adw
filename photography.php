@@ -10,7 +10,7 @@
                                 <img src="images/screens/photo-voices.jpg" width="235"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/1.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-1.jpg" alt="1-IMG_3677" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
@@ -21,7 +21,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/2.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-2.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -32,7 +32,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/3.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-3.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -43,7 +43,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/4.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-4.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -54,7 +54,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/5.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-5.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -65,7 +65,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/6.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-6.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -76,7 +76,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/7.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-7.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -87,7 +87,7 @@
                                         </ul>
                                     </li>
                                      <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/8.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-8.jpg" alt="2-IMG_3554" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">[Caption:</span> Something awesome
@@ -98,7 +98,7 @@
                                         </ul>
                                     </li>
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/9.jpg" alt="3-IMG_3177" width="1000" height="667" />
+                                        <img src="images/photos/1-voces-1000px/colombia-9.jpg" alt="3-IMG_3177" width="1000" height="667" />
                                         <ul class="payload">
                                             <li>
                                                 <span class="type">Caption:</span> Something awesome
