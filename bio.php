@@ -12,11 +12,11 @@ University (Spring &amp; Fall 2009). Andrew loves anything with two wheels, whet
 
 <p><img src="images/screens/clients-wide.jpg" width="600"></p>
 
-            <p class="contact">
-            Andrew David Watson - 
-            andrewdavidwatson@gmail.com - 
-            (c) 215.391.3850 - 
-            (w) 347.926.3456
+            <p class="contact"><b>
+            Andrew David Watson | 
+            andrewdavidwatson@gmail.com |  
+            (c) 215.391.3850 |  
+            (w) 347.926.3456</b>
             </p>
             </div>
             <? include('footer.php'); ?>
