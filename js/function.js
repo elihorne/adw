@@ -273,7 +273,7 @@ deepLink = function(){
         });
         
         
-        if(targetName.indexOf(target) != undefined) {
+        if(targetName.indexOf(target) != -1) {
             itemCount = targetName.indexOf(target);
             itemName = target;
             itemData = targetData[itemCount];
@@ -282,7 +282,7 @@ deepLink = function(){
             showModal(targetThumb); 
             
         } else {
-            alert('no match');
+            //alert('no match');
         }
     }
     
