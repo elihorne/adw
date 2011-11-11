@@ -6,7 +6,7 @@
                     <h3>Reels</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb photo" href="#" rel="http://player.vimeo.com/video/26251478">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png" width="235"/>
                                 <ul class="payload">
                                     <li>
@@ -20,7 +20,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>2011 Creative Reel</span>
+                            <span class="title">2011 Creative Reel</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
@@ -37,7 +37,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>2011 TV/Eng Reel</span>
+                            <span class="title">2011 TV/Eng Reel</span>
                         </li>
                     </ul>
                 </div>
@@ -59,7 +59,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Etsy: Liberty Vintage</span>
+                            <span class="title">Etsy: Liberty Vintage</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
@@ -76,7 +76,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Etsy: Brazenhead books</span>
+                            <span class="title">Etsy: Brazenhead books</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
@@ -93,7 +93,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Weathervane Series</span>
+                            <span class="title">Weathervane Series</span>
                         </li>
                     </ul>
                 </div>
@@ -121,7 +121,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>PETA: Promo</span>
+                            <span class="title">PETA: Promo</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
@@ -144,7 +144,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Play Money</span>
+                            <span class="title">Play Money</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
@@ -164,7 +164,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Counter &amp; Doers: Spots</span>
+                            <span class="title"> Counter &amp; Doers: Spots</span>
                         </li>
                     </ul>
                 </div>
@@ -189,7 +189,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Life as Dad: Doc short</span>
+                            <span class="title">Life as Dad: Doc short</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099138">
@@ -207,7 +207,7 @@
                                      
                                 </ul>
                             </a>
-                            <span>Art 21: Doc web series</span>
+                            <span class="title">Art 21: Doc web series</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
@@ -227,7 +227,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Charge: feature doc</span>
+                            <span class="title">Charge: feature doc</span>
                         </li>
                     </ul>
                 </div>

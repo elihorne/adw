@@ -59,6 +59,7 @@ $('.super-pop.photo .left').live('click', function(){
 
 
 
+
 showModal= function(targetThumb){
     
     
@@ -95,6 +96,9 @@ showModal= function(targetThumb){
             $('.header').prepend('<div class="shadow">');
         }
         
+        if(typeof targetData == 'undefined') {
+            targetData = '';
+        }
         if(targetData == '') {
             targetData = 'coming soon';
             $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
@@ -114,7 +118,7 @@ showModal= function(targetThumb){
         };
     };
     $('.shadow').fadeIn('fast');
-    event.preventDefault();    
+    //event.preventDefault();    
     }
 
 $('.thumb').live('click', function(){
@@ -215,7 +219,7 @@ showViaKeypress = function(message){
 			$('.thumb.active').removeClass('active').next().find('li:nth-child('+xCount+')').addClass('active');
 			
 			targetThumb = $('.thumb.active');
-			showModal(targetThumb);			
+			showModal(targetThumb);
 			//$('article.active').removeClass('active').addClass('inactive').next().addClass('active');
 			
 		};
@@ -243,6 +247,51 @@ showViaKeypress = function(message){
 	};
 	
 };
+
+
+
+deepLink = function(){
+    target = window.location.hash;
+    
+    if(target.length) {
+        target = target.split('#');
+        target = target[1];
+       
+        var targetName = [];
+        var targetData = [];
+        
+        $('.items .thumb').each(function(i){
+            targetClean = ($(this).parent().find('.title').text());
+            targetClean = targetClean.split(' ').join('');
+            targetClean = targetClean.split('/').join('');
+            targetClean = targetClean.split(':').join('');
+            targetClean = targetClean.split('-').join('').toLowerCase();
+            
+            
+            targetName.push(targetClean);
+            targetData.push($(this).attr('rel'));
+        });
+        
+        
+        if(targetName.indexOf(target) != undefined) {
+            itemCount = targetName.indexOf(target);
+            itemName = target;
+            itemData = targetData[itemCount];
+            $('.thumb[rel="'+itemData+'"]').addClass('active');
+            targetThumb = $('.items .thumb.active');
+            showModal(targetThumb); 
+            
+        } else {
+            alert('no match');
+        }
+    }
+    
+};
+
+deepLink();
+
+
+
 
 $(window).keydown(function(e) {
     if($('.super-pop').length) {
