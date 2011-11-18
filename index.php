@@ -214,14 +214,12 @@
                                 <img src="images/screens/charge-feature-doc.png" width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Charged:</span>  Feature Documentary
+                                        <span class="type">Charge</span>  Feature Documentary
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Mike Plunkett
-                                    </li>
+                                   
                                         <li>
                                         <span class="type">Format:</span>  RED 4k
                                     </li>
