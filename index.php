@@ -124,27 +124,25 @@
                             <span class="title">PETA: Promo</span>
                         </li>
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/film-playmoney-thumb.jpg"  width="235" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
+                                <img src="images/screens/dentist.png"  width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Play Money:</span>  Feature Film
+                                        <span class="type">Susquehanna Bank:</span>  60 second spot
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Anthony Gilmore
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>  Nameless Films
+                                        <span class="type">Production Company:</span>  Shooters Inc.
                                     </li>
-                                    <li>
-                                        <span class="type">Note:</span>  This is a sample scene without subtitles. 
-                                    </li>
+                                  
                                 </ul>
                             </a>
-                            <span class="title">Play Money</span>
+                            <span class="title">SB: Commercial</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
@@ -164,7 +162,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> Counter &amp; Doers: Spots</span>
+                            <span class="title"> SB: Counter &amp; Doers</span>
                         </li>
                     </ul>
                 </div>
@@ -173,7 +171,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png"width="235" />
+                                <img src="images/screens/life-as-dad.png" width="235" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Life As Dad:</span> Documentary Short (Trailer)
@@ -196,7 +194,7 @@
                                 <img src="images/screens/art-21-doc-web-series.png" width="235" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">PBS Art 21:</span>  New York Up Close web series
+                                        <span class="type">PBS Art 21:</span>  New York Up Close Web Series
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
@@ -207,7 +205,7 @@
                                      
                                 </ul>
                             </a>
-                            <span class="title">Art 21: Doc web series</span>
+                            <span class="title">Art 21: Doc Web Series</span>
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
@@ -225,7 +223,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Charge: feature doc</span>
+                            <span class="title">Charge: Feature Doc</span>
                         </li>
                     </ul>
                 </div>
