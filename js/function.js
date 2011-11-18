@@ -86,11 +86,7 @@ showModal= function(targetThumb){
     } else {
     
         targetData = $(targetThumb).attr('rel');
-        if($('.thumb.active .payload').length){
-            targetPayload = $('.thumb.active .payload').html();
-        } else {
-            targetPayload = '';
-        }
+        
         
         if(!$('.shadow').length) {
             $('.header').prepend('<div class="shadow">');
@@ -99,6 +95,7 @@ showModal= function(targetThumb){
         if(typeof targetData == 'undefined') {
             targetData = '';
         }
+        
         if(targetData == '') {
             targetData = 'coming soon';
             $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
@@ -107,16 +104,33 @@ showModal= function(targetThumb){
                   //alert('targetData = ' + targetData);
                 $('.shadow').html('<div class="super-pop vimeo"><a class="close replaced" href="#">close</a><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
                 
-                if(typeof targetPayload != 'undefined') {
-                    $('<ul class="payload">'+targetPayload+'</ul>').insertAfter('.super-pop iframe');
-                }
+                
                 
             } else {
+                
                 $('.shadow').html('<div class="super-pop photo"><a class="close replaced" href="#">close</a><img src="'+targetData+'"/></div>');
+                $('.super-pop img').load(function(){
+            newWidth = $('.super-pop img').outerWidth();
+            newHeight = $('.super-pop img').outerHeight();
+            $('.super-pop').animate({
+                'margin-left' : -newWidth/2,
+                'margin-top' : -newHeight/1.75
+            }, 500);
+        });
                 
             }
         };
     };
+    
+    if($('.thumb.active .payload').length){
+            targetPayload = $('.thumb.active .payload').html();
+        } else {
+            targetPayload = '';
+        }
+        
+        if(typeof targetPayload != 'undefined') {
+            $('<ul class="payload">'+targetPayload+'</ul>').appendTo('.super-pop');
+        }
     $('.shadow').fadeIn('fast');
     //event.preventDefault();    
     }
