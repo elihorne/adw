@@ -42,7 +42,7 @@
                     </ul>
                 </div>
                 <div class="group">
-                    <h3>Directorial</h3>
+                    <h3>DP + Directorial</h3>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
@@ -98,7 +98,7 @@
                     </ul>
                 </div>
                 <div class="group">
-                    <h3>Cinematography</h3>
+                    <h3>DP + COMMERCIAL</h3>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
@@ -167,7 +167,7 @@
                     </ul>
                 </div>
                 <div class="group last">
-                    <h3> </h3>
+                    <h3>DP + DOC </h3>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
