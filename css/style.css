@@ -16,6 +16,7 @@ background:#222 url(../images/backs/photo.jpg) center top no-repeat;
 
 body.bio-contact{
 background:#222 url(../images/backs/bio.jpg) center top no-repeat;
+background-size: cover;
 }
 
 .wrap{
@@ -176,7 +177,7 @@ top:0;
 right:0;
 bottom:0;
 left:0;
-background:rgba(0,0,0,0.75);
+background:rgba(0,0,0,0.85);
 z-index:5;
 }
 
@@ -271,4 +272,8 @@ position:absolute;
 left:-15px;
 top:-15px;
 z-index:600;
+}
+
+.shadowbox{
+-webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
 }

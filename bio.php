@@ -17,8 +17,7 @@
             (w) 347.926.3456</b>
             </p>
             
-            <p><img src="images/screens/clients-wide.jpg"width="650"></p>
-
+            <p><img class="shadowbox" src="images/screens/clients-wide.jpg" width="650"></p>
             
             </div>
             <? include('footer.php'); ?>

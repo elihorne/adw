@@ -1,6 +1,3 @@
-//var backNumber = Math.floor(Math.random() * (3 - 1 + 1) + 1);
-//$.backstretch("images/backs/bg-"+backNumber+".jpg");
-
 killModal = function(){
     $('.modal').remove();
     $('.shadow').fadeOut('fast',function(){
