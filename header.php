@@ -39,7 +39,7 @@
                         </li>
                         
 						 <li>
-                            <a href=".">Blog</a>
+                            <a href="./blog">Blog</a>
                         </li>
 
                     </ul>
