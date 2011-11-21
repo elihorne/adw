@@ -12,6 +12,7 @@ background:#222 url(../images/backs/film.jpg) center top no-repeat;
 
 body.photography{
 background:#222 url(../images/backs/photo.jpg) center top no-repeat;
+background-size: cover;
 }
 
 body.bio-contact{
