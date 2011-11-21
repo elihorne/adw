@@ -184,6 +184,9 @@
                                         <li>
                                         <span class="type">Format:</span>  RED 4k
                                     </li>
+                                    <li>
+                                        <span class="type"></span>  Sample footage available by request. 
+                                    </li>
                                 </ul>
                             </a>
                             <span class="title">Charge: Feature Doc</span>
