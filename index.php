@@ -169,6 +169,28 @@
                 <div class="group last">
                     <h3> </h3>
                     <ul class="items">
+                    	
+                    	 <li>
+                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
+                                <img src="images/screens/charge-feature-doc.png" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Charge</span>  Feature Documentary
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                   
+                                        <li>
+                                        <span class="type">Format:</span>  RED 4k
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Charge: Feature Doc</span>
+                        </li>
+                    
+                    
+                    
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
                                 <img src="images/screens/life-as-dad.png" width="235" />
@@ -207,24 +229,7 @@
                             </a>
                             <span class="title">Art 21: Doc Web Series</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Charge</span>  Feature Documentary
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                   
-                                        <li>
-                                        <span class="type">Format:</span>  RED 4k
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Charge: Feature Doc</span>
-                        </li>
+                       
                     </ul>
                 </div>
             </div>
