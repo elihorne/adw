@@ -24,7 +24,7 @@
                         </li>
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="235" />
+                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="200" />
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 ENG/TV Reel</span>
