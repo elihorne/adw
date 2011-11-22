@@ -82,7 +82,7 @@
                         
                           <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-libertytools.jpg" width="235" />
+                                <img src="images/screens/film-liberty.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Tools</span>
