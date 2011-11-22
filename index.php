@@ -7,7 +7,7 @@
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
-                                <img src="images/screens/2011-creative-reel.png" width="235"/>
+                                <img src="images/screens/2011-creative-reel.png" width="200"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2011 Creative Demo Reel</span>
@@ -81,8 +81,8 @@
                         
                         
                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/libertytools.jpg" width="235" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
+                                <img src="images/screens/film-libertytools.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Tools</span>
