@@ -191,7 +191,7 @@
                         
                              <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/counter-doers-spots.png" width="235" />
+                                <img src="images/screens/film-playmoney-thumb.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Play Money:</span>  Feature Doc
