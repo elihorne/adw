@@ -78,6 +78,29 @@
                             </a>
                             <span class="title">Etsy: Brazenhead books</span>
                         </li>
+                        
+                        
+                          <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-libertytools.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
+                        
+                        
+                        
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
                                 <img src="images/screens/weathervane-music-series.png" width="235" />
