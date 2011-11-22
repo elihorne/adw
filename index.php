@@ -205,6 +205,9 @@
                                         <li>
                                         <span class="type">Production Company:</span>  Nameless Films
                                     </li>
+                                       <li>
+                                        <span class="type">Location:</span>  China
+                                    </li>
                                 </ul>
                             </a>
                             <span class="title">Play Money: Feature Doc</span>
@@ -233,6 +236,9 @@
                                         <span class="type">Format:</span>  RED 4k
                                     </li>
                                     <li>
+                                        <span class="type">Location:</span>  Bolivia
+                                    </li>
+                                    <li>
                                         <span class="type"></span>  Sample footage available by request. 
                                     </li>
                                 </ul>
@@ -257,6 +263,9 @@
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Nameless Films
+                                    </li>
+                                       <li>
+                                        <span class="type">Location:</span>  Japan
                                     </li>
                                 </ul>
                             </a>
