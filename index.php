@@ -187,6 +187,31 @@
                             </a>
                             <span class="title"> SB: Counter &amp; Doers</span>
                         </li>
+                        
+                        
+                             <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
+                                <img src="images/screens/counter-doers-spots.png" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Play Money:</span>  Feature Doc
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Anthony Gilmore
+                                                                            </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Nameless Films
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Play Money: Feature Doc</span>
+                        </li>
+                        
+                        
+                        
                     </ul>
                 </div>
                 <div class="group last">
