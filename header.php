@@ -8,6 +8,7 @@
         
         <meta name="description" content="Andrew David Watson - Cinematographer">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-site-verification" content="rj4aCo8CwMFokgTzN25tWeOgSAR6glEG2F7eqGH9xtQ" />
         
         <!-- Style -->
         <link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen" />
