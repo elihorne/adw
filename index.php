@@ -78,6 +78,29 @@
                             </a>
                             <span class="title">Etsy: Brazenhead books</span>
                         </li>
+                        
+                        
+                          <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-liberty.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
+                        
+                        
+                        
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
                                 <img src="images/screens/weathervane-music-series.png" width="235" />
@@ -164,11 +187,67 @@
                             </a>
                             <span class="title"> SB: Counter &amp; Doers</span>
                         </li>
+                        
+                        
+                             <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
+                                <img src="images/screens/film-playmoney-thumb.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Play Money:</span>  Feature Doc
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Anthony Gilmore
+                                                                            </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Nameless Films
+                                    </li>
+                                       <li>
+                                        <span class="type">Location:</span>  China
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Play Money: Feature Doc</span>
+                        </li>
+                        
+                        
+                        
                     </ul>
                 </div>
                 <div class="group last">
                     <h3> </h3>
                     <ul class="items">
+                    	
+                    	 <li>
+                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
+                                <img src="images/screens/charge-feature-doc.png" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Charge</span>  Feature Documentary
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                   
+                                        <li>
+                                        <span class="type">Format:</span>  RED 4k
+                                    </li>
+                                    <li>
+                                        <span class="type">Location:</span>  Bolivia
+                                    </li>
+                                    <li>
+                                        <span class="type"></span>  Sample footage available by request. 
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Charge: Feature Doc</span>
+                        </li>
+                    
+                    
+                    
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
                                 <img src="images/screens/life-as-dad.png" width="235" />
@@ -184,6 +263,9 @@
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Nameless Films
+                                    </li>
+                                       <li>
+                                        <span class="type">Location:</span>  Japan
                                     </li>
                                 </ul>
                             </a>
@@ -207,24 +289,7 @@
                             </a>
                             <span class="title">Art 21: Doc Web Series</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Charge</span>  Feature Documentary
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                   
-                                        <li>
-                                        <span class="type">Format:</span>  RED 4k
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Charge: Feature Doc</span>
-                        </li>
+                       
                     </ul>
                 </div>
             </div>

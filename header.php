@@ -38,11 +38,11 @@
                         <li>
                             <a href="./bio.php">Bio &amp; Contact</a>
                         </li>
-                        <!--
-<li>
-                            <a href=".">Blog</a>
+                        
+						 <li>
+                            <a href="./blog">Blog</a>
                         </li>
--->
+
                     </ul>
                 </nav>
             </div>
