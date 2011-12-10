@@ -98,7 +98,6 @@ showModal= function(targetThumb){
             $('.shadow').html('<div class="super-pop">'+targetData+'</div>');
         } else {
             if(targetData.indexOf('vimeo.com') > -1) {
-                  //alert('targetData = ' + targetData);
                 $('.shadow').html('<div class="super-pop vimeo"><a class="close replaced" href="#">close</a><iframe src="'+targetData+'?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1" width="640" height="360" frameborder="0"></iframe></div>');
                 
                 
@@ -135,6 +134,10 @@ showModal= function(targetThumb){
 $('.thumb').live('click', function(){
     $('.thumb').removeClass('active');
     $(this).addClass('active');
+    if($(this).attr('rel').indexOf('vimeo') > -1) {
+        trackTitle = $(this).parent().find('.title').text();
+        _gaq.push(['_trackEvent', 'Videos', 'Click', trackTitle]);
+    }
     showModal($('.thumb.active'));    
 });
 
@@ -161,7 +164,6 @@ lightbox = function(targetImage) {
 			
 			imageWidthOffsetQuantity = imageWidth - viewportWidth;
 			imageWidthOffset = imageWidthOffsetQuantity/imageWidth;
-			//alert(imageWidthOffset);
 			imageWidth = imageWidth/2;
 			imageHeight = imageHeight/2;
 			
@@ -169,7 +171,6 @@ lightbox = function(targetImage) {
 				'width' : imageWidth,
 				'height' : imageHeight
 			});
-			//alert ('really too big');
 		};
 		
 		
@@ -184,8 +185,7 @@ lightbox = function(targetImage) {
 
 
 showViaKeypress = function(message){
-    //alert(message);
-	if($('.super-pop').length) {
+    if($('.super-pop').length) {
 		$('.super-pop').remove();
 	} else {
 		$('body').append('<div class="super-pop">'+message+'</div>');
@@ -290,11 +290,11 @@ deepLink = function(){
             itemData = targetData[itemCount];
             $('.thumb[rel="'+itemData+'"]').addClass('active');
             targetThumb = $('.items .thumb.active');
+            trackTitle = $('.items .thumb.active').parent().find('.title').text();
+            _gaq.push(['_trackEvent', 'Videos', 'Direct', trackTitle]);
             showModal(targetThumb); 
             
-        } else {
-            //alert('no match');
-        }
+        } else {}
     }
     
 };

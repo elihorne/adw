@@ -1,6 +1,6 @@
         </div> 
     </body>
-    <script type="text/javascript" src="js/function.js"></script>
+    
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
@@ -14,4 +14,6 @@
       })();
     
     </script>
+    
+    <script type="text/javascript" src="js/function.js"></script>
 </html>
