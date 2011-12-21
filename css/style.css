@@ -103,8 +103,18 @@ padding-top:26px;
 }
 
 .works .group.last{
+margin-right:0;
+}
+
+
+.films .group.middle{
+padding-top:26px;
+}
+
+.works .group.middle{
 margin-right:26;
 }
+
 
 .works .group ul{
 padding:0;

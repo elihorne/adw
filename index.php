@@ -120,7 +120,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="group last">
+                <div class="group middle">
                     <h3> </h3>
                     <ul class="items">
                         <li>
