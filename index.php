@@ -80,24 +80,7 @@
                         </li>
                         
                         
-                          <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Liberty Tools</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> ETSY.com
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Etsy: Liberty Tools</span>
-                        </li>
-                        
+                     
                         
                         
                         
@@ -120,9 +103,33 @@
                         </li>
                     </ul>
                 </div>
+                
+                
                 <div class="group middle">
                     <h3> </h3>
                     <ul class="items">
+                    
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-liberty.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
+                        
+                    
+                    
+                    
                         <li>
                             <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
                                 <img src="images/screens/peta-promo.png" width="235" />
@@ -167,52 +174,9 @@
                             </a>
                             <span class="title">SB: Commercial</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
-                                <img src="images/screens/counter-doers-spots.png" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title"> SB: Counter &amp; Doers</span>
-                        </li>
+                  
                         
-                        
-                             <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/30217835">
-                                <img src="images/screens/film-playmoney-thumb.jpg" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Play Money:</span>  Feature Doc
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Anthony Gilmore
-                                                                            </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Nameless Films
-                                    </li>
-                                       <li>
-                                        <span class="type">Location:</span>  China
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Play Money: Feature Doc</span>
-                        </li>
-                        
+                     
                         
                         
                     </ul>
@@ -271,24 +235,29 @@
                             </a>
                             <span class="title">Life as Dad: Doc short</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/22099138">
-                                <img src="images/screens/art-21-doc-web-series.png" width="235" />
-                                     <ul class="payload">
+                        
+                        
+                      <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
+                                <img src="images/screens/counter-doers-spots.png" width="235" />
+                                      <ul class="payload">
                                     <li>
-                                        <span class="type">PBS Art 21:</span>  New York Up Close Web Series
+                                        <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Production Company:</span>  Art 21
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
-                                     
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
                                 </ul>
                             </a>
-                            <span class="title">Art 21: Doc Web Series</span>
+                            <span class="title"> SB: Counter &amp; Doers</span>
                         </li>
+                        
                        
                     </ul>
                 </div>
