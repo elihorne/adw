@@ -1,22 +1,14 @@
             <? $section = 'photography'; ?>
             <? include('header.php'); ?>
             
-            <div class="photography works">
-                <div class="group">
-                    <h3>PHOTOGRAPHY</h3>
-                    <ul class="items">
-                        <li>
-                        
-                        Still photography has been my number one influence throughout my life and work.  Ever since I was young, I have always had a camera in my hand.  Most of my influence, style and approach to film work comes from the still photography world.  I've been lucky enough to travel to some amazing place and met some unbelievable people.  This portfolio (50 images in total) represents a cross section (including single images and parts of series) of my photography work over the last decade.  
-                       
-                        <img src="images/photos/1-voces-1000px/colombia-2.jpg" alt="2-IMG_3554" width="1000" height="667" />
-                       
-                       
-                        </li>
-                    </ul>
+            <div class="bio">
+                <h3>About</h3>
+                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="300" align="top" hspace="10">Andrew David Watson is a Director DP based in New York City. His specialty is a unique mix of stylized narrative approaches blended with a deep understanding of documentary storytelling. Andrew shoots documentaries like narratives, and narratives like documentaries.
+                 </p>
+                <p>Andrew's work on features, non-profits, and broadcast projects has taken him across the globe; Including shooting environmental issues in Colombia, virtual video game economies in China, nightlife in Germany and educational work in New Orleans.  Andrew DPed the IFC's documentary series "2008 Uncut" which involved extensive on location coverage of the 2008 election.  Andrew also DP'ed PBS / Art 21's web series "New York Up Close," profiling emerging new york city based artist.  Andrew is currently DPing the feature documentary CHARGE (in production), a cinematic look at Bolivia's lithium production, shot in 4k on the RED in extremely demanding situations. </p>
+                
+                <p><img class="shadowbox" src="images/screens/clients-wide.jpg" width="650"></p>                                                        
                             
-                                                        
-                            
-                </div>
+                
             </div>
             <? include('footer.php'); ?>
