@@ -9,6 +9,7 @@
                         
                         Still photography has been my number one influence throughout my life and work.  Ever since I was young, I have always had a camera in my hand.  Most of my influence, style and approach to film work comes from the still photography world.  I've been lucky enough to travel to some amazing place and met some unbelievable people.  This portfolio (50 images in total) represents a cross section (including single images and parts of series) of my photography work over the last decade.  
                        
+                        <img src="images/photos/1-voces-1000px/colombia-2.jpg" alt="2-IMG_3554" width="1000" height="667" />
                        
                        
                         </li>
