@@ -20,7 +20,5 @@
             <p><img class="shadowbox" src="images/screens/clients-wide.jpg" width="650"></p>
             
             </div>
-            <script type="text/javascript">
-            	$.backstretch('/images/backs/bio.jpg');
-            </script>
+          
             <? include('footer.php'); ?>
