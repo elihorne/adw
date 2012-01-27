@@ -11,7 +11,7 @@
 			<ul class="items">
                       
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/photo-thumb.jpg"/ width="900">
+                                <img class="shadowbox" src="images/photo-thumb.jpg"/ width="900" >
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/portfolio/1.jpg" alt="1-IMG_3677" width="1000" height="667" />
