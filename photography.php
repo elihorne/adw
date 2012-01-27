@@ -10,8 +10,8 @@
 
 			<ul class="items">
                       
-                            <a class="thumb photoholder2" href="#" rel="">
-                                <img src="images/photo-thumb.jpg"/>
+                            <a class="thumb photoholder" href="#" rel="">
+                                <img src="images/photo-thumb.jpg"/ align=left>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/1-voces-1000px/colombia-1.jpg" alt="1-IMG_3677" width="1000" height="667" />
