@@ -14,13 +14,11 @@
                                 <img src="images/photo-thumb.jpg"/ align=left>
                                 <ul class="gallery">
                                     <li class="photo-item">
-                                        <img src="images/photos/1-voces-1000px/colombia-1.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                                        <img src="images/photos/portfolio/1.jpg" alt="1-IMG_3677" width="1000" height="667" />
                                         <ul class="payload">
+                                            
                                             <li>
-                                                <span class="type">Caption:</span> Something awesome
-                                            </li>
-                                            <li>
-                                                <span class="type">Location:</span> Somewhere awesome
+                                                <span class="type">Location:</span> Tokyo Fish Market portrait
                                             </li>
                                         </ul>
                                     </li>
