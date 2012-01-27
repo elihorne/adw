@@ -8,9 +8,9 @@
              </p></p>
 
 
-			<ul>
+			<ul class="items">
                       
-                            <a class="thumb photoholder" href="#" rel="">
+                            <a class="thumb photoholder2" href="#" rel="">
                                 <img src="images/photo-thumb.jpg"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
