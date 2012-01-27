@@ -8,8 +8,7 @@
              </p></p>
 
 
-			<ul class="items">
-                        <li>
+			
                             <a class="thumb photoholder" href="#" rel="">
                                 <img src="images/screens/photo-voices.jpg" width="235"/>
                                 <ul class="gallery">
@@ -356,11 +355,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span>Voces- Colombia</span>
-                        <li>
-                   </ul>
-                            
-
+                      
 
 
     <br><br>
