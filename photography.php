@@ -3,12 +3,12 @@
             <div class="bio">
                 <h3>PHOTOGRAPHY</h3>
                 <p>Photography has always played a large role in my work.  My greatest influence is the work of still photographers.  No matter
-                where I travel I almost always have a still camera with me.  This photo porfolio reperesents only a small portion of my photography work. 
-                Some of these photos have been publish and exhbitied on major sites, others are just records and my attempt at creating the most beautiful
-               . </p></p>
+                where I travel I almost always have a still camera with me.  This photo portfolio represents only a small portion of my photography work. 
+                Some of these photos have been publish and exhibited on major sites, others are just records and my attempt at creating the most beautiful.
+             </p></p>
 
 
-<ul class="items">
+			<ul class="items">
                         <li>
                             <a class="thumb photoholder" href="#" rel="">
                                 <img src="images/screens/photo-voices.jpg" width="235"/>
@@ -357,7 +357,8 @@
                                 </ul>
                             </a>
                             <span>Voces- Colombia</span>
-                            
+                        <li>
+                   </ul>
                             
 
 
