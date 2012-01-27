@@ -11,7 +11,7 @@
 			<ul class="items">
                       
                             <a class="thumb photoholder" href="#" rel="">
-                                <img src="images/screens/photo-voices.jpg" width="235"/>
+                                <img src="images/photo-thumb.jpg" width="235"/>
                                 <ul class="gallery">
                                     <li class="photo-item">
                                         <img src="images/photos/1-voces-1000px/colombia-1.jpg" alt="1-IMG_3677" width="1000" height="667" />
