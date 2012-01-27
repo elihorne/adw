@@ -2,13 +2,363 @@
             <? include('header.php'); ?>
             <div class="bio">
                 <h3>PHOTOGRAPHY</h3>
-                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="300" align="top" hspace="10">Andrew David Watson is a Director DP based in New York City. His specialty is a unique mix of stylized narrative approaches blended with a deep understanding of documentary storytelling. Andrew shoots documentaries like narratives, and narratives like documentaries.
-                 </p>
-                <p>Andrew's work on features, non-profits, and broadcast projects has taken him across the globe; Including shooting environmental issues in Colombia, virtual video game economies in China, nightlife in Germany and educational work in New Orleans.  Andrew DPed the IFC's documentary series "2008 Uncut" which involved extensive on location coverage of the 2008 election.  Andrew also DP'ed PBS / Art 21's web series "New York Up Close," profiling emerging new york city based artist.  Andrew is currently DPing the feature documentary CHARGE (in production), a cinematic look at Bolivia's lithium production, shot in 4k on the RED in extremely demanding situations. </p>
-                
-            
-                
-                <p>Andrew's recent directing credits include a series of short films for ETSY.com, which have received hundreds of thousands of views.  In addition, Andrew has worked as DP on various projects for PBS, TLC, NBC, MTV in additional to well know international clients such as Macy's, JWT, PUMA and The Tate Modern.  Beyond his freelance work, Andrew has taught as an adjunct professor in the Journalism department at Temple University (Spring & Fall 2009) and loves motorcycles.</p>
+                <p>Photography has always played a large role in my work.  My greatest influence is the work of still photographers.  No matter
+                where I travel I almost always have a still camera with me.  This photo porfolio reperesents only a small portion of my photography work. 
+                Some of these photos have been publish and exhbitied on major sites, others are just records and my attempt at creating the most beautiful
+               . </p></p>
+
+
+<ul class="items">
+                        <li>
+                            <a class="thumb photoholder" href="#" rel="">
+                                <img src="images/screens/photo-voices.jpg" width="235"/>
+                                <ul class="gallery">
+                                    <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-1.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-2.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-3.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-4.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-5.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-6.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-7.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                     <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-8.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                          <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-9.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-10.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-11.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-12.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-13.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-14.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-15.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-16.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-17.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-18.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-19.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-20.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-21.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>      
+                                    <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-22.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-23.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-24.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-25.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-26.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-27.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-28.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-29.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-30.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-31.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    
+                                        <li class="photo-item">
+                                        <img src="images/photos/1-voces-1000px/colombia-32.jpg" alt="2-IMG_3554" width="1000" height="667" />
+                                        <ul class="payload">
+                                            <li>
+                                                <span class="type">[Caption:</span> Something awesome
+                                            </li>
+                                            <li>
+                                                <span class="type">Location:</span> Somewhere awesome
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span>Voces- Colombia</span>
+                            
+                            
 
 
 
