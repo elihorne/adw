@@ -41,6 +41,15 @@ $('.super-pop.photo .right').live('click', function(){
     nextPhoto.addClass('active-photo');
     updateModal(nextPhoto);
     $('.super-pop img').attr('src', nextPhotoSrc);
+    
+    if(nextPhoto.find('.payload').length) {
+        targetPayload = nextPhoto.find('.payload').html();
+        
+        if(typeof targetPayload != 'undefined') {
+            $('.super-pop .payload').html(targetPayload);
+        }
+    }
+    event.preventDefault();
 });
 
 $('.super-pop.photo .left').live('click', function(){
@@ -52,10 +61,16 @@ $('.super-pop.photo .left').live('click', function(){
     nextPhoto.addClass('active-photo');
     updateModal(nextPhoto);
     $('.super-pop img').attr('src', nextPhotoSrc);
+    
+    if(nextPhoto.find('.payload').length) {
+        targetPayload = nextPhoto.find('.payload').html();
+        
+        if(typeof targetPayload != 'undefined') {
+            $('.super-pop .payload').html(targetPayload);
+        }
+    }
+    event.preventDefault();
 });
-
-
-
 
 showModal= function(targetThumb){
     
@@ -68,6 +83,7 @@ showModal= function(targetThumb){
         if(!$('.shadow').length) {
             $('.header').prepend('<div class="shadow">');
         }
+        
         $('.shadow').html('<div class="super-pop photo"><a class="close replaced" href="#">close</a><a href="#" class="left replaced">left</a><a href="#" class="right replaced">right</a><img src="'+targetData+'"/></div>');
         
         $('.super-pop img').load(function(){
@@ -81,8 +97,13 @@ showModal= function(targetThumb){
         
         
     } else {
-    
-        targetData = $(targetThumb).attr('rel');
+        
+        if($(targetThumb).hasClass('photo-item')) {
+            targetData = $(targetThumb).find('img').attr('src');
+            
+        } else {
+            targetData = $(targetThumb).attr('rel');
+        }
         
         
         if(!$('.shadow').length) {
@@ -140,6 +161,51 @@ $('.thumb').live('click', function(){
     }
     showModal($('.thumb.active'));    
 });
+
+
+
+
+
+
+
+$('.gallery-toggle').live('click', function(){
+    targetThumb = $(this).parents().find('.gallery .photo-item:first');
+    targetThumb.addClass('active-photo');
+    targetData = $(targetThumb).find('img').attr('src');
+    
+    if(!$('.shadow').length) {
+        $('.header').prepend('<div class="shadow">');
+    }
+    $('.shadow').html('<div class="super-pop photo"><a class="close replaced" href="#">close</a><a href="#" class="left replaced">left</a><a href="#" class="right replaced">right</a><img src="'+targetData+'"/></div>');
+    
+    $('.super-pop img').load(function(){
+        newWidth = $('.super-pop img').outerWidth();
+        newHeight = $('.super-pop img').outerHeight();
+        $('.super-pop').animate({
+            'margin-left' : -newWidth/2,
+            'margin-top' : -newHeight/2
+        }, 500);
+    });
+    
+    if($('.active-photo .payload').length){
+        targetPayload = $('.active-photo .payload').html();
+    } else {
+        targetPayload = '';
+    }
+    
+    if(typeof targetPayload != 'undefined') {
+        $('<ul class="payload">'+targetPayload+'</ul>').appendTo('.super-pop');
+    }
+    
+    $('.shadow').fadeIn('fast');
+    event.preventDefault();
+});
+
+
+
+
+
+
 
 $('.super-pop .close').live('click',function(){
     killModal();
@@ -304,6 +370,7 @@ deepLink();
 
 
 
+/*
 $(window).keydown(function(e) {
     if($('.super-pop').length) {
 	switch(e.which)
@@ -336,3 +403,4 @@ $(window).keydown(function(e) {
 	}
     }  
 });
+*/

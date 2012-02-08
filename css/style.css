@@ -6,6 +6,10 @@ color:#fff;
 font-size:15px;
 }
 
+ol, ul{
+margin:0;
+padding:0;
+}
 
 
 .wrap{
