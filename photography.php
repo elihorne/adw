@@ -281,7 +281,7 @@
                             <img src="images/photos/portfolio/24.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Seoul, South Korea
+                                    <span class="type">Location:</span> Busan, South Korea
                                 </li>
                             </ul>
                         </li>
@@ -436,15 +436,7 @@
                             </ul>
                         </li>
                         
-                             <li class="photo-item">
-                            <img src="images/photos/portfolio/40.jpg" alt="1-IMG_3677" width="1000" height="667" />
-                            <ul class="payload">
-                                <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
-                                </li>
-                            </ul>
-                        </li>
-                             <li class="photo-item">
+                        <li class="photo-item">
                             <img src="images/photos/portfolio/41.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
@@ -452,7 +444,8 @@
                                 </li>
                             </ul>
                         </li>
-                             <li class="photo-item">
+                        
+                        <li class="photo-item">
                             <img src="images/photos/portfolio/42.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
@@ -496,6 +489,48 @@
                                 </li>
                             </ul>
                         </li>
+                        
+                          <li class="photo-item">
+                            <img src="images/photos/portfolio/47.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <ul class="payload">
+                                <li>
+                                    <span class="type">Location:</span> Buenos Aires, Argentina
+                                </li>
+                            </ul>
+                        </li>
+                       
+                       
+                         <li class="photo-item">
+                            <img src="images/photos/portfolio/48.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <ul class="payload">
+                                <li>
+                                    <span class="type">Location:</span> Mexico City, Mexico
+                                </li>
+                            </ul>
+                        </li>
+                       
+                       
+                         <li class="photo-item">
+                            <img src="images/photos/portfolio/49.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <ul class="payload">
+                                <li>
+                                    <span class="type">Location:</span> Tokyo Fish Market, Tokyo
+                                </li>
+                            </ul>
+                        </li>
+                       
+                       
+                         <li class="photo-item">
+                            <img src="images/photos/portfolio/50.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <ul class="payload">
+                                <li>
+                                    <span class="type">Location:</span> Rural Beijing, China
+                                </li>
+                            </ul>
+                        </li>
+                       
+                       
+                       
                        
                         
                     </ul>
