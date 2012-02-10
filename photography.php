@@ -52,7 +52,7 @@
                 <div class="items">
                     <ul class="gallery">
                         <li class="photo-item">
-                            <img src="images/photos/portfolio/1.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <img src="images/photos/portfolio/1.jpg" />
                             <ul class="payload">
                                 <li>
                                     <span class="type">Location:</span> Tokyo, Japan
