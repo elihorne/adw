@@ -2,8 +2,7 @@
             <? include('header.php'); ?>
             <div class="bio">
                 <h3>PHOTOGRAPHY</h3>
-                <p>Photography has always played a large role in my work.  My greatest influence by far is still photography and I find my ability to read natural light comes from years of shooting still photography.  I have been pretty fourtuante to travel to some amazing place and met some amazing people, and I have always had a camera in my hand.  This photo portfolio represents only a small portion of my photography work over the last decade. 
-                Some of these photos have been published, exhibited and used in multimedia projects, other are just my attempt to capture a perfect image. Click below to launch a slideshow.</p>
+                <p>Photography has always played a large role in my work. My greatest influence by far is still photography and I find my ability to read and utilize natural light comes from years of shooting stills.  This photo portfolio represents only a small portion of my photography work over the last decade. Some of these photos have been published, exhibited and used in multimedia projects, while others are just my attempt to capture a perfect image.  This portfolio currently contains 50 slides. </p>
                 <style type="text/css">
                     .gallery-launcher{
                     position:relative;
