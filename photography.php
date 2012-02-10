@@ -524,7 +524,7 @@
                             <img src="images/photos/portfolio/50.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Rural Beijing, China
+                                    <span class="type">Location:</span> Rural Beijing, China -- CLICK ABOVE TO EXIT
                                 </li>
                             </ul>
                         </li>
