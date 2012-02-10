@@ -103,7 +103,7 @@
                             <img src="images/photos/portfolio/6.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Medellin, Colombia
+                                    <span class="type">Location:</span> Istanbul, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -153,7 +153,7 @@
                             <img src="images/photos/portfolio/11.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Bogota, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -163,7 +163,7 @@
                             <img src="images/photos/portfolio/12.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Istanbul, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -173,7 +173,7 @@
                             <img src="images/photos/portfolio/13.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Milan, Italy
                                 </li>
                             </ul>
                         </li>
@@ -183,7 +183,7 @@
                             <img src="images/photos/portfolio/14.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Santa Rosa de Oso, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -193,7 +193,7 @@
                             <img src="images/photos/portfolio/15.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Left: Imzir, Turkey -- Right: Cochabamba, Bolivia
                                 </li>
                             </ul>
                         </li>
@@ -203,7 +203,7 @@
                             <img src="images/photos/portfolio/16.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Austria Alps
                                 </li>
                             </ul>
                         </li>
@@ -213,8 +213,7 @@
                             <img src="images/photos/portfolio/17.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
-                                </li>
+                                    <span class="type">Location:</span> Rural Beijing, China                                </li>
                             </ul>
                         </li>
                             
@@ -223,7 +222,7 @@
                             <img src="images/photos/portfolio/18.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Jeju, South Korea
                                 </li>
                             </ul>
                         </li>
@@ -232,7 +231,7 @@
                             <img src="images/photos/portfolio/19.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Santa Rosa de Oso, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -242,7 +241,7 @@
                             <img src="images/photos/portfolio/20.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Budapest, Hungry
                                 </li>
                             </ul>
                         </li>
@@ -252,7 +251,7 @@
                             <img src="images/photos/portfolio/21.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> High Plateau outside Oruro, Bolivia
                                 </li>
                             </ul>
                         </li>
@@ -262,7 +261,7 @@
                             <img src="images/photos/portfolio/22.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> 14,500 ft -- Silver mines of Potosi, Bolivia
                                 </li>
                             </ul>
                         </li>
@@ -272,7 +271,7 @@
                             <img src="images/photos/portfolio/23.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Yangshuo, China
                                 </li>
                             </ul>
                         </li>
@@ -282,7 +281,7 @@
                             <img src="images/photos/portfolio/24.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Seoul, South Korea
                                 </li>
                             </ul>
                         </li>
@@ -292,7 +291,7 @@
                             <img src="images/photos/portfolio/25.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Santa Rosa de Oso, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -302,7 +301,7 @@
                             <img src="images/photos/portfolio/26.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Rome, Italy
                                 </li>
                             </ul>
                         </li>
@@ -312,7 +311,7 @@
                             <img src="images/photos/portfolio/27.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Rome, Italy
                                 </li>
                             </ul>
                         </li>
@@ -322,7 +321,7 @@
                             <img src="images/photos/portfolio/28.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Yangshuo, China
                                 </li>
                             </ul>
                         </li>
@@ -331,7 +330,7 @@
                             <img src="images/photos/portfolio/29.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Potosi, Bolivia
                                 </li>
                             </ul>
                         </li>
@@ -341,7 +340,7 @@
                             <img src="images/photos/portfolio/30.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Left: Potosi, Bolivia -- Right: Istanbul, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -350,7 +349,7 @@
                             <img src="images/photos/portfolio/31.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Santa Rosa de Oso, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -360,7 +359,7 @@
                             <img src="images/photos/portfolio/32.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Left: Potosi, Bolivia -- Right: La Paz, Bolivia
                                 </li>
                             </ul>
                         </li>
@@ -369,7 +368,7 @@
                             <img src="images/photos/portfolio/33.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Teotihuacan, Mexico City, Mexico
                                 </li>
                             </ul>
                         </li>
@@ -378,7 +377,7 @@
                             <img src="images/photos/portfolio/34.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Medellin, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -387,7 +386,7 @@
                             <img src="images/photos/portfolio/35.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Cappadocia, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -396,7 +395,7 @@
                             <img src="images/photos/portfolio/36.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Bogota, Colombia
                                 </li>
                             </ul>
                         </li>
@@ -405,7 +404,7 @@
                             <img src="images/photos/portfolio/37.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Istanbul, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -414,7 +413,7 @@
                             <img src="images/photos/portfolio/38.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Busan, South Korea
                                 </li>
                             </ul>
                         </li>
@@ -423,7 +422,7 @@
                             <img src="images/photos/portfolio/39.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Istanbul, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -432,7 +431,7 @@
                             <img src="images/photos/portfolio/40.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Cappadocia, Turkey
                                 </li>
                             </ul>
                         </li>
@@ -449,7 +448,7 @@
                             <img src="images/photos/portfolio/41.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Changsha, China
                                 </li>
                             </ul>
                         </li>
@@ -457,7 +456,7 @@
                             <img src="images/photos/portfolio/42.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Tokyo, Japan
                                 </li>
                             </ul>
                         </li>
@@ -466,8 +465,8 @@
                             <img src="images/photos/portfolio/43.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
-                                </li>
+                                    <span class="type">Location:</span> Budapest, Hungry
+                               </li>
                             </ul>
                         </li>
                         
@@ -475,7 +474,7 @@
                             <img src="images/photos/portfolio/44.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Nagoya & Kyoto, Japan
                                 </li>
                             </ul>
                         </li>
@@ -484,7 +483,7 @@
                             <img src="images/photos/portfolio/45.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Rural Beijing, China 
                                 </li>
                             </ul>
                         </li>
@@ -493,7 +492,7 @@
                             <img src="images/photos/portfolio/46.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Tokyo Fish Market portrait
+                                    <span class="type">Location:</span> Busan, South Korea
                                 </li>
                             </ul>
                         </li>
