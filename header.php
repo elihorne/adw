@@ -40,7 +40,7 @@
                         </li>
                  
                         <li>
-                            <a href="./bio.php">Bio &amp; Contact</a>
+                            <a href="./bio.php">ABOUT</a>
                         </li>
                         
 						 <li>
