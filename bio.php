@@ -11,33 +11,33 @@
                 
                 <p>
 
-- I'm a NYC based Director / DP with an emphasize on creative nonfiction, with an overlap into commercial and narrative. <br>
+<p>- I'm a NYC based Director / DP with an emphasize on creative nonfiction, with an overlap into commercial and narrative. </p>
 
-- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart.  <br>
+<p>- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart.  </p>
 
-- By this point I have shot in over 10 countries, the highlights being Bolivia, Colombia and China.  I have travel to upwards of 20.  <br>
+<p>- By this point I have shot in over 10 countries, the highlights being Bolivia, Colombia and China.  I have travel to upwards of 20. </p>
 
-- I define my approach to lighting as naturalistic and minimalistic. My style is further defined by framing and movement, with a strong connection to still photography.  <br>
+<p>- I define my approach to lighting as naturalistic and minimalistic. My style is further defined by framing and movement, with a strong connection to still photography.  </p>
 
-- I covered the 2008 election for a doc series for the IFC.  I got to hang out on Obama's plane and drive in a motorcade.  Pretty awesome.  <br>
+<p>- I covered the 2008 election for a doc series for the IFC.  I got to hang out on Obama's plane and drive in a motorcade.  Pretty awesome.  </p>
 
-- I have worked with crews as small as just a producer and as big as having 10+ clients watching in video village. Not to mention art department, G&E and the rest. <br>
+<p>- I have worked with crews as small as just a producer and as big as having 10+ clients watching in video village. Not to mention art department, G&E and the rest. </p>
 
-- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  <br>
+<p>- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  </p>
 
-- Some of my agency work includes: JWT, Draft FCB, AB&C, Pipeline NY <br>
+<p>- Some of my agency work includes: JWT, Draft FCB, AB&C, Pipeline NY </p>
 
-- A few networks I have shot for include: PBS, Showtime, IFC, TLC, MTV, <br>
+<p>- A few networks I have shot for include: PBS, Showtime, IFC, TLC, MTV, </p>
 
-- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA <br>
+<p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
 
-- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story.  <br>
+<p>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. </p>
 
-- I wasn't on a plane until I was 21.  Since I have racked up a ridiculous amount of miles, recognize staff at JFK, have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport!  <br>
+<p>- I wasn't on a plane until I was 21.  Since I have racked up a ridiculous amount of miles, recognize staff at JFK, have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport!  </p>
 
-- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that too. By this point I have worked in a majority of the country.  <br>
+<p>- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that too. By this point I have worked in a majority of the country.  </p>
 
-- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras…  <br>
+<p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras…  </p>
 
                 
                 
