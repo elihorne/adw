@@ -180,27 +180,34 @@
                             </a>
                             <span class="title">PETA: Promo</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
-                                <img src="images/screens/dentist.png"  width="235" />
+             
+                        
+                        
+                                     <li>
+                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
+                                <img src="images/screens/vouge-thumb.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Susquehanna Bank:</span>  60 second spot
+
+                                        <span class="type">VOUGE:</span>  Fashion Fund Promo & Intro
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Scott Whitham
+                                        <span class="type">Director:</span>  Annie and Ricki
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                        <span class="type">Production Company:</span>  Break Thru Films
                                     </li>
-                                  
                                 </ul>
                             </a>
-                            <span class="title">Susquehanna: 1:00 spot</span>
+                            <span class="title"> VOUGE: Fashion Fund</span>
                         </li>
+                        
+                        
+                        
+                        
                   
                    <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/24052932">
@@ -284,6 +291,31 @@
                         </li>
                         
                         
+                                   <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
+                                <img src="images/screens/dentist.png"  width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Susquehanna Bank:</span>  60 second spot
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">Susquehanna: 1:00 spot</span>
+                        </li>
+                        
+                        
+                        
+                        
                       <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
                                 <img src="images/screens/counter-doers-spots.png" width="235" />
@@ -305,28 +337,9 @@
                             <span class="title"> Susquehanna: :30 Spot &amp; Doers</span>
                         </li>
                         
-                        <li>
-                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
-                                <img src="images/screens/vouge-thumb.jpg" width="235" />
-                                      <ul class="payload">
-                                    <li>
-
-                                        <span class="type">VOUGE:</span>  Fashion Fund Promo & Intro
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Annie and Ricki
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Break Thru Films
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title"> VOUGE: Fashion Fund</span>
-                        </li>
                         
+                        
+           
                         
                        
                     </ul>
