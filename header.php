@@ -32,7 +32,7 @@
                 <nav class="sections">
                     <ul>
                         <li>
-                            <a href=".">Films</a>
+                            <a href=".">MOTION</a>
                         </li>
                         
                          <li>
