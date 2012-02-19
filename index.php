@@ -199,7 +199,7 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">SB: Commercial</span>
+                            <span class="title">Susquehanna: 1:00 spot</span>
                         </li>
                   
                    <li>
@@ -207,7 +207,7 @@
                                 <img src="images/screens/art21-thumb.jpg"  width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">ART 21:</span>  New York Up Close - Trailer
+                                        <span class="type">ART 21: </span>  New York Up Close - Trailer
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
@@ -302,7 +302,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> SB: Counter &amp; Doers</span>
+                            <span class="title"> Susquehanna: :30 Spot &amp; Doers</span>
                         </li>
                         
                         <li>
