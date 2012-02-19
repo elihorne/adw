@@ -119,7 +119,7 @@
                                     <li>
                                         <span class="type">Production Company:</span>  Radiant Features                                    									</li>
                                       <li>
-                                        <span class="type">Location:</span>  Georgetown, Grand Cayman / New York City / Philadelphia / Camden, Me.                                    									</li>
+                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / Philadelphia / Camden, Me.                                    									</li>
                                 </ul>
                             </a>
                             <span class="title">Camana Bay: Design Series</span>
