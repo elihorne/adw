@@ -13,9 +13,9 @@
 
 <p>- I'm a NYC based Director / DP with an emphasize on creative nonfiction, with an overlap into commercial and narrative. </p>
 
-<p>- I love anything and everything with two wheels, especially vintage <b>motorcycles.</b>  It keeps me a kid at heart.  </p>
+<p>- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart.  </p>
 
-<p>- By this point I have shot in over 10 countries, the highlights being <b>Bolivia, Colombia and China.</b>  I have travel to upwards of 20. </p>
+<p>- By this point I have shot in over 10 countries, the highlights being Bolivia, Colombia and China.  I have travel to upwards of 20. </p>
 
 <p>- I define my approach to lighting as naturalistic and minimalistic. My style is further defined by framing and movement, with a strong connection to still photography.  </p>
 
@@ -23,13 +23,13 @@
 
 <p>- I have worked with crews as small as just a producer and as big as having 10+ clients watching in video village. Not to mention art department, G&E and the rest. </p>
 
-<p>- I have been <b>bitten by fire ants</b> while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  </p>
+<p>- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  </p>
 
-<p>- Some of my agency work includes: <b>JWT, Draft FCB, AB&C, Pipeline NY</b> </p>
+<p>- Some of my agency work includes: JWT, Draft FCB, AB&C, Pipeline NY </p>
 
-<p>- A few networks I have shot for include: <b>PBS, Showtime, IFC, TLC, MTV </b> </p>
+<p>- A few networks I have shot for include: PBS, Showtime, IFC, TLC, MTV, </p>
 
-<p>- Some clients and brands I have shot for include: <b>ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern</b> </p>
+<p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
 
 <p>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. </p>
 
