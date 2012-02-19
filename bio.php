@@ -33,9 +33,9 @@
 
 <p>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. </p>
 
-<p>- I didn’t fly on a plane until I was 21.  Since then I have racked up a ridiculous amount of miles; recognize staff at JFK; have elite status with Delta and want to move to Amsterdam partly because I love Schiphol (spelling?) Airport!  </p>
+<p>- I didn't fly on a plane until I was 21.  Since then I have racked up a ridiculous amount of miles; recognize staff at JFK; have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport!  </p>
 
-<p>- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that, too. By this point I have worked in most major US metropiltan areas.  </p>
+<p>- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that, too. By this point I have worked in most major US metropolitan areas.  </p>
 
 <p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras.</p>
 
