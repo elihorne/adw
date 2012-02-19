@@ -61,6 +61,7 @@
                             </a>
                             <span class="title">Etsy: Liberty Vintage</span>
                         </li>
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
                                 <img src="images/screens/etsy-brazenhead-books.png" width="235" />
