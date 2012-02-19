@@ -100,8 +100,32 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Weathervane Series</span>
+                            <span class="title">Shaking Through: Music Series</span>
                         </li>
+                        
+                        
+                           
+                        <li>
+                           <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
+                                <img src="images/screens/camanabay.jpg" width="235" />
+                             	<ul class="payload">
+                                   
+                                    <li>
+                                        <span class="type">Camana Bay:</span>Design Series
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Production Company:</span>  Radiant Features                                    									</li>
+                                      <li>
+                                        <span class="type">Location:</span>  Georgetown, Grand Cayman / New York City / Philadelphia / Camden, Me.                                    									</li>
+                                </ul>
+                            </a>
+                            <span class="title">Camana Bay: Design Series</span>
+                        </li>
+                        
+                        
                     </ul>
                 </div>
                 
