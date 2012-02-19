@@ -5,9 +5,9 @@
                 <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="300" align="top" hspace="10"></p>
                 
                 
-                <p>
                 
-                List are more fun then awkward third person bios, so here are some interesting facts:</P>
+                
+                <P><b>List are more fun then awkward third person bios, so here are some interesting facts:</b></P>
                 
                 <p>
 
@@ -37,7 +37,7 @@
 
 <p>- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that too. By this point I have worked in a majority of the country.  </p>
 
-<p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras…  </p>
+<p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras.</p>
 
                 
                 
