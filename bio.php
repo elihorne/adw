@@ -2,7 +2,7 @@
             <? include('header.php'); ?>
             <div class="bio">
                 <h3>About</h3>
-                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="300" align="top" hspace="10"></p>
+                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="350" align="top" hspace="10"></p>
                 
                 
                 
