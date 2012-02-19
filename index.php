@@ -266,7 +266,7 @@
                                       <ul class="payload">
                                     <li>
 
-                                        <span class="type">VOUGE PROMO:</span>  Fashion Fund
+                                        <span class="type">VOUGE:</span>  Fashion Fund Promo & Intro
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
@@ -279,7 +279,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> VOUGE PROMO: Fashion Fund</span>
+                            <span class="title"> VOUGE: Fashion Fund</span>
                         </li>
                         
                         
