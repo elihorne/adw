@@ -9,7 +9,7 @@
                 
                 <P><b>List are more fun then awkward third person bios, so here are some interesting facts:</b></P>
                 
-                <p>
+<p>
 
 <p>- I'm a NYC based Director / DP with an emphasis on creative nonfiction, with an overlap into commercial and narrative </p>
 
@@ -39,18 +39,13 @@
 
 <p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras.</p>
 
+</p>
+     
+                    
+<p><b>Wanna work on something together? Or just drink some coffee? Drop me a line:</b></p>                
                 
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                </p>
-                
+       
+           
                 
 
 
