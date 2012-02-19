@@ -55,6 +55,7 @@
             andrewdavidwatson@gmail.com</br>  
             (c) 215.391.3850</br> 
             (w) 347.926.3456</b>
+            <a href="http://www.twitter.com/andrewdwatson">twitter/andrewdavidwatson</a>
             </p>
             
             <br><br><br><br>
