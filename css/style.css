@@ -175,6 +175,11 @@ line-height:16px;
 display:block;
 }
 
+a, a:visited, a:link, a:active, a:hover {
+text-transform: uppercase;
+color:#ff0101;
+}
+
 .shadow{
 display:none;
 position:fixed;
