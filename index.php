@@ -202,6 +202,26 @@
                             <span class="title">SB: Commercial</span>
                         </li>
                   
+                   <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/24052932">
+                                <img src="images/screens/art21-thumb.jpg"  width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">ART 21:</span>  New York Up Close - Trailer
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                
+                                        <li>
+                                        <span class="type">Production Company:</span>  PBS / Art 21
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">PBS/Art21: New York Up Close</span>
+                        </li>
+
                         
                      
                         
