@@ -152,7 +152,7 @@ min-width:225px;
 display:block;
 color:#ff0101;
 text-transform:uppercase;
-font-size:12px;
+font-size:14px;
 margin-top:0;
 display:block;
 background:rgba(0,0,0,0.5);
@@ -213,7 +213,7 @@ padding:0;
 .super-pop .payload{
 line-height:16px;
 margin:0;
-font-size:13px;
+font-size:12px;
 padding:0;
 color:#f1f1f1;
 text-align:left;
