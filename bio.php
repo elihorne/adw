@@ -2,36 +2,14 @@
             <? include('header.php'); ?>
             <div class="bio">
                 <h3>About</h3>
-                <p>List are more fun then awkward third person bios, so here are some interesting facts:<p>
-<p>
-- I'm a NYC based Director / DP with an emphasize on creative nonfiction, with an overlap into commercial and narrative. <br>
-
-- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart. <br>
-
-- By this point I have shot in over 10 countries, the highlights being Bolivia, Colombia and China.  I have travel to upwards of 20. <br>
-
-- I define my approach to lighting as naturalistic and minimalistic. My style is further defined by framing and movement, with a strong connection to still photography. <br>
-
-- I covered the 2008 election for a doc series for the IFC.  I got to hang out on Obama's plane and drive in a motorcade.  Pretty awesome. <br>
-
-- I have worked with crews as small as just a producer and as big as having 10+ clients watching in video village. Not to mention art department, G&E and the rest.<br>
-
-- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it. <br>
-
-- Some of my agency work includes: JWT, Draft FCB, AB&C, Pipeline NY<br>
-
-- A few networks I have shot for include: PBS, Showtime, IFC, TLC, MTV,<br>
-
-- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA<br>
-
-- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. <br>
-
-- I wasn't on a plane until I was 21.  Since I have racked up a ridiculous amount of miles, recognize staff at JFK, have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport! <br>
-
-- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that too. By this point I have worked in a majority of the country. <br>
-
-- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras… <br>
-</p>
+                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="300" align="top" hspace="10">Andrew David Watson is a Director DP based in New York City. His specialty is a unique mix of stylized narrative approaches blended with a deep understanding of documentary storytelling. Andrew shoots documentaries like narratives, and narratives like documentaries.
+                 </p>
+                <p>Andrew's work on features, non-profits, and broadcast projects has taken him across the globe; Including shooting environmental issues in Colombia, virtual video game economies in China, nightlife in Germany and educational work in New Orleans.  Andrew DPed the IFC's documentary series "2008 Uncut" which involved extensive on location coverage of the 2008 election.  Andrew also DP'ed PBS / Art 21's web series "New York Up Close," profiling emerging new york city based artist.  Andrew is currently DPing the feature documentary CHARGE (in production), a cinematic look at Bolivia's lithium production, shot in 4k on the RED in extremely demanding situations. </p>
+                
+                <p><img class="shadowbox" src="images/screens/clients-wide.jpg" width="650"></p>
+            
+                
+                <p>Andrew's recent directing credits include a series of short films for ETSY.com, which have received hundreds of thousands of views.  In addition, Andrew has worked as DP on various projects for PBS, TLC, NBC, MTV in additional to well know international clients such as Macy's, JWT, PUMA and The Tate Modern.  Beyond his freelance work, Andrew has taught as an adjunct professor in the Journalism department at Temple University (Spring & Fall 2009) and loves motorcycles.</p>
 
 
 

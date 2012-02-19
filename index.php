@@ -114,7 +114,7 @@
                              	<ul class="payload">
                                    
                                     <li>
-                                        <span class="type">Camana Bay:</span> Design Series
+                                        <span class="type">Camana Bay:</span>Design Series
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director of Photography
@@ -337,7 +337,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> Susquehanna: :30 Spot</span>
+                            <span class="title"> Susquehanna: :30 Spot &amp; Doers</span>
                         </li>
                         
                         
