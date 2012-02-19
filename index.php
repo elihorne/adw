@@ -22,6 +22,8 @@
                             </a>
                             <span class="title">2011 Creative Reel</span>
                         </li>
+                        
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
                                 <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="235" />
@@ -41,11 +43,15 @@
                         </li>
                     </ul>
                 </div>
+                
+                
+                
+                
                 <div class="group">
                     <h3>Projects</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  									Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="235" />
                                      <ul class="payload">
                                     <li>
@@ -61,6 +67,7 @@
                             </a>
                             <span class="title">Etsy: Liberty Vintage</span>
                         </li>
+                        
                         
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
@@ -80,11 +87,7 @@
                             <span class="title">Etsy: Brazenhead books</span>
                         </li>
                         
-                        
-                     
-                        
-                        
-                        
+
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
                                 <img src="images/screens/weathervane-music-series.png" width="235" />
@@ -119,7 +122,7 @@
                                     <li>
                                         <span class="type">Production Company:</span>  Radiant Features                                    									</li>
                                       <li>
-                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / Philadelphia / Camden, Me.                                    									</li>
+                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / 										Philadelphia / Camden, Me.                                    														</li>
                                 </ul>
                             </a>
                             <span class="title">Camana Bay: Design Series</span>
@@ -189,7 +192,7 @@
                                       <ul class="payload">
                                     <li>
 
-                                        <span class="type">VOUGE:</span>  Fashion Fund Promo & Intro
+                                        <span class="type">VOUGE: </span>  Fashion Fund Promo & Intro
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
@@ -202,7 +205,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> VOUGE: Fashion Fund</span>
+                            <span class="title"> VOUGE: Fashion Fund Promo</span>
                         </li>
                         
                         
