@@ -107,7 +107,7 @@
                            
                         <li>
                            <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
-                                <img src="images/screens/camanabay.jpg" width="235" />
+                                <img src="images/screens/camanabay-thumb.jpg" width="235" />
                              	<ul class="payload">
                                    
                                     <li>
