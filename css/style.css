@@ -252,7 +252,7 @@ position:absolute;
 right:0;
 top:0;
 height:100%;
-width:5%;
+width:7%;
 z-index:500;
 }
 
@@ -261,7 +261,7 @@ position:absolute;
 left:0;
 top:0;
 height:100%;
-width:15%;
+width:7%;
 z-index:500;
 display:none;
 }
