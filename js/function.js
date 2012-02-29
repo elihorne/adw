@@ -32,43 +32,61 @@ updateModal = function(nextSource){
     
 };
 
-$('.super-pop.photo .right').live('click', function(){
-    currentPhoto = $('.active-photo');
-    nextPhoto = currentPhoto.next();
-    nextPhotoSrc = nextPhoto.find('img').attr('src');
-    // update the modal
-    currentPhoto.removeClass('active-photo');
-    nextPhoto.addClass('active-photo');
-    updateModal(nextPhoto);
-    $('.super-pop img').attr('src', nextPhotoSrc);
-    
-    if(nextPhoto.find('.payload').length) {
-        targetPayload = nextPhoto.find('.payload').html();
+
+
+goLeft = function(){
+    if($('.super-pop .left').is(':visible')) {
+        currentPhoto = $('.active-photo');
+        nextPhoto = currentPhoto.prev();
+        nextPhotoSrc = nextPhoto.find('img').attr('src');
+        // update the modal
+        currentPhoto.removeClass('active-photo');
+        nextPhoto.addClass('active-photo');
+        updateModal(nextPhoto);
+        $('.super-pop img').attr('src', nextPhotoSrc);
         
-        if(typeof targetPayload != 'undefined') {
-            $('.super-pop .payload').html(targetPayload);
+        if(nextPhoto.find('.payload').length) {
+            targetPayload = nextPhoto.find('.payload').html();
+            
+            if(typeof targetPayload != 'undefined') {
+                $('.super-pop .payload').html(targetPayload);
+            }
         }
+    } else {
+        killModal();
     }
+};
+
+goRight = function(){
+    if($('.super-pop .right').is(':visible')) {
+        currentPhoto = $('.active-photo');
+        nextPhoto = currentPhoto.next();
+        nextPhotoSrc = nextPhoto.find('img').attr('src');
+        // update the modal
+        currentPhoto.removeClass('active-photo');
+        nextPhoto.addClass('active-photo');
+        updateModal(nextPhoto);
+        $('.super-pop img').attr('src', nextPhotoSrc);
+        
+        if(nextPhoto.find('.payload').length) {
+            targetPayload = nextPhoto.find('.payload').html();
+            
+            if(typeof targetPayload != 'undefined') {
+                $('.super-pop .payload').html(targetPayload);
+            }
+        }
+    } else {
+        killModal();
+    };
+};
+
+$('.super-pop.photo .right').live('click', function(){
+    goRight();
     event.preventDefault();
 });
 
 $('.super-pop.photo .left').live('click', function(){
-    currentPhoto = $('.active-photo');
-    nextPhoto = currentPhoto.prev();
-    nextPhotoSrc = nextPhoto.find('img').attr('src');
-    // update the modal
-    currentPhoto.removeClass('active-photo');
-    nextPhoto.addClass('active-photo');
-    updateModal(nextPhoto);
-    $('.super-pop img').attr('src', nextPhotoSrc);
-    
-    if(nextPhoto.find('.payload').length) {
-        targetPayload = nextPhoto.find('.payload').html();
-        
-        if(typeof targetPayload != 'undefined') {
-            $('.super-pop .payload').html(targetPayload);
-        }
-    }
+    goLeft();
     event.preventDefault();
 });
 
@@ -165,9 +183,6 @@ $('.thumb').live('click', function(){
 
 
 
-
-
-
 $('.gallery-toggle').live('click', function(){
     targetThumb = $(this).parents().find('.gallery .photo-item:first');
     targetThumb.addClass('active-photo');
@@ -200,10 +215,6 @@ $('.gallery-toggle').live('click', function(){
     $('.shadow').fadeIn('fast');
     event.preventDefault();
 });
-
-
-
-
 
 
 
@@ -251,77 +262,16 @@ lightbox = function(targetImage) {
 
 
 showViaKeypress = function(message){
-    if($('.super-pop').length) {
-		$('.super-pop').remove();
-	} else {
-		$('body').append('<div class="super-pop">'+message+'</div>');
-		$('.super-pop').fadeIn('fast');
-		setTimeout("$('.super-pop').remove();", 1500);
-	};
-	
+   
 	
 	if(message == 'right') {
-			if($('.active-photo').is(':last-child')) {
-				return false;
-			} else {
-				$('article.active .active-photo').removeClass('active-photo').next().addClass('active-photo');
-			};
+			goRight();
 	};
 	
 	if(message == 'left') {
-			if($('.active-photo').is(':first-child')) {
-				return false;
-			} else {
-				$('article.active .active-photo').removeClass('active-photo').prev().addClass('active-photo');
-			};
+			goLeft();
+	};
 
-	};
-	
-	if(message == 'down') {
-		if($('.thumb.active').is(':last-child')) {
-			return false;
-		} else {
-			
-			xCount = 1 + $('.thumb.active').prevAll().length;
-			console.log(xCount);
-			
-			
-			//$('thumb.active').removeClass('active-photo');
-			
-			//if(xCount > $('article.active').next().find('li').length) {
-			//	console.log('inequity!');
-			//	xCount = $('article.active').next().find('li').length;
-			//};
-			
-			$('.thumb.active').removeClass('active').next().find('li:nth-child('+xCount+')').addClass('active');
-			
-			targetThumb = $('.thumb.active');
-			showModal(targetThumb);
-			//$('article.active').removeClass('active').addClass('inactive').next().addClass('active');
-			
-		};
-	};
-	
-	if(message == 'up') {
-		if($('article.active').is(':first-child')) {
-			return false;
-		} else {
-			
-			xCount = 1 + $('.active-photo').prevAll().length;
-			//console.log(xCount);
-			
-			$('.active-photo').removeClass('active-photo');
-			
-			
-			
-			if(xCount > $('article.active').prev().find('li').length) {
-				//console.log('inequity!');
-				xCount = $('article.active').prev().find('li').length;
-			};
-			$('article.active').prev().find('li:nth-child('+xCount+')').addClass('active-photo');
-			$('article.active').removeClass('active').addClass('inactive').prev().addClass('active');
-		};
-	};
 	
 };
 
@@ -367,40 +317,20 @@ deepLink = function(){
 
 deepLink();
 
-
-
-
-/*
 $(window).keydown(function(e) {
     if($('.super-pop').length) {
-	switch(e.which)
-	{
-		// user presses the "escape"
-		case 27:	killModal();
-					break;
-					
-		case 13:	showViaKeypress('enter');
-					break;	
-
-		// user presses the "right" key
-		case 39:	showViaKeypress('right');
-					break;
-
-		// user presses the "left" key
-		case 37:	showViaKeypress("left", "&#8612;");
-					break;
-
-		// user presses the "top" key
-		case 38:	showViaKeypress("up");
-					break;
-					
-		// user presses the "g" key
-		case 40:	showViaKeypress("down");
-					break;	
-					
-		// user presses the "f" key
-		case 32:	showViaKeypress("spacebar");
-	}
+        switch(e.which) {
+            // user presses "escape"
+            case 27:    killModal();
+                        break;
+    
+            // user presses the "right" key
+            case 39:    showViaKeypress('right');
+                        break;
+    
+            // user presses the "left" key
+            case 37:    showViaKeypress("left", "&#8612;");
+                        break;
+        }
     }  
 });
-*/
