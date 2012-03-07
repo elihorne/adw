@@ -192,20 +192,20 @@
                                       <ul class="payload">
                                     <li>
 
-                                        <span class="type">VOUGE: </span>  Fashion Fund Promo & Intro
+                                        <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Annie and Ricki
+                                        <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Break Thru Films
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title"> VOUGE: Fashion Fund Promo</span>
+                            <span class="title"> VOGUE: Fashion Fund Promo</span>
                         </li>
                         
                         
