@@ -20,7 +20,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">2011 Creative Reel</span>
+                            <span class="title">2012 Creative Reel</span>
                         </li>
                         
                         
@@ -39,7 +39,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">2011 TV/Eng Reel</span>
+                            <span class="title">2012 TV/Eng Reel</span>
                         </li>
                     </ul>
                 </div>
@@ -58,7 +58,7 @@
                                         <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -77,7 +77,7 @@
                                         <span class="type">Brazenhead Books</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -168,7 +168,7 @@
                                         <span class="type">Liberty Tools</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -216,7 +216,7 @@
                                         <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Roles:</span>  DP on intro, Additional camera on series
                                     </li>
                                     <li>
                                         <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
