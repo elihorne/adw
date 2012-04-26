@@ -142,7 +142,7 @@
                     
                               <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
-                                <img src="images/screens/rocket1.jpg" width="235" />
+                                <img src="images/screens/rocket.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
