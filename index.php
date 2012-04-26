@@ -145,7 +145,7 @@
                                 <img src="images/screens/rocket1.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">The American Eagle Flies Again - Louis "Rocket" Re</span>
+                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, Director of Photographer
