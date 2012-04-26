@@ -139,6 +139,27 @@
                     <h3> </h3>
                     <ul class="items">
                     
+                    
+                              <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
+                                <img src="images/screens/rocket1.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">The American Eagle Flies Again - Louis "Rocket" Re</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                    </li>
+                                    <li>
+                                        <span class="type">Personal Project</span>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Louis "Rocket" Re</span>
+                        </li>
+                        
+                    
+                    
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
                                 <img src="images/screens/film-liberty.jpg" width="235" />
@@ -212,26 +233,7 @@
                         
                         
                   
-                   <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/24052932">
-                                <img src="images/screens/art21-thumb.jpg"  width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">ART 21: </span>  New York Up Close - Trailer
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                
-                                        <li>
-                                        <span class="type">Production Company:</span>  PBS / Art 21
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">PBS/Art21: New York Up Close</span>
-                        </li>
-
+              
                         
                      
                         
