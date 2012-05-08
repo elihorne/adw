@@ -23,11 +23,13 @@
 
 <p>- I have worked with crews of all shapes and sizes: from just a producer to 10+ clients watching in video village -- not to mention the art department, G&E and all the rest. </p>
 
+<p>- I love the creatively that online work provides.  My work has been nominate for a Webby Award (Art 21 New York Up Close series), shortlisted for a Vimeo Festival award (ETSY series) and has also appeared in exclusion Hulu.com series. </p>
+
 <p>- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  </p>
 
-<p>- Some of my agency work includes: JWT, Draft FCB, AB&C, Pipeline NY </p>
+<p>- Some of my agency work includes: Draft FCB, JWT, Anomaly, Digitas, AB&C, Pipeline NY </p>
 
-<p>- A few networks I have shot for include: PBS, Showtime, IFC, TLC, MTV, </p>
+<p>- A few networks I have random credits with include: PBS, Showtime, IFC, A&E, SkyArts, TLC, MTV, </p>
 
 <p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
 
@@ -35,9 +37,7 @@
 
 <p>- I didn't fly on a plane until I was 21.  Since then I have racked up a ridiculous amount of miles; recognize staff at JFK; have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport!  </p>
 
-<p>- Need a great gaffer in Dallas? Got that.  Need an awesome sound man in DC? Got that, too. By this point I have worked in most major US metropolitan areas.  </p>
-
-<p>- I have shot on the RED, Sony F3, Canon C300, HDSLRS, Varicam and most other cameras.</p>
+<p>- I own a Canon c300 package and a Canon 5d package.  I also have vast experience on the RED, Sony F3, Varicam and most other cameras.</p>
 
 </p>
      
