@@ -45,12 +45,7 @@
                                     <li>
                                         <span class="type">2012 ENG/TV Reel</span>
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Date:</span> November, 2011
-                                    </li>
+                                  
                                 </ul>
                             </a>
                             <span class="title">2012 TV/Eng Reel</span>
