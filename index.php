@@ -14,12 +14,7 @@
                                     <li>
                                         <span class="type">2012 Creative Doc Reel</span>
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Date:</span> November, 2011
-                                    </li>
+                                  
                                 </ul>
                             </a>
                             <span class="title">2012 Creative Doc Reel</span>
@@ -35,15 +30,11 @@
                                     <li>
                                         <span class="type">2012 Music, Promo & Commercial  Reel</span>
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Date:</span> November, 2011
-                                    </li>
+                                   
+                                    
                                 </ul>
                             </a>
-                            <span class="title">2012 Music, Promo & Commercial  Reel</span>
+                            <span class="title">2012 Music, Promo & Commercial</span>
                         </li>
                         
                         
