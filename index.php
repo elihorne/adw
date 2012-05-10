@@ -5,12 +5,14 @@
                 <div class="group">
                     <h3>Reels</h3>
                     <ul class="items">
-                        <li>
+                    
+                    
+                              <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png" width="235"/>
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">2011 Creative Demo Reel</span>
+                                        <span class="type">2012 Creative Doc Reel</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director of Photography
@@ -20,7 +22,28 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">2012 Creative Reel</span>
+                            <span class="title">2012 Creative Doc Reel</span>
+                        </li>
+                        
+                    
+                    
+                    
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/41874891">
+                                <img src="images/screens/2012-creative-reel.jpg" width="235"/>
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type">2012 Music, Promo & Commercial  Reel</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Date:</span> November, 2011
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">2012 Music, Promo & Commercial  Reel</span>
                         </li>
                         
                         
@@ -29,7 +52,7 @@
                                 <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="235" />
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">2011 ENG/TV Reel</span>
+                                        <span class="type">2012 ENG/TV Reel</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director of Photography
