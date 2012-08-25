@@ -394,7 +394,7 @@
                             <img src="images/photos/portfolio/36.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Bogota, Colombia
+                                    <span class="type">Location:</span> Emmanok, Alaska
                                 </li>
                             </ul>
                         </li>
@@ -439,7 +439,7 @@
                             <img src="images/photos/portfolio/41.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Changsha, China
+                                    <span class="type">Location:</span> Emmanok, Alaska
                                 </li>
                             </ul>
                         </li>
@@ -523,7 +523,17 @@
                             <img src="images/photos/portfolio/50.jpg" alt="1-IMG_3677" width="1000" height="667" />
                             <ul class="payload">
                                 <li>
-                                    <span class="type">Location:</span> Rural Beijing, China -- CLICK ABOVE TO EXIT
+                                    <span class="type">Location:</span> Rural Beijing, China
+                                </li>
+                            </ul>
+                        </li>
+                        
+                               
+                         <li class="photo-item">
+                            <img src="images/photos/portfolio/51.jpg" alt="1-IMG_3677" width="1000" height="667" />
+                            <ul class="payload">
+                                <li>
+                                    <span class="type">Location:</span> Changsha, China -- CLICK ABOVE TO EXIT
                                 </li>
                             </ul>
                         </li>
