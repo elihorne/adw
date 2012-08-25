@@ -29,7 +29,7 @@
 
 <p>- Some of my agency work includes: Draft FCB, JWT, Anomaly, Digitas, AB&C, Pipeline NY </p>
 
-<p>- A few networks I have random credits with include: PBS, Showtime, IFC, A&E, SkyArts, TLC, MTV, </p>
+<p>- A few networks I have  credits with include: PBS, BBC, Showtime, IFC, A&E, SkyArts, TLC, MTV, </p>
 
 <p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
 
