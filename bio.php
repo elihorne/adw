@@ -17,7 +17,7 @@
 
 <p>- My work has taken me to such distinct locales as Bolivia, Colombia and China.  To date I have travelled to upwards of 20 countries. </p>
 
-<p>- My approach to lighting can best be defined as naturalistic and minimalistic. My style is further defined by its framing, movement, and strong connection to still photography.  </p>
+<p>- My approach to lighting can best be defined as naturalistic and minimalistic, however I am no stranger to working with a full crew and lots of lights. My style is further defined by its framing, movement, and strong connection to still photography.  </p>
 
 <p>- I covered the 2008 election for a documentary series ("2008 Uncut") for the IFC.  I hung out on the plane Obama used during his campaign  and was also at one point in his motorcade.  Pretty awesome.  </p>
 
