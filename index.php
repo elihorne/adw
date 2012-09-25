@@ -116,31 +116,34 @@
                         </li>
                         
                         
-                           
-                        <li>
-                           <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
-                                <img src="images/screens/camanabay-thumb.jpg" width="235" />
+                        
+                                            <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="235" />
                              	<ul class="payload">
-                                   
                                     <li>
-                                        <span class="type">Camana Bay:</span>Design Series
+                                        <span class="type">PETA:</span>  Promo
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director of Photography
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Production Company:</span>  Radiant Features                                    									</li>
-                                      <li>
-                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / 										Philadelphia / Camden, Me.                                    														</li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  PETA
+                                    </li>
                                 </ul>
                             </a>
-                            <span class="title">Camana Bay: Design Series</span>
+                            <span class="title">PETA: Promo</span>
                         </li>
                         
                         
-                    </ul>
-                </div>
-                
+                           
+   
                 
                 
                 
@@ -209,29 +212,31 @@
                     
                     
                     
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="235" />
+                                       <li>
+                           <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
+                                <img src="images/screens/camanabay-thumb.jpg" width="235" />
                              	<ul class="payload">
+                                   
                                     <li>
-                                        <span class="type">PETA:</span>  Promo
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Camana Bay:</span>Design Series
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                        <span class="type">Roles:</span> Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>  PETA
-                                    </li>
+                                        <span class="type">Production Company:</span>  Radiant Features                                    									</li>
+                                      <li>
+                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / 										Philadelphia / Camden, Me.                                    														</li>
                                 </ul>
                             </a>
-                            <span class="title">PETA: Promo</span>
+                            <span class="title">Camana Bay: Design Series</span>
                         </li>
+                        
+                        
+                    </ul>
+                </div>
+                
+    
              
                         
                         
