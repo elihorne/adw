@@ -191,7 +191,7 @@
                     
                     
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
                                 <img src="images/screens/peta-promo.png" width="235" />
                              	<ul class="payload">
                                     <li>
