@@ -108,11 +108,11 @@
                                         <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>  WXPN / Weathervane Music Series
+                                        <span class="type">Client:</span> Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Shaking Through: Music Series</span>
+                            <span class="title">Shaking Through: Twin Sister</span>
                         </li>
                         
                         
@@ -194,7 +194,7 @@
                                 <img src="images/screens/drdog.jpg" width="235" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>Man Suites (aka Dr. Dog)
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director, Director of Photography
@@ -204,7 +204,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Shaking Through: Music Series</span>
+                            <span class="title">Shaking Through: Dr. Dog</span>
                         </li>
                     
                     
