@@ -7,31 +7,26 @@
                     <ul class="items">
                     
                     
-                              <li>
+                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png" width="235"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2012 Creative Doc Reel</span>
-                                    </li>
-                                  
+                                    </li>                                  
                                 </ul>
                             </a>
                             <span class="title">2012 Creative Doc Reel</span>
                         </li>
-                        
-                    
-                    
-                    
-                        <li>
+   
+   
+                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/41874891">
                                 <img src="images/screens/2012-creative-reel.jpg" width="235"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type">2012 Music, Promo & Commercial  Reel</span>
                                     </li>
-                                   
-                                    
                                 </ul>
                             </a>
                             <span class="title">2012 Music, Promo & Commercial</span>
@@ -50,6 +45,8 @@
                             </a>
                             <span class="title">2012 TV/Eng Reel</span>
                         </li>
+                        
+                        
                     </ul>
                 </div>
                 
@@ -60,7 +57,7 @@
                     <h3>Projects</h3>
                     <ul class="items">
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  									Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="235" />
                                      <ul class="payload">
                                     <li>
@@ -140,23 +137,17 @@
                             </a>
                             <span class="title">PETA: Promo</span>
                         </li>
-                        
-                        
+     
                  </ul>
                 </div>
                 
-                           
-              
-                
-                
-                
-                
+
                 <div class="group middle">
                     <h3> </h3>
                     <ul class="items">
                     
                     
-                              <li>
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
                                 <img src="images/screens/rocket.jpg" width="235" />
                                       <ul class="payload">
@@ -174,8 +165,7 @@
                             <span class="title">Louis "Rocket" Re</span>
                         </li>
                         
-                    
-                    
+                                        
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
                                 <img src="images/screens/film-liberty.jpg" width="235" />
@@ -194,7 +184,6 @@
                             <span class="title">Etsy: Liberty Tools</span>
                         </li>
                         
-                    
                     
                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
@@ -215,11 +204,11 @@
                         </li>
                     
                     
-                              <li>
-                           <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
-                                <img src="images/screens/camanabay-thumb.jpg" width="235" />
-                             	<ul class="payload">
-                                   
+                        <li>
+                        	   <a class="thumb" href="#" rel="images/screens/camanabay1.jpg" >
+                             	   <img src="images/screens/camanabay-thumb.jpg" width="235" />
+                             			<ul class="payload">
+                                 
                                     <li>
                                         <span class="type">Camana Bay:</span>Design Series
                                     </li>
@@ -227,32 +216,19 @@
                                         <span class="type">Roles:</span> Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Production Company:</span>  Radiant Features                                    									</li>
+                                        <span class="type">Production Company:</span>  Radiant Features                                    											</li>
                                       <li>
-                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / 										Philadelphia / Camden, Me.                                    														</li>
+                                        <span class="type">Locations:</span>  Georgetown, Grand Cayman / New York City / 																		Philadelphia / Camden, Me.                                    																		</li>
                                 </ul>
                             </a>
                             <span class="title">Camana Bay: Design Series</span>
                         </li>
                         
-                        
-             
-    
-             
-                        
-                        
-                     
-                        
-                        
-                        
-                  
-              
-                        
-                     
-                        
-                        
                     </ul>
                 </div>
+                
+                
+                
                 <div class="group last">
                     <h3> </h3>
                     <ul class="items">
@@ -334,7 +310,7 @@
                         
                         
                         
-                                   <li>
+                      	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
                                 <img src="images/screens/dentist.png"  width="235" />
                                       <ul class="payload">
