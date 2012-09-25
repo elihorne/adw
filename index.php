@@ -189,6 +189,25 @@
                         
                     
                     
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>Man Suites (aka Dr. Dog)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  WXPN / Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Shaking Through: Music Series</span>
+                        </li>
+                    
+                    
                     
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
@@ -216,28 +235,7 @@
              
                         
                         
-                                     <li>
-                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
-                                <img src="images/screens/vouge-thumb.jpg" width="235" />
-                                      <ul class="payload">
-                                    <li>
-
-                                        <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  DP on intro, Additional camera on series
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Break Thru Films
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title"> VOGUE: Fashion Fund Promo</span>
-                        </li>
-                        
+                     
                         
                         
                         
@@ -305,6 +303,31 @@
                         </li>
                         
                         
+                        
+                         <li>
+                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
+                                <img src="images/screens/vouge-thumb.jpg" width="235" />
+                                      <ul class="payload">
+                                    <li>
+
+                                        <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  DP on intro, Additional camera on series
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Break Thru Films
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title"> VOGUE: Fashion Fund Promo</span>
+                        </li>
+                        
+                        
+                        
                                    <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
                                 <img src="images/screens/dentist.png"  width="235" />
@@ -330,27 +353,7 @@
                         
                         
                         
-                      <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
-                                <img src="images/screens/counter-doers-spots.png" width="235" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title"> Susquehanna: :30 Spot &amp; Doers</span>
-                        </li>
-                        
+      
                         
                         
            
