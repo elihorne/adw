@@ -200,7 +200,7 @@
                                         <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>  WXPN / Weathervane Music Series
+                                        <span class="type">Client:</span>  Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
