@@ -56,7 +56,7 @@
                 
                 
                 <div class="group">
-                    <h4>Directorial<img src="images/down.png" height="20"></h4>
+                    <h4>Directorial</h4>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
@@ -216,7 +216,7 @@
                 
                 
                 <div class="group">
-                    <h4>DIR. OF PHOTOGRAPHY<img src="images/down.png"></h4>
+                    <h4>DIR. OF PHOTOGRAPHY</h4>
                     <ul class="items">
              
                     
