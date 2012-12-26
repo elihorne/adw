@@ -420,12 +420,12 @@
                                     </li>
                            
                                         <li>
-                                        <span class="type">CHARGE:</span>  Feature doc shoot in Bolivia, Summer 1012.  Behind the scenes video
+                                      Feature doc shoot in Bolivia, Summer 1012.  Behind the scenes video
                                     </li>
                                   
                                 </ul>
                             </a>
-                            <span class="title">DEAR MOM (behind the scenes)</span>
+                            <span class="title">DEAR MOM</span>
                         </li>
                         
       
