@@ -272,25 +272,25 @@
                         
                         
                          <li>
-                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
+                              <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
                                 <img src="images/screens/ebay2.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
 
-                                        <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
+                                        <span class="type">EBAY: </span>  Journey of Style
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  DP on intro, Additional camera on series
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
+                                        <span class="type">Director:</span>  Leon Yan
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>  Break Thru Films
+                                        <span class="type">Creative Agency / Production House:</span> NeochaEDGE ///
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">EBAY: Journey of Fashion</span>
+                            <span class="title">EBAY: Journey of Style</span>
                         </li>
                         
                         
