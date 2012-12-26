@@ -379,27 +379,7 @@
                         
                         
                         
-                         <li>
-                             <a class="thumb" href="#" rel="images/screens/vouge.jpg" >
-                                <img src="images/screens/vouge-thumb.jpg" width="175" />
-                                      <ul class="payload">
-                                    <li>
-
-                                        <span class="type">VOGUE: </span>  Fashion Fund Promo & Intro
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  DP on intro, Additional camera on series
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  ANNIE SUNDBERG and RICKI STERN
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Break Thru Films
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title"> VOGUE: Fashion Fund Promo</span>
-                        </li>
+           
                         
                         
                         
@@ -431,6 +411,22 @@
                         
                         
                         
+                      	<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
+                                <img src="images/screens/dearmom.jpg"  width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">DEAR MOM:</span>  THIS IS WHAT I DO FOR A LIVING
+                                    </li>
+                           
+                                        <li>
+                                        <span class="type">CHARGE:</span>  Feature doc shoot in Bolivia, Summer 1012.  Behind the scenes video
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">DEAR MOM (behind the scenes)</span>
+                        </li>
                         
       
                         
