@@ -179,7 +179,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Twin Sister</span>
+                            <span class="title">WEATHERVANE: Twin Sister</span>
                         </li>
                                         
                 
@@ -200,7 +200,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Shaking Through: Dr. Dog</span>
+                            <span class="title">WEATHERVANE: Dr. Dog</span>
                         </li>
                     
                        <li>
@@ -216,7 +216,7 @@
                 
                 
                 <div class="group">
-                    <h4>D. OF PHOTOGRAPHY</h4>
+                    <h4>DIR. OF PHOTOGRAPHY</h4>
                     <ul class="items">
              
                     
