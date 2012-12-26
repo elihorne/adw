@@ -77,6 +77,25 @@
                         </li>
                         
                         
+                                 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-liberty.jpg" width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
+                        
+                        
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
                                 <img src="images/screens/etsy-brazenhead-books.png" width="175" />
@@ -96,23 +115,7 @@
                         </li>
                         
 
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png" width="175" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Twin Sister</span>
-                        </li>
+              
                         
                         
                         
@@ -160,24 +163,26 @@
                             <span class="title">Louis "Rocket" Re</span>
                         </li>
                         
-                                        
-                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="175" />
+                        
+                     <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
+                                <img src="images/screens/weathervane-music-series.png" width="175" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Liberty Tools</span>
+                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> ETSY.com
+                                        <span class="type">Client:</span> Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Liberty Tools</span>
+                            <span class="title">Twin Sister</span>
                         </li>
+                                        
+                
                         
                     
                        <li>
