@@ -216,7 +216,7 @@
                 
                 
                 <div class="group">
-                    <h4>DIR. OF PHOTOGRAPHY</h4>
+                    <h4>DIR. OF PHOTOGRAPHY<img src="images/down.png"></h4>
                     <ul class="items">
              
                     
