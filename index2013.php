@@ -117,23 +117,19 @@
                         
                         
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
                                 <img src="images/screens/bkwatches.jpg" width="175" />
                              	<ul class="payload">
                                     <li>
-                                        <span class="type">PETA:</span>  Promo
+                                        <span class="type">ETSY:</span>  Brooklyn Watches
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Roles:</span>  Director / Director of Photography
                                     </li>
+                                  
+                                     
                                     <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  PETA
+                                        <span class="type">Client:</span>  ETSY
                                     </li>
                                 </ul>
                             </a>
@@ -217,29 +213,7 @@
                 <div class="group">
                     <h4>D. OF PHOTOGRAPHY</h4>
                     <ul class="items">
-                    <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="175" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">PETA:</span>  Promo
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  PETA
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">PETA: Promo</span>
-                        </li>
+             
                     
                     
                     
@@ -265,6 +239,31 @@
                             <span class="title">STARBUCKS: LA BOULANGE</span>
                         </li>
                         
+                        
+                        
+                               <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="175" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">PETA:</span>  Promo
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  PETA
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">PETA: Promo</span>
+                        </li>
                         
                         
                          <li>
@@ -422,7 +421,7 @@
                                     </li>
                                      </li>
                                         <li>
-                                       Episode #3 from Art 21's "New York Up Close," a primarily cinema vertie web series (Nominated for a 2012 webby award.)
+                                       Episode #3 from Art 21's "New York Up Close," a primarily cinema vertie web series (Nominated for a 2012 WEBBY award.)
                                     </li>
                                   
                                 </ul>
