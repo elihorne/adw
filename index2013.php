@@ -331,6 +331,31 @@
                 
                  <div class="group last">
                     <ul class="items">
+                    
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56666151">
+                                <img src="images/screens/yukon2.jpg"  width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Yukon Kings:</span>  Doc Short
+                                    </li>
+                                     <li>
+                                        <span class="type">Production Company:</span>  GO Films
+                                    </li>
+                                     <li>
+                                        <span class="type">Production Company:</span>  GO Films
+                                    </li>
+                                      <li>
+                                        <span class="type">Directed by:</span>  Emmanuel Vaughan-Lee
+                                    </li>
+                                     <li>
+                                       An excerpt from the documentary short "Yukon Kings. 
+											Shot near the mouth of the Yukon River and the Bering Sea, 500 miles northwest of Anchorage. 
+                            </li>
+                    
+                    
+                    
+                    
                     	 <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
                                 <img src="images/screens/charge-feature-doc.png" width="175" />
@@ -416,17 +441,9 @@
                         
                         
                         
-                      	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
-                                <img src="images/screens/dearmom.jpg"  width="175" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">DEAR MOM:</span>  THIS IS WHAT I DO FOR A LIVING
-                                    </li>
-                           
-                                        <li>
-                                      Feature doc shoot in Bolivia, Summer 1012.  Behind the scenes video
-                                    </li>
+          
+                                    
+                                      
                                   
                                 </ul>
                             </a>
