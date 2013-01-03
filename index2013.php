@@ -32,7 +32,18 @@
                         </li>
                         
                         
-      
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
+                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="150" />
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type">2012 ENG/TV Reel</span>
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">2012 TV/Eng Reel</span>
+                        </li>
                         
                              
                     
@@ -135,27 +146,26 @@
                 <div class="group middle">
                     <ul class="items">
                     
-                              <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="175" />
+                    
+                        <li>
+                            <a class="thumb" href="#" rel="images/screens/cs.jpg" >
+                                <img src="images/screens/charge-feature-doc.png" width="175" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                        <span class="type">WAITING OUT WINTER</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
+                                   
+                                      
+                                   
                                     <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
+                                        <span class="type"></span>  SHORT FILM. 
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: Dr. Dog</span>
-                        </li>
-                    
-                       <li>
-                                <img src="images/screens/cs.jpg" width="175" />
-                            <span class="title">WAITING OUT WINTER (SOOM)</span>
+                            <span class="title">WAITING OUT WINTER</span>
                         </li>
                     
                     
@@ -199,7 +209,26 @@
                 
                         
                     
-             
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">WEATHERVANE: Dr. Dog</span>
+                        </li>
+                    
+                       <li>
+                        
                           
                   
                         
@@ -347,7 +376,7 @@
                             		</li>       
                                 </ul>
                             </a>
-                            <span class="title">Yukon Kings: Doc Short</span>
+                            <span class="title">Yukon Kings: Doc </span>
                         </li>
                     
                     
