@@ -351,7 +351,11 @@
                                      <li>
                                        An excerpt from the documentary short "Yukon Kings. 
 											Shot near the mouth of the Yukon River and the Bering Sea, 500 miles northwest of Anchorage. 
-                            </li>
+                            		</li>       
+                                </ul>
+                            </a>
+                            <span class="title">Yukon Kings</span> Doc Short
+                        </li>
                     
                     
                     
@@ -444,11 +448,7 @@
           
                                     
                                       
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">DEAR MOM</span>
-                        </li>
+                      
                         
       
                         
