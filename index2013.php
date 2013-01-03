@@ -32,18 +32,7 @@
                         </li>
                         
                         
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="150" />
-                                <ul class="payload">
-                                    <li>
-                                        <span class="type">2012 ENG/TV Reel</span>
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">2012 TV/Eng Reel</span>
-                        </li>
+                 
                         
                              
                     
