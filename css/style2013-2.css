@@ -92,17 +92,17 @@ float:left;
 width:175px;
 }
 
-.films .group.last{
+.films .group .last{
 padding-top:18px;
 margin-right:50;
 }
 
-.works .group.last{
+.works .group .last{
 margin-right:0;
 }
 
 
-.films .group.middle{
+.films .group .works .middle{
 padding-top:18px;
 margin-right:50;
 }
