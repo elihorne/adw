@@ -148,8 +148,8 @@
                     
                     
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/cs.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="175" />
+                            <a class="thumb" href="#" rel="images/screens/cs-large.jpg" >
+                                <img src="images/screens/cs2.png" width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">WAITING OUT WINTER</span>
