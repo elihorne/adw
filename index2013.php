@@ -158,8 +158,7 @@
                                         <span class="type">Roles:</span>  Director                                     </li>
                                    
                                       
-                                   
-                                    <li>
+                                   <li>
                                         <span class="type"></span>  SHORT FILM. 
                                     </li>
                                 </ul>
