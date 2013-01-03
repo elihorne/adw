@@ -346,24 +346,22 @@
                                 <img src="images/screens/yukon2.jpg"  width="175" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Yukon Kings:</span>  Doc Short
+                                        <span class="type">Yukon Kings:</span>  Documentary Short
                                     </li>
                                      <li>
                                         <span class="type">Production Company:</span>  GO Films
                                     </li>
-                                     <li>
-                                        <span class="type">Production Company:</span>  GO Films
-                                    </li>
+                                
                                       <li>
                                         <span class="type">Directed by:</span>  Emmanuel Vaughan-Lee
                                     </li>
                                      <li>
-                                       An excerpt from the documentary short "Yukon Kings. 
+                                       An excerpt from the documentary short "Yukon Kings." 
 											Shot near the mouth of the Yukon River and the Bering Sea, 500 miles northwest of Anchorage. 
                             		</li>       
                                 </ul>
                             </a>
-                            <span class="title">Yukon Kings: Doc </span>
+                            <span class="title">Yukon Kings: Doc Short </span>
                         </li>
                     
                     
