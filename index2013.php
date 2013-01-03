@@ -148,15 +148,14 @@
                     
                     
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/cs-large.jpg" >
-                                <img src="images/screens/cs2.jpg" width="175" />
+                            <a class="thumb" href="#" rel="images/screens/cs-large2.jpg" >
+                                <img src="images/screens/cs3.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">WAITING OUT WINTER</span>
+                                        <span class="type">WAITING OUT WINTER (COMING SOON!)</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
+                                        <span class="type">Roles:</span>  Director                                     </li>
                                    
                                       
                                    
