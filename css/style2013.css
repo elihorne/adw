@@ -210,10 +210,10 @@ border:5px solid #000;
 }
 
 .super-pop.vimeo{
-width:960px;
-min-height:800px;
-margin-left:0px;
-margin-top:0px;
+width:640px;
+min-height:360px;
+margin-left:-320px;
+margin-top:-200px;
 }
 
 .super-pop iframe{
