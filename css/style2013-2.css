@@ -88,9 +88,9 @@ width:175px;
 
 .works .group{
 float:left;
-
+margin-right: 25px,
 width:175px;
-background-color:#222;
+background-color:#fff;
 }
 
 .films .group .last{
@@ -98,12 +98,12 @@ padding-top:18px;
 margin-right:50;
 }
 
-.works .group .last{
+.works .group.last{
 margin-right:0;
 }
 
 
-.films .group .middle{
+.films .group.middle{
 padding-top:18px;
 margin-right:50;
 }
