@@ -117,8 +117,9 @@ white-space:nowrap;
 font-size:13px;
 text-transform: uppercase;
 color:#fff;
-text-align: center;
-padding-bottom: 8px;
+text-align: left;
+padding-bottom: 6px;
+background-color:#244;
 }
 
 
