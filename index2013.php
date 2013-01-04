@@ -199,8 +199,8 @@
                 
                 
                 
-                <div class="group" white-space="nowrap">
-                    <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+                <div class="group">
+                    <h4>< div white-space="nowrap">DIRECTOR OF PHOTOGRAPHY</div></h4>
                     <ul class="items">
              
                     
