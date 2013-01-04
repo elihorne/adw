@@ -227,11 +227,7 @@
             </div>
             
                     <ul class="items">
-             
-                    
-                    
-                    
-                        <li>
+						  <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
                                 <img src="images/screens/starbucks.jpg" width="150" />
                                      <ul class="payload">
@@ -345,7 +341,7 @@
                     </ul>
                 </div>
                 
-                     <div class="group middle dp">
+                     <div class="group middle">
                     <ul class="items">
                     
                          <li>
@@ -463,7 +459,7 @@
                           </ul>
                 </div>
                 
-                 <div class="group last dp">
+                 <div class="group middle">
                     <ul class="items">
                      
                         
