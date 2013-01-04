@@ -105,25 +105,7 @@
                         
   						
   						
-  						<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
-                                <img src="images/screens/bkwatches.jpg" width="150" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">ETSY:</span>  Brooklyn Watches
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director / Director of Photography
-                                    </li>
-                                  
-                                     
-                                    <li>
-                                        <span class="type">Client:</span>  ETSY
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">ETSY: BK WATCHES</span>
-                        </li> 
+  				
                 
               
                         
@@ -165,6 +147,26 @@
                             </a>
                             <span class="title">Louis "Rocket" Re</span>
                         </li>
+                        
+                        		<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
+                                <img src="images/screens/bkwatches.jpg" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">ETSY:</span>  Brooklyn Watches
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director / Director of Photography
+                                    </li>
+                                  
+                                     
+                                    <li>
+                                        <span class="type">Client:</span>  ETSY
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">ETSY: BK WATCHES</span>
+                        </li> 
                         
                         
                      <li>
