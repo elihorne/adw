@@ -164,12 +164,12 @@
                         </li>
                         
                         
-                     <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png" width="175" />
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
+                                <img src="images/screens/wv-sunset.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director, Director of Photography
@@ -179,7 +179,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: Twin Sister</span>
+                            <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
                                         
                 
