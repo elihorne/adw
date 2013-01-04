@@ -112,6 +112,7 @@ padding-top:0px;
 
 .dp{
 white-space:nowrap;
+float:right;
 margin-bottom:-13px;
 font-size:13px;
 text-transform: uppercase;
