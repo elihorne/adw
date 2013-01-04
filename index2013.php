@@ -322,7 +322,7 @@
                         
                       	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-buisness.jpg"  width="175" />
+                                <img src="images/screens/sb-business.jpg"  width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
