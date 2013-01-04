@@ -18,7 +18,6 @@
             <div class="films works">
                 
                 <div class="group">
-                    <h4>Reels</h4>
                     <ul class="items">
 						<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
@@ -59,7 +58,6 @@
                 
                 
                 <div class="group">
-                    <h4>Directorial</h4>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
@@ -210,11 +208,8 @@
                         
                     </ul>
                 </div>
-                
-                
-                <div class="dp"><h4>DIRECTOR OF PHOTOGRAPHY</h4></div>
-                
-                
+
+
                 <div class="group middle dp">
                     <ul class="items">
              
