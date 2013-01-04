@@ -199,8 +199,8 @@
                 
                 
                 
-                <div class="group">
-                    <h4>DIRECTOR OF</h4>
+                <div class="group" white-space="nowrap">
+                    <h4>DIRECTOR OF PHOTOGRAPHY</h4>
                     <ul class="items">
              
                     
@@ -408,7 +408,7 @@
                         
                         
                       	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26771287">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56759650">
                                 <img src="images/screens/art21-trading.jpg"  width="150" />
                                       <ul class="payload">
                                     <li>
