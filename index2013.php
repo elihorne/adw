@@ -3,9 +3,7 @@
             
             
             
-            <div class="catagories">
-            <h4>REELS</h4>
-            </div>
+         
             
            
             
@@ -13,6 +11,10 @@
             
         
             <div class="films works">
+            
+            <div class="catagories">
+            <h4>REELS</h4>
+            </div>
                 
                 <div class="group">
                     <ul class="items">
@@ -55,6 +57,11 @@
                 
                 
                 <div class="group">
+                
+            <div width="320" class="catagories">
+            <h4>DIRECTIONAL</h4>
+            </div>
+
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
@@ -125,10 +132,7 @@
                  </ul>
                 </div>
                 
-			 <div width="320" class="catagories">
-            <h4>DIRECTIONAL</h4>
-            </div>
-
+		
 
                 <div class="group middle">
                     <ul class="items">
@@ -210,12 +214,15 @@
                     </ul>
                 </div>
                 
-            <div width="320" class="catagories">
-            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
-            </div>
+           
 
 
                 <div class="group middle">
+                
+            <div width="320" class="catagories">
+            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+            </div>
+            
                     <ul class="items">
              
                     
