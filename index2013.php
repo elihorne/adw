@@ -182,7 +182,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: {{{SUNSET}}}</span>
+                            <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
                                        
                         
@@ -202,7 +202,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: Dr. Dog</span>
+                            <span class="title">WV: Dr. Dog</span>
                         </li>
                     
                  
@@ -315,7 +315,7 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">VOGUE: FASHION FUND INTRO</span>
+                            <span class="title">VOGUE: FASHION FUND</span>
                         </li>
                         
                         
@@ -443,7 +443,7 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">ART 21: New York Up Close</span>
+                            <span class="title">ART 21: Trading Art</span>
                         </li>
                         
                      
