@@ -201,7 +201,7 @@
                 <div class="dp"><h4>DIRECTOR OF PHOTOGRAPHY</h4></div>
                 
                 
-                <div class="group middle">
+                <div class="group middle dp">
                     <ul class="items">
              
                     
@@ -321,7 +321,7 @@
                     </ul>
                 </div>
                 
-                     <div class="group middle">
+                     <div class="group middle dp">
                     <ul class="items">
                     
                          <li>
