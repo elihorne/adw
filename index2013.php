@@ -187,23 +187,7 @@
                                        
                         
                         
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">WV: Dr. Dog</span>
-                        </li>
+                 
                     
                  
 
@@ -502,49 +486,41 @@
                             <span class="title">Susquehanna: :30 spot</span>
                         </li>
                         
-                                         	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-business.jpg"  width="150" />
+                    
+                    
+                    
+                           <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Scott Whitham
+                                        <span class="type">Client:</span>  Weathervane Music Series
                                     </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
                                 </ul>
                             </a>
-                            <span class="title">Susquehanna: :30 spot</span>
+                            <span class="title">WV: Dr. Dog</span>
                         </li>
                         
                         
+                        
                                          	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-business.jpg"  width="150" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
+                                <img src="images/screens/dearmom.jpg"  width="150" />
                                       <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
+                              
                                         <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                        <span class="type">DEAR MOM:</span>  This is what I do for a living (BTS video from a feature doc shoot in Bolivia )
                                     </li>
                                   
                                 </ul>
                             </a>
-                            <span class="title">Susquehanna: :30 spot</span>
+                            <span class="title">Dear Mom (JUST FOR FUN)</span>
                         </li>
                         
                         
