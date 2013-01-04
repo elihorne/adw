@@ -11,8 +11,8 @@
         <meta name="google-site-verification" content="rj4aCo8CwMFokgTzN25tWeOgSAR6glEG2F7eqGH9xtQ" />
         
         <!-- Style -->
-        <link rel="stylesheet" href="css/normalize2013.css" type="text/css" media="screen" />
-        <link rel="stylesheet" href="css/style2013.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
         <link rel="shortcut icon" href="/favicon.ico"/>
         <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 
