@@ -165,7 +165,7 @@
                         
                         
                      <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
                                 <img src="images/screens/wv-sunset.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
@@ -296,15 +296,19 @@
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
                                 <img src="images/screens/vouge.jpg"  width="175" />
                                       <ul class="payload">
+                                    
                                     <li>
                                         <span class="type">Vogue:</span> Fashion Fund Intro
                                     </li>
+                                    
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
+                                    
                                     <li>
                                         <span class="type">Director:</span>  Ricki Stern & Annie Sundberg
                                     </li>
+                                    
                                         <li>
                                         <span class="type">Production Company:</span>  BreakThru Films
                                     </li>
