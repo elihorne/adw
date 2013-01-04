@@ -215,7 +215,7 @@
             </div>
 
 
-                <div class="group middle dp">
+                <div class="group middle">
                     <ul class="items">
              
                     
