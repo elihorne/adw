@@ -314,7 +314,7 @@
                                     </li>
                                   
                                 </ul>
-                            </a
+                            </a>
                             <span class="title">VOGUE: FASHION FUND INTRO</span>
                         </li>
                         
