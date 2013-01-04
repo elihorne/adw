@@ -201,7 +201,7 @@
                 <div white-space="nowrap"><h4>DIRECTOR OF PHOTOGRAPHY</h4></div>
                 
                 
-                <div class="group">
+                <div class="group middle">
                     <ul class="items">
              
                     
@@ -321,8 +321,7 @@
                     </ul>
                 </div>
                 
-                    <div class="group">
-                    <h4>PHOTOGRAPHY</h4>
+                     <div class="group middle">
                     <ul class="items">
                     
                          <li>
