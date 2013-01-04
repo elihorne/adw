@@ -218,13 +218,13 @@
                 </div>
                 
            
-
+<div class="catagories" width="340">
+            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+            </div>
 
                 <div class="group">
                 
-            <div class="catagories" width="340">
-            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
-            </div>
+            
             
                     <ul class="items">
 						  <li>
