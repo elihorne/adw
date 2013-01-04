@@ -103,7 +103,28 @@
                             <span class="title">Etsy: Brazenhead books</span>
                         </li>
                         
-
+  						
+  						
+  						<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
+                                <img src="images/screens/bkwatches.jpg" width="175" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">ETSY:</span>  Brooklyn Watches
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director / Director of Photography
+                                    </li>
+                                  
+                                     
+                                    <li>
+                                        <span class="type">Client:</span>  ETSY
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">ETSY: BK WATCHES</span>
+                        </li> 
+                
               
                         
                         
@@ -151,7 +172,7 @@
                                 <img src="images/screens/wv-sunset.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director, Director of Photography
@@ -161,36 +182,31 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: SUNSET</span>
+                            <span class="title">WEATHERVANE: {{{SUNSET}}}</span>
                         </li>
                                        
-                                       
-                                       
-               			<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
-                                <img src="images/screens/bkwatches.jpg" width="175" />
-                             	<ul class="payload">
+                        
+                        
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="175" />
+                                      <ul class="payload">
                                     <li>
-                                        <span class="type">ETSY:</span>  Brooklyn Watches
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director / Director of Photography
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
-                                  
-                                     
                                     <li>
-                                        <span class="type">Client:</span>  ETSY
+                                        <span class="type">Client:</span>  Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">ETSY: BK WATCHES</span>
-                        </li> 
-                
-                        
+                            <span class="title">WEATHERVANE: Dr. Dog</span>
+                        </li>
                     
-            
-                          
-                  
+                 
+
                         
                     </ul>
                 </div>
