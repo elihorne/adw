@@ -108,25 +108,7 @@
                         
                         
                         
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
-                                <img src="images/screens/bkwatches.jpg" width="175" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">ETSY:</span>  Brooklyn Watches
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director / Director of Photography
-                                    </li>
-                                  
-                                     
-                                    <li>
-                                        <span class="type">Client:</span>  ETSY
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">ETSY: BK WATCHES</span>
-                        </li>
+               
      
                  </ul>
                 </div>
@@ -181,30 +163,32 @@
                             </a>
                             <span class="title">WEATHERVANE: SUNSET</span>
                         </li>
-                                        
-                
-                        
-                    
-                       <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="175" />
-                                      <ul class="payload">
+                                       
+                                       
+                                       
+               			<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
+                                <img src="images/screens/bkwatches.jpg" width="175" />
+                             	<ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                        <span class="type">ETSY:</span>  Brooklyn Watches
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director / Director of Photography
                                     </li>
+                                  
+                                     
                                     <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
+                                        <span class="type">Client:</span>  ETSY
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: Dr. Dog</span>
-                        </li>
-                    
-                       <li>
+                            <span class="title">ETSY: BK WATCHES</span>
+                        </li> 
+                
                         
+                    
+            
                           
                   
                         
@@ -338,7 +322,7 @@
                                     </li>
                                   
                                 </ul>
-                            </a
+                            </a>
                             <span class="title">Susquehanna: :30 spot</span>
                         </li>
                         
