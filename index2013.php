@@ -7,16 +7,11 @@
             <h4>REELS</h4>
             </div>
             
-            <div width="320" class="catagories">
-            <h4>DIRECTIONAL</h4>
-            </div>
+           
             
-            <div width="320" class="catagories">
-            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
-            </div>
+         
             
-            <p></p>
-            
+        
             <div class="films works">
                 
                 <div class="group">
@@ -130,6 +125,10 @@
                  </ul>
                 </div>
                 
+			 <div width="320" class="catagories">
+            <h4>DIRECTIONAL</h4>
+            </div>
+
 
                 <div class="group middle">
                     <ul class="items">
@@ -210,6 +209,10 @@
                         
                     </ul>
                 </div>
+                
+            <div width="320" class="catagories">
+            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+            </div>
 
 
                 <div class="group middle dp">
