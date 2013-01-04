@@ -320,27 +320,7 @@
                         
                         
                         
-                      	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-business.jpg"  width="175" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Susquehanna: :30 spot</span>
-                        </li>
+              
                         
                         
              
@@ -500,7 +480,27 @@
                         </li>
                                     
                                       
-                      
+                              	<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
+                                <img src="images/screens/sb-business.jpg"  width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">Susquehanna: :30 spot</span>
+                        </li>
                         
       
                         
