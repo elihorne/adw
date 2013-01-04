@@ -220,7 +220,7 @@
            
 
 
-                <div class="group middle">
+                <div class="group">
                 
             <div class="catagories">
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
@@ -459,7 +459,7 @@
                           </ul>
                 </div>
                 
-                 <div class="group middle">
+                 <div class="group last">
                     <ul class="items">
                      
                         
