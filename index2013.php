@@ -200,7 +200,7 @@
                 
                 
                 <div class="group">
-                    <h4>DP</h4>
+                    <h4>DIRECTOR OF</h4>
                     <ul class="items">
              
                     
@@ -320,7 +320,8 @@
                     </ul>
                 </div>
                 
-                 <div class="group middle">
+                    <div class="group">
+                    <h4>PHOTOGRAPHY</h4>
                     <ul class="items">
                     
                          <li>
