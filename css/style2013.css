@@ -105,6 +105,14 @@ margin-right:0;
 padding-top:18px;
 }
 
+
+.dp{
+white-space:nowrap;
+margin-bottom:0px;
+font-size:13px;
+text-transform: uppercase;
+}
+
 .works .group.middle{
 margin-right:25;
 }
