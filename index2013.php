@@ -198,7 +198,7 @@
                 </div>
                 
                 
-                <div white-space="nowrap"><h4>DIRECTOR OF PHOTOGRAPHY</h4></div>
+                <div class="dp"><h4>DIRECTOR OF PHOTOGRAPHY</h4></div>
                 
                 
                 <div class="group middle">
