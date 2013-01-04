@@ -166,7 +166,7 @@
                         
                      <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png" width="175" />
+                                <img src="images/screens/wv-sunset.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">  Weathervane Music Series:</span>Twin Sister
@@ -179,7 +179,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WEATHERVANE: Twin Sister</span>
+                            <span class="title">WEATHERVANE: SUNSET</span>
                         </li>
                                         
                 
@@ -289,6 +289,29 @@
                                 </ul>
                             </a>
                             <span class="title">EBAY: Journey of Style</span>
+                        </li>
+                        
+                        
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
+                                <img src="images/screens/vouge.jpg"  width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Vogue:</span> Fashion Fund Intro
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Ricki Stern & Annie Sundberg
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  BreakThru Films
+                                    </li>
+                                  
+                                </ul>
+                            </a
+                            <span class="title">VOGUE: FASHION FUND INTRO</span>
                         </li>
                         
                         
