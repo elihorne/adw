@@ -112,11 +112,13 @@ padding-top:0px;
 
 .catagories{
 white-space:nowrap;
+float; left;
 font-size:13px;
 text-transform: uppercase;
 color:#fff;
 text-align: center;
 background-color:#2F4F4F;
+margin-bottom:10px;
 }
 
 

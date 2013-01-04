@@ -222,7 +222,7 @@
 
                 <div class="group">
                 
-            <div class="catagories">
+            <div class="catagories" width="340">
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
