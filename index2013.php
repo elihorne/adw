@@ -58,7 +58,7 @@
                 
                 <div class="group">
                 
-            <div width="320" class="catagories">
+            <div class="catagories">
             <h4>DIRECTIONAL</h4>
             </div>
 
@@ -219,7 +219,7 @@
 
                 <div class="group middle">
                 
-            <div width="320" class="catagories">
+            <div class="catagories">
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
