@@ -3,7 +3,7 @@
             
             
             
-            <div width="150" class="catagories">
+            <div class="catagories">
             <h4>REELS</h4>
             </div>
             
@@ -14,6 +14,8 @@
             <div width="320" class="catagories">
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
+            
+            <p></p>
             
             <div class="films works">
                 
