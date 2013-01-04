@@ -115,7 +115,9 @@ white-space:nowrap;
 margin-bottom:-13px;
 font-size:13px;
 text-transform: uppercase;
-color:#233;
+color:#fff;
+text-align: center;
+background-color:#321;
 }
 
 .works .group.middle{
