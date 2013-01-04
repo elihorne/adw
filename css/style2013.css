@@ -86,11 +86,53 @@ margin-right:25px;
 width:175px;
 }
 
+
 .works .group{
 float:left;
 margin-right:20px;
 width:150px;
 }
+
+//////////////////////
+
+.works .group .reel{
+float:left;
+margin-right:25px;
+width:150px;
+}
+
+
+.works . group .director{
+float:left;
+margin-right:15px;
+width:150px;
+}
+
+
+.works . group .director2{
+float:left;
+margin-right:25px;
+width:150px;
+}
+
+.works . group .dp{
+float:left;
+margin-right:15px;
+width:150px;
+}
+
+.works . group .dp2{
+float:left;
+margin-right:15px;
+width:150px;
+}
+
+
+
+/////////////////////
+
+
+
 
 .films .group.last{
 padding-top:25px;
@@ -129,6 +171,12 @@ padding-bottom: 6px;
 margin-right:25;
 padding-top:25px;
 }
+
+
+
+
+
+
 
 
 .works .group ul{
