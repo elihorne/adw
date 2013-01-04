@@ -214,7 +214,7 @@
                 
                 
                 <div class="group">
-                    <h4>DIR. OF PHOTOGRAPHY</h4>
+                    <h4>DP</h4>
                     <ul class="items">
              
                     
@@ -334,7 +334,7 @@
                     </ul>
                 </div>
                 
-                 <div class="group last">
+                 <div class="group">
                     <ul class="items">
                     
                          <li>
