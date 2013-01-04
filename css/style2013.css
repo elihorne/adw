@@ -3,7 +3,7 @@ body{
 background-color:#222;
 font-family:"helvetica",'arial',sans-serif;
 color:#fff;
-font-size:20px;
+font-size:18px;
 }
 
 ol, ul{
@@ -39,7 +39,7 @@ color:#ff0101;
 font-size:40px;
 margin:0;
 padding:0;
-line-height:40px;
+line-height:35px;
 }
 
 .brand h2{
@@ -47,7 +47,7 @@ text-transform: uppercase;
 font-size:22px;
 margin:0;
 padding:0;
-text-shadow:0 1px 1px rgba(0,0,0,0.25)
+text-shadow:0 1px 1px rgba(0,0,0,0.15)
 }
 
 .sections{
