@@ -93,7 +93,7 @@ width:150px;
 }
 
 .films .group.last{
-padding-top:18px;
+padding-top:25px;
 }
 
 .works .group.last{
@@ -102,11 +102,11 @@ margin-right:0;
 
 
 .films .group.middle{
-padding-top:28px;
+padding-top:25px;
 }
 
 .films .group.middle.dp{
-padding-top:0px;
+padding-top:25px;
 }
 
 
@@ -116,7 +116,6 @@ font-size:13px;
 text-transform: uppercase;
 color:#fff;
 text-align: center;
-margin-bottom:10px;
 }
 
 
