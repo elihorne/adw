@@ -1,6 +1,20 @@
             <? $section = 'film'; ?>
             <? include('header2013.php'); ?>
             
+            
+            
+            <div width="150" class="catagories">
+            <h4>REELS</h4>
+            </div>
+            
+            <div width="320" class="catagories">
+            <h4>DIRECTIONAL</h4>
+            </div>
+            
+            <div width="320" class="catagories">
+            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+            </div>
+            
             <div class="films works">
                 
                 <div class="group">

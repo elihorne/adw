@@ -110,15 +110,26 @@ padding-top:0px;
 }
 
 
-.dp{
+.catagories{
 white-space:nowrap;
 float:right;
+margin-bottom:-13px;
+margin-right: 20px;
+font-size:13px;
+text-transform: uppercase;
+color:#fff;
+text-align: center;
+background-color:#2F4F4F;
+}
+
+
+.dp{
+white-space:nowrap;
 margin-bottom:-13px;
 font-size:13px;
 text-transform: uppercase;
 color:#fff;
 text-align: center;
-width: 500px;
 background-color:#2F4F4F;
 }
 
