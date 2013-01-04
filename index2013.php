@@ -12,11 +12,14 @@
         
             <div class="films works">
             
+           
+                
+                <div class="group">
+                
             <div class="catagories">
             <h4>REELS</h4>
             </div>
-                
-                <div class="group">
+            
                     <ul class="items">
 						<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
