@@ -1,25 +1,10 @@
             <? $section = 'film'; ?>
-            <? include('header2013.php'); ?>
+            <? include('header.php'); ?>
             
-            
-            
-         
-            
-           
-            
-         
-            
-        
             <div class="films works">
-            
-           
                 
                 <div class="group">
-                
-            <div class="catagories">
-            <h4>REELS</h4>
-            </div>
-            
+                    <h4>Reels</h4>
                     <ul class="items">
 						<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
@@ -60,15 +45,11 @@
                 
                 
                 <div class="group">
-                
-            <div class="catagories">
-            <h4>DIRECTORIAL</h4>
-            </div>
-
+                    <h4>DIRECTORIAL</h4>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="175" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Vintage</span>
@@ -87,7 +68,7 @@
                         
                                  <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="150" />
+                                <img src="images/screens/film-liberty.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Tools</span>
@@ -106,7 +87,7 @@
                         
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
-                                <img src="images/screens/etsy-brazenhead-books.png" width="150" />
+                                <img src="images/screens/etsy-brazenhead-books.png" width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Brazenhead Books</span>
@@ -122,55 +103,14 @@
                             <span class="title">Etsy: Brazenhead books</span>
                         </li>
                         
-  						
-  						
-  				
-                
+
               
                         
                         
                         
-               
-     
-                 </ul>
-                </div>
-                
-		
-
-                <div class="group middle">
-                    <ul class="items">
-                    
-                    
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/cs-large2.jpg" >
-                                <img src="images/screens/cs3.jpg" width="150" />
-                           
-                            </a>
-                            <span class="title">WAITING OUT WINTER</span>
-                        </li>
-                    
-                    
-         				 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
-                                <img src="images/screens/rocket.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, Director of Photographer
-                                    </li>
-                                    <li>
-                                        <span class="type">Personal Project</span>
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Louis "Rocket" Re</span>
-                        </li>
-                        
-                        		<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
-                                <img src="images/screens/bkwatches.jpg" width="150" />
+                                <img src="images/screens/bkwatches.jpg" width="175" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">ETSY:</span>  Brooklyn Watches
@@ -186,10 +126,45 @@
                                 </ul>
                             </a>
                             <span class="title">ETSY: BK WATCHES</span>
-                        </li> 
+                        </li>
+     
+                 </ul>
+                </div>
+                
+
+                <div class="group middle">
+                    <ul class="items">
+                    
+                    
+                        <li>
+                            <a class="thumb" href="#" rel="images/screens/cs-large2.jpg" >
+                                <img src="images/screens/cs3.jpg" width="175" />
+                           
+                            </a>
+                            <span class="title">WAITING OUT WINTER</span>
+                        </li>
+                    
+                    
+         				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
+                                <img src="images/screens/rocket.jpg" width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                    </li>
+                                    <li>
+                                        <span class="type">Personal Project</span>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Louis "Rocket" Re</span>
+                        </li>
                         
                         
-                     <li>
+                       <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
                                 <img src="images/screens/wv-sunset.jpg" width="150" />
                                       <ul class="payload">
@@ -206,30 +181,48 @@
                             </a>
                             <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
-                                       
+                                        
+                
                         
-                        
-                 
                     
-                 
-
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="175" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">WEATHERVANE: Dr. Dog</span>
+                        </li>
+                    
+                       <li>
+                        
+                          
+                  
                         
                     </ul>
                 </div>
                 
-           
-
-
-                <div class="group">
                 
-            <div class="catagories" width="340">
-            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
-            </div>
-            
+                
+                <div class="group">
+                    <h4>DIR. OF PHOTOGRAPHY</h4>
                     <ul class="items">
-						  <li>
+             
+                    
+                    
+                    
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
-                                <img src="images/screens/starbucks.jpg" width="150" />
+                                <img src="images/screens/starbucks.jpg" width="175" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">STARBUCKS:</span> La BOULANGE
@@ -253,7 +246,7 @@
                         
                                <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="150" />
+                                <img src="images/screens/peta-promo.png" width="175" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">PETA:</span>  Promo
@@ -278,7 +271,7 @@
                         
                          <li>
                               <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
-                                <img src="images/screens/ebay2.jpg" width="150" />
+                                <img src="images/screens/ebay2.jpg" width="175" />
                                       <ul class="payload">
                                     <li>
 
@@ -299,35 +292,28 @@
                         </li>
                         
                         
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56731460">
-                                <img src="images/screens/vouge.jpg"  width="150" />
+                        
+                      	<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
+                                <img src="images/screens/dentist.png"  width="175" />
                                       <ul class="payload">
-                                    
                                     <li>
-                                        <span class="type">Vogue:</span> Fashion Fund Intro
+                                        <span class="type">Susquehanna Bank:</span>  60 second spot
                                     </li>
-                                    
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
-                                    
                                     <li>
-                                        <span class="type">Director:</span>  Ricki Stern & Annie Sundberg
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
-                                    
                                         <li>
-                                        <span class="type">Production Company:</span>  BreakThru Films
+                                        <span class="type">Production Company:</span>  Shooters Inc.
                                     </li>
                                   
                                 </ul>
                             </a>
-                            <span class="title">VOGUE: FASHION FUND</span>
+                            <span class="title">Susquehanna: 1:00 spot</span>
                         </li>
-                        
-                        
-                        
-              
                         
                         
              
@@ -341,12 +327,12 @@
                     </ul>
                 </div>
                 
-                     <div class="group middle">
+                 <div class="group last">
                     <ul class="items">
                     
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56666151">
-                                <img src="images/screens/yukon2.jpg"  width="150" />
+                                <img src="images/screens/yukon2.jpg"  width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Yukon Kings:</span>  Documentary Short
@@ -372,7 +358,7 @@
                     
                     	 <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="150" />
+                                <img src="images/screens/charge-feature-doc.png" width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Charge</span>  Feature Documentary
@@ -399,7 +385,7 @@
                     
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png" width="150" />
+                                <img src="images/screens/life-as-dad.png" width="175" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Life As Dad:</span> Documentary Short (Trailer)
@@ -429,7 +415,7 @@
                         
                       	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56759650">
-                                <img src="images/screens/art21-trading.jpg"  width="150" />
+                                <img src="images/screens/art21-trading.jpg"  width="175" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Rashid Johnson Trades Art with Angel Otero:</span>
@@ -450,102 +436,15 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">ART 21: Trading Art</span>
+                            <span class="title">ART 21: New York Up Close</span>
                         </li>
                         
-                     
-                     
-                     
-                          </ul>
-                </div>
-                
-                 <div class="group last">
-                    <ul class="items">
-                     
                         
                         
-                 	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
-                                <img src="images/screens/dentist.png"  width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank:</span>  60 second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Susquehanna: 1:00 spot</span>
-                        </li>
+          
                                     
                                       
-                              	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-business.jpg"  width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Susquehanna: :30 spot</span>
-                        </li>
-                        
-                    
-                    
-                    
-                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">WV: Dr. Dog</span>
-                        </li>
-                        
-                        
-                        
-                                         	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
-                                <img src="images/screens/dearmom.jpg"  width="150" />
-                                      <ul class="payload">
-                              
-                                        <li>
-                                        <span class="type">DEAR MOM:</span>  This is what I do for a living (BTS video from a feature doc shoot in Bolivia )
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Dear Mom (JUST FOR FUN)</span>
-                        </li>
-                        
+                      
                         
       
                         

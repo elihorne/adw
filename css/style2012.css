@@ -13,7 +13,7 @@ padding:0;
 
 
 .wrap{
-width:1000px;
+width:975px;
 margin:0 auto;
 }
 
@@ -26,7 +26,7 @@ display: block;
 .header{
 overflow:hidden;
 margin-bottom:30px;
-margin-top:35px;
+margin-top:20px;
 }
 
 .brand{
@@ -36,18 +36,18 @@ float:left;
 .brand h1{
 text-transform: uppercase;
 color:#ff0101;
-font-size:40px;
+font-size:50px;
 margin:0;
 padding:0;
-line-height:35px;
+line-height:40px;
 }
 
 .brand h2{
 text-transform: uppercase;
-font-size:22px;
+font-size:26px;
 margin:0;
 padding:0;
-text-shadow:0 1px 1px rgba(0,0,0,0.15)
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
 }
 
 .sections{
@@ -67,7 +67,7 @@ list-style-type:none;
 font-weight:bold;
 text-transform:uppercase;
 text-decoration:none;
-font-size:15px;
+font-size:18px;
 color:#fff;
 text-shadow:0 1px 1px rgba(0,0,0,0.25)
 }
@@ -86,58 +86,28 @@ margin-right:25px;
 width:175px;
 }
 
-
-
 .works .group{
 float:left;
-margin-right:20px;
-width:150px;
+margin-right:25px;
+width:175px;
 }
 
-
 .films .group.last{
-padding-top:25px;
+padding-top:18px;
 }
 
 .works .group.last{
 margin-right:0;
-padding-top:25px;
 }
 
 
 .films .group.middle{
-padding-top:25px;
+padding-top:18px;
 }
-
-
-.films .group.middle.dp{
-padding-top:25px;
-}
-
-
-.catagories{
-white-space:nowrap;
-font-size:13px;
-text-transform: uppercase;
-color:#fff;
-text-align: left;
-padding-bottom: 6px;
-
-}
-
-
-
 
 .works .group.middle{
 margin-right:25;
-padding-top:25px;
 }
-
-
-
-
-
-
 
 
 .works .group ul{
@@ -177,7 +147,7 @@ display:none;
 }
 
 .works .items .thumb img{
-min-width:150px;
+min-width:175px;
 }
 
 .works .items > li:hover{
