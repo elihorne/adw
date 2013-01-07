@@ -45,7 +45,7 @@
                 
                 
                 <div class="group">
-                    <h4>Directorial</h4>
+                    <h4>DIRECTORIAL</h4>
                     <ul class="items">
                         <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">

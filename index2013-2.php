@@ -62,7 +62,7 @@
                 <div class="group">
                 
             <div class="catagories director">
-            <h4>DIRECTIONAL</h4>
+            <h4>DIRECTORIAL</h4>
             </div>
 
                     <ul class="items">
