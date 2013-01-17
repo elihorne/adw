@@ -2,23 +2,51 @@
             <? include('header.php'); ?>
             
             
-            
-         
-            
-           
-            
-         
-            
-        
-            <div class="films works">
+                
+         <div class="films works">
+                <div class="allery-launcher">
+                    <h3>Reels</h3>
+                    
+                    
+                            <style type="text/css">
+                    .gallery-launcher{
+                    position:relative;
+                    margin:30px 0;
+                    }
+                    
+                    .gallery-launcher .message{
+                    position:absolute;
+                    opacity:0;
+                    top:0;
+                    left:0;
+                    -webkit-transition: opacity .15s linear;
+                    background:rgba(0,0,0,0.75);
+                    width:100%;
+                    height:100%;
+                    text-align:center;
+                    text-transform: uppercase;
+                    }
+                    
+                    .gallery-launcher .message p{
+                    line-height:300px;
+                    font-size:35px;
+                    font-weight: bold;
+                    }
+                    
+                    .gallery-launcher a{
+                    color:#fff;
+                    text-decoration: none;
+                    }
+                    
+                    .gallery-launcher:hover .message{
+                    opacity:1;
+                    }
+                    
+                </style>
             
            
                 
-                <div class="group">
-                
-            <div class="catagories">
-            <h4>REELS</h4>
-            </div>
+          
             
                     <ul class="items">
 						<li>
