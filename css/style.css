@@ -324,3 +324,13 @@ z-index:600;
 -webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
 }
 
+
+
+.vimeo{
+float:left;
+text-align:right;
+}
+
+.vimeotext{
+float:right;
+}
