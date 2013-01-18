@@ -58,7 +58,7 @@
                                         <span class="type">Date:</span> November, 2011
                                     </li>
                                 </ul>
-                            </a> 
+                            </a>
                             <span class="title">2011 Creative Reel</span>
                         </li>
                         <li>
