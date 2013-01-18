@@ -7,20 +7,13 @@
 				width="720" height="405" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>			
 				
 					
-					         <li>
-                         		  <ul class="payload">
-                                    <li>
+					       
                                         <span class="type">2011 Creative Demo Reel</span>
-                                    </li>
-                                    <li>
+                                
                                         <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
+                                    
                                         <span class="type">Date:</span> November, 2011
-                                    </li>
-                                </ul>
-                            </a> 
-                       </li>
+                         
 				
             </div>
           
