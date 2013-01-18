@@ -333,7 +333,8 @@ text-align:right;
 
 .vimeotext{
 float:right;
-vertical-align: bottom;
+vertical-align: text-bottom
+padding: 15px; 
 }
 
 
