@@ -333,7 +333,8 @@ margin-right:10px;
 }
 
 .vimeotext{
-vertical-align:text-bottom;
+float:right;
+vertical-align: bottom;
 
 }
 
