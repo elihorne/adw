@@ -7,7 +7,7 @@
 				width="720" height="405" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>			
 				</div>
 				
-				<div class="vimeotext"></div>		
+				<div class="vimeotext">		
 					<b>2013 Creative Doc Reel</b><br>
 						Andrew David Watson 
 				

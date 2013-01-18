@@ -329,14 +329,13 @@ z-index:600;
 .vimeo{
 float:left;
 text-align:right;
-padding: 15px;
 margin-right:10px;
 }
 
 .vimeotext{
 float:right;
-vertical-align: baseline;
-padding: 15px; 
+vertical-align: bottom;
+
 }
 
 
