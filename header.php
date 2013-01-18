@@ -20,6 +20,11 @@
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
         <script type="text/javascript" src="js/backstretch.js"></script>
         
+         <!-- lightbox -->
+        <script src="js/jquery-1.7.2.min.js"></script>
+		<script src="js/lightbox.js"></script>
+		<link href="css/lightbox.css" rel="stylesheet" />
+        
         
     </head>
     <body<? if(isset($section)) { echo ' class="'.$section.'"'; } ?>>

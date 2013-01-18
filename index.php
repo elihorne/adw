@@ -22,7 +22,7 @@
             
                     <ul class="items">
 						<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
+                            <a class="thumb" href="#" rel="lightbox" rel="http://player.vimeo.com/video/26251478">
                                 <img src="images/screens/2011-creative-reel.png" width="150"/>
                                 <ul class="payload">
                                     <li>
