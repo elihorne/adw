@@ -140,13 +140,22 @@
                 <div class="group middle">
                     <ul class="items">
                     
-                    
-                        <li>
-                            <a class="thumb" href="#" rel="images/screens/cs-large2.jpg" >
-                                <img src="images/screens/cs3.jpg" width="150" />
-                           
+        				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
+                                <img src="images/screens/cs2.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">WAITING OUT WINTER</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                    </li>
+                                    <li>
+                                        <span class="type">Music:</span>Huma-Huma
+                                    </li>
+                                </ul>
                             </a>
-                            <span class="title">WAITING OUT WINTER</span>
+                            <span class="title">Waiting Out Winter</span>
                         </li>
                     
                     
