@@ -179,7 +179,7 @@
                     
                     
                       <li>
-                     <img src="images/screens/bilenky-2.jpg" width="150" />
+                     <img src="images/screens/bilenky-4.jpg" width="150" />
                                   
                             <span class="title">Bicycling Magazine</span>
                         </li>
