@@ -177,6 +177,13 @@
                         </li>
                     
                     
+                     <img src="images/screens/bilenky-2.jpg" width="150" />
+                                  
+                            <span class="title">Bicycling Magazine</span>
+                        </li>
+                        
+                        
+                    
          				 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
                                 <img src="images/screens/rocket.jpg" width="150" />
@@ -219,11 +226,7 @@
                         
                         <li>
                             
-                                <img src="images/screens/bilenky-2.jpg" width="150" />
-                                  
-                            <span class="title">Bicycle Magazine</span>
-                        </li>
-                        
+                               
                  
                     
                  
