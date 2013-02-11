@@ -15,7 +15,7 @@
 
 <p>- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart.  </p>
 
-<p>- My work has taken me to such distinct locales as Bolivia, Colombia and China.  To date I have travelled to upwards of 20 countries. </p>
+<p>- My work has taken me to such distinct locales as Bolivia, Colombia and China.  To date I have travelled to over 20 countries, mostly for work. </p>
 
 <p>- My approach to lighting can best be defined as naturalistic and minimalistic, however I am no stranger to working with a full crew and lots of lights. My style is further defined by its framing, movement, and strong connection to still photography.  </p>
 
@@ -34,8 +34,6 @@
 <p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
 
 <p>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. </p>
-
-<p>- I didn't fly on a plane until I was 21.  Since then I have racked up a ridiculous amount of miles; recognize staff at JFK; have elite status with Delta and want to move to Amsterdam partly because I love Schiphol Airport!  </p>
 
 <p>- I own a Canon c300 package and a Canon 5d package.  I also have vast experience on the RED, Sony F3, Varicam and most other cameras.</p>
 
