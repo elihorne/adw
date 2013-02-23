@@ -178,6 +178,28 @@
                     
                     
                     
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/60117701">
+                                <img src="images/screens/bilenky-clean.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                  
+                                      <li>
+                                        <span class="type">Editor:</span>  Josh Camerote
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> Bicycling Magazine
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Bicycling Magazine</span>
+                        </li>
+                    
                     
                         
                         
@@ -222,15 +244,13 @@
                         </li>
                                        
                         
-                        <li>
-                     <img src="images/screens/bilenky-4.jpg" width="150" />
-                                  
-                            <span class="title">Bicycling Magazine</span>
-                        </li>
-                            
+                      
+                        
+                        
+                 
                                
                  
-                    
+                   
                  
 
                         
