@@ -171,6 +171,9 @@
                                     <li>
                                         <span class="type">Music:</span>Huma-Huma
                                     </li>
+                                     <li>
+                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
+                                    </li>
                                 </ul>
                             </a>
                             <span class="title">Waiting Out Winter</span>
@@ -179,7 +182,7 @@
                     
                     
                          <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/60117701">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/60117701">
                                 <img src="images/screens/bilenky-clean.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
