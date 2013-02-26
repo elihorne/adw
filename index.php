@@ -23,7 +23,7 @@
                     <ul class="items">
 						<li>
                             <a class="thumb" rel="http://player.vimeo.com/video/56958533">
-                                <img src="images/screens/weathervane-music-series" width="150"/>
+                                <img src="images/screens/weathervane-music-series.jpg" width="150"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type"></span>
