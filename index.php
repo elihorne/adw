@@ -23,14 +23,14 @@
                     <ul class="items">
 						<li>
                             <a class="thumb" rel="http://player.vimeo.com/video/56958533">
-                                <img src="images/screens/2011-creative-reel.png" width="150"/>
+                                <img src="images/screens/weathervane-music-series" width="150"/>
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">2013 Creative Doc Reel</span>
+                                        <span class="type"></span>
                                     </li>                                  
                                 </ul>
                             </a>
-                            <span class="title">2013 Creative Doc Reel</span>
+                            <span class="title">2013 Director's Reel</span>
                         </li>
    
    
@@ -39,11 +39,11 @@
                                 <img src="images/screens/2012-creative-reel.jpg" width="150"/>
                                 <ul class="payload">
                                     <li>
-                                        <span class="type">2013 Commercial  Reel</span>
+                                        <span class="type"></span>
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">2013 Commercial</span>
+                            <span class="title">2013 Cinematography Reel</span>
                         </li>
                         
                         
