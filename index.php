@@ -264,6 +264,41 @@
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
+                    
+                    <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/63966856">
+                                <img src="images/screens/bacon.jpg"  width="150" />
+                                      <ul class="payload">
+                                    
+                                    <li>
+                                        <span class="type">Scope:</span> Bacon!
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Director:</span>  Brad Hasse
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Agency:</span>  Publicis Kaplan Thaler
+                                    </li>
+                                    
+                                        <li>
+                                        <span class="type">Production Company:</span>  East Pleasant
+                                    </li>
+                                    
+                                    
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">SCOPE: BACON!</span>
+                        </li>
+                        
+                    
+                    
                     <ul class="items">
 						  <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
@@ -289,31 +324,7 @@
                         
                         
                         
-                               <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="150" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">PETA:</span>  Promo
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  PETA
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">PETA: Promo</span>
-                        </li>
-                        
-                        
+                                               
                          <li>
                               <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
                                 <img src="images/screens/ebay2.jpg" width="150" />
@@ -337,32 +348,32 @@
                         </li>
                         
                         
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56731460">
-                                <img src="images/screens/vouge.jpg"  width="150" />
-                                      <ul class="payload">
-                                    
+                              <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="150" />
+                             	<ul class="payload">
                                     <li>
-                                        <span class="type">Vogue:</span> Fashion Fund Intro
+                                        <span class="type">PETA:</span>  Promo
                                     </li>
-                                    
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
-                                    
                                     <li>
-                                        <span class="type">Director:</span>  Ricki Stern & Annie Sundberg
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
-                                    
                                         <li>
-                                        <span class="type">Production Company:</span>  BreakThru Films
+                                        <span class="type">Production Company:</span>  Shooters Inc.
                                     </li>
-                                  
+                                    <li>
+                                        <span class="type">Client:</span>  PETA
+                                    </li>
                                 </ul>
                             </a>
-                            <span class="title">VOGUE: FASHION FUND</span>
+                            <span class="title">PETA: Promo</span>
                         </li>
                         
+
+            
                         
                         
               
