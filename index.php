@@ -264,8 +264,8 @@
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
-                    
-                    <li>
+                    <ul class="items"> 
+                    	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/63966856">
                                 <img src="images/screens/bacon.jpg"  width="150" />
                                       <ul class="payload">
@@ -299,7 +299,7 @@
                         
                     
                     
-                    <ul class="items">
+                    
 						  <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
                                 <img src="images/screens/starbucks.jpg" width="150" />
