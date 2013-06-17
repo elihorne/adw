@@ -15,14 +15,14 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
                     
 <p><b>For coffee dates or director of photography inquires:</b></p>                
                 
-<p class="contact">
+<div class="contact">
             Andrew David Watson </br> 
             andrewdavidwatson@gmail.com</br>  
             (c) 215.391.3850</br> 
             (w) 347.926.3456</br>
             <a href="http://instagram.com/andrewdavidwatson" target="_blank">instagram/andrewdavidwatson</a>
             <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewddwatson</a>
-            
+           </div> 
             
 <p><b>For commercial inquires, please contact:</b></p>                
                 
