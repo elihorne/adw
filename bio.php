@@ -7,57 +7,39 @@
                 
                 
                 
-                <P><b>List are more fun then awkward third person bios, so here are some interesting facts:</b></P>
-                
-<p>
+As the son of a woodworker and the grandson of an auto-body mechanic, its no coincidence that Andrew David Watson's directorial work focuses on the world of craftsmanship and heritage.  Growing up with his own tool box since an early age, Andrew is as comfortable servicing the carbs on his 40 year old vintage motorcycle as he is behind a camera.  <p></p>
 
-<p>- I'm a NYC based Director / DP with an emphasis on creative nonfiction, with an overlap into commercial and narrative </p>
-
-<p>- I love anything and everything with two wheels, especially vintage motorcycles.  It keeps me a kid at heart.  </p>
-
-<p>- My work has taken me to such distinct locales as Bolivia, Colombia and China.  To date I have travelled to over 20 countries, mostly for work. </p>
-
-<p>- My approach to lighting can best be defined as naturalistic and minimalistic, however I am no stranger to working with a full crew and lots of lights. My style is further defined by its framing, movement, and strong connection to still photography.  </p>
-
-<p>- I covered the 2008 election for a documentary series ("2008 Uncut") for the IFC.  I hung out on the plane Obama used during his campaign  and was also at one point in his motorcade.  Pretty awesome.  </p>
-
-<p>- I have worked with crews of all shapes and sizes: from just a producer to 10+ clients watching in video village -- not to mention the art department, G&E and all the rest. </p>
-
-<p>- I love the creatively that online work provides.  My work has been nominate for a Webby Award (Art 21 New York Up Close series), shortlisted for a Vimeo Festival award (ETSY series) and has also appeared in exclusion Hulu.com series. </p>
-
-<p>- I have been bitten by fire ants while shooting on a coco farm in the Amazon basin, and have the scars to prove it.  </p>
-
-<p>- Some of my agency work includes: Draft FCB, JWT, Anomaly, Digitas, AB&C, Pipeline NY </p>
-
-<p>- A few networks I have  credits with include: PBS, BBC, Showtime, IFC, A&E, SkyArts, TLC, MTV, </p>
-
-<p>- Some clients and brands I have shot for include: ETSY, Macy's, Budweiser, Smirnoff, Puma, Tate Modern, PETA </p>
-
-<p>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level?  Ask me about it, its an interesting story. </p>
-
-<p>- I own a Canon c300 package and a Canon 5d package.  I also have vast experience on the RED, Sony F3, Varicam and most other cameras.</p>
-
+Between a background in traditional documentary storytelling, experience as a commercial DP and extensive international productions under his belt, Andrew brings a very unique and hard to acquire skill set to any project... not to mention his own distinctive style.  Through his directing and DP work, Andrew has collaborated with agencies such as Anomaly, Publicis, Draft FCB and brands such as ETSY, Starbucks, Ebay and Bicycling Magazine.<p>
 </p>
-     
+When not traveling for productions or off on solo motorcycle adventures, Andrew resides in the wonderful metropolis of New York City. 
                     
-<p><b>Wanna work on something together? Or just drink some coffee? Drop me a line:</b></p>                
+<p><b>For coffee dates or director of photography inquires:</b></p>                
                 
-       
-           
-                
-
-
-
-            <p class="contact"><b>
+<p class="contact">
             Andrew David Watson </br> 
             andrewdavidwatson@gmail.com</br>  
             (c) 215.391.3850</br> 
             (w) 347.926.3456</br>
-            <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewdavidwatson</a>
-            </b>
+            <a href="http://instagram.com/andrewdavidwatson" target="_blank">instagram/andrewdavidwatson</a>
+            <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewddwatson</a>
+            
+            
+<p><b>For commercial inquires, please contact:</b></p>                
+                
+
+            Fresh Artist Management<br>
+			165 W. 46th Street, Suite 1002<br>
+			New York, NY 10036<br>
+			212-704-4355<br>
+			<a href="http://www.feshartistmanagement.com" target="_blank">www.feshartistmanagement.com</a>
+ </br> 
+           
+           
+           
+           
             </p>
             
-            <br><br><br><br>
+            <br><br>
             
             
             </div>
