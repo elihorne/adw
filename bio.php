@@ -5,16 +5,16 @@
                 <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="350" align="top" hspace="10"></p>
                 
                 
-                
+    <div class"bio">           
                 
 As the son of a woodworker and the grandson of an auto-body mechanic, its no coincidence that Andrew David Watson's directorial work focuses on the world of craftsmanship and heritage.  Growing up with his own tool box since an early age, Andrew is as comfortable servicing the carbs on his 40 year old vintage motorcycle as he is behind a camera.  <p></p>
 
 Between a background in traditional documentary storytelling, experience as a commercial DP and extensive international productions under his belt, Andrew brings a very unique and hard to acquire skill set to any project... not to mention his own distinctive style.  Through his directing and DP work, Andrew has collaborated with agencies such as Anomaly, Publicis, Draft FCB and brands such as ETSY, Starbucks, Ebay and Bicycling Magazine.<p>
 </p>
 When not traveling for productions or off on solo motorcycle adventures, Andrew resides in the wonderful metropolis of New York City. 
+   </div>
    
-   
-<p><p></p></p>   
+<p> <p></p> </p>   
                     
 <p><b>For coffee dates or director of photography inquires:</b></p>                
                 
