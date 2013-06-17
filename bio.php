@@ -1,7 +1,7 @@
             <? $section = 'bio-contact'; ?>
             <? include('header.php'); ?>
             <div class="bio">
-                <b>About</b>
+                <b>ABOUT</b>
                 <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="350" align="top" hspace="10"></p>
                 
                 
