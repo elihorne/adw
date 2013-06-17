@@ -16,7 +16,7 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
    
 <p> <p></p> </p>   
                     
-<b>For coffee dates or director of photography inquires:</b>               
+<b>For coffee dates or work inquires:</b>               
                 
 <div class="biocontact">
             Andrew David Watson </br> 
@@ -27,7 +27,7 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
             <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewddwatson</a>
            </div> 
             
-<b>For commercial inquires, please contact:</b>               
+<b>Representation:</b>               
                 
 <div class="biocontact">
             Fresh Artist Management<br>
