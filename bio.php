@@ -2,7 +2,7 @@
             <? include('header.php'); ?>
             <div class="bio">
                 <b>ABOUT</b>
-                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="350" align="top" hspace="10"></p>
+                <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera2.jpg" align="right" width="350" align="top" hspace="10"></p>
                 
                 
     <div class="biobody">           
@@ -34,7 +34,7 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
 			165 W. 46th Street, Suite 1002<br>
 			New York, NY 10036<br>
 			212-704-4355<br>
-			<a href="http://www.feshartistmanagement.com" target="_blank">www.feshartistmanagement.com</a>
+			<a href="http://freshartistmanagement.com" target="_blank">www.feshartistmanagement.com</a>
 			</div>
  </br> 
            
