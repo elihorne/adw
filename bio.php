@@ -5,7 +5,7 @@
                 <p><img class="shadowbox" src="http://www.andrewdavidwatson.com/images/bio-camera.jpg" align="right" width="350" align="top" hspace="10"></p>
                 
                 
-    <div class"biobody">           
+    <div class="biobody">           
                 
 As the son of a woodworker and the grandson of an auto-body mechanic, its no coincidence that Andrew David Watson's directorial work focuses on the world of craftsmanship and heritage.  Growing up with his own tool box since an early age, Andrew is as comfortable servicing the carbs on his 40 year old vintage motorcycle as he is behind a camera.  <p></p>
 
