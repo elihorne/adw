@@ -18,7 +18,7 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
                     
 <p><b>For coffee dates or director of photography inquires:</b></p>                
                 
-<div class="biobody">
+<div class="biocontact">
             Andrew David Watson </br> 
             andrewdavidwatson@gmail.com</br>  
             (c) 215.391.3850</br> 
@@ -29,7 +29,7 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
             
 <p><b>For commercial inquires, please contact:</b></p>                
                 
-<div class="biobody">
+<div class="biocontact">
             Fresh Artist Management<br>
 			165 W. 46th Street, Suite 1002<br>
 			New York, NY 10036<br>

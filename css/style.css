@@ -127,10 +127,18 @@ padding-bottom: 6px;
 
 
 .biobody{
-font-size:12px;
+font-size:13px;
 color:#fff;
 text-align: left;
-padding-bottom: 50px;
+padding-bottom: 25px;
+
+}
+
+.biocontact{
+font-size:13px;
+color:#fff;
+text-align: left;
+padding-bottom: 10px;
 
 }
 
