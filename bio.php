@@ -11,6 +11,8 @@ As the son of a woodworker and the grandson of an auto-body mechanic, its no coi
 
 Between a background in traditional documentary storytelling, experience as a commercial DP and extensive international productions under his belt, Andrew brings a very unique and hard to acquire skill set to any project... not to mention his own distinctive style.  Through his directing and DP work, Andrew has collaborated with agencies such as Anomaly, Publicis, Draft FCB and brands such as ETSY, Starbucks, Ebay and Bicycling Magazine.<p>
 </p>
+
+<p>As a Director of Photography Andrew has worked with networks such as PBS, BBC, Sky Arts, Showtime and IFC.  Andrew is currently DP on the feature documentary Charge (A Cinereach Production), which was a 2013 recipient of the prestigious MacArthur Grant.  Through his DP work, Andrew has shot in distinct locations such as Colombia, Bolivia, South Africa, China and Sri Lanka.  Whether its working at altitudes exceeding 17,000 ft or hanging out of helicopters, Andrew's always up for an adventure.  </p>
 When not traveling for productions or off on solo motorcycle adventures, Andrew resides in the wonderful metropolis of New York City. 
    </div>
    
