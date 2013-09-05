@@ -66,7 +66,9 @@
             </div>
 
                     <ul class="items">
-                        <li>
+                 
+                        
+                                       <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
                                      <ul class="payload">
@@ -158,6 +160,39 @@
                 <div class="group middle">
                     <ul class="items">
                     
+                    
+                    
+                    
+                           <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/73832738" title="Greg Packer: Most Quoted Man in News" caption="Greg Packer" director="Andrew David Watson">
+                                <img src="images/screens/gregpacker.jpg"/ width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">Greg Packer: Most Quoted Man in News</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> The New Yorker
+                                    </li>
+                                     <li>
+                                        <span class="type">Editor:</span> Josh Camerote
+                                    </li>
+                                     <li>
+                                        <span class="type">Sound Design:</span> Julienne Guffain 
+                                    </li>
+                                     <li>
+                                        <span class="type">Music:</span> Huma-Huma
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">The New Yorker</span>
+                        </li>
+                        
+                        
+                        
+                    
         				 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
                                 <img src="images/screens/cs2.jpg" width="150" />
@@ -205,24 +240,7 @@
                     
   
                         
-                     <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
-                                <img src="images/screens/wv-sunset.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">WV: {{{SUNSET}}}</span>
-                        </li>
-                                       
+                   
                      
          				 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
@@ -434,29 +452,24 @@
                     
                     
                     
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png" width="150" />
-                                     <ul class="payload">
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
+                                <img src="images/screens/wv-sunset.jpg" width="150" />
+                                      <ul class="payload">
                                     <li>
-                                        <span class="type">Life As Dad:</span> Documentary Short (Trailer)
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Anthony Gilmore
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Nameless Films
-                                    </li>
-                                       <li>
-                                        <span class="type">Location:</span>  Japan
+                                    <li>
+                                        <span class="type">Client:</span> Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Life as Dad: Doc short</span>
+                            <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
+                                 
                         
                         
                         
