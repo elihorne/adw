@@ -405,7 +405,7 @@
                                   
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/77599730" >
-                                <img src="images/screens/bmw.png" width="150" />
+                                <img src="images/screens/bmw.jpg" width="150" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">BMW:</span>  "NOTHING LESS"
