@@ -410,11 +410,13 @@
                                     <li>
                                         <span class="type">BMW:</span>  "NOTHING LESS"
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
+                                  
                                     <li>
                                         <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                   
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Shooters Inc.
@@ -436,11 +438,13 @@
                                     <li>
                                         <span class="type">PETA:</span>  Promo
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
+                                 
                                     <li>
                                         <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                    
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Shooters Inc.
@@ -462,11 +466,12 @@
                                     <li>
                                         <span class="type">Susquehanna Bank:</span>  60 second spot
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
+                                   
                                     <li>
                                         <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Shooters Inc.
