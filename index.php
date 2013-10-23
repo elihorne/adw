@@ -342,6 +342,9 @@
                         
                         
                         
+                 
+                 
+                        
                                                
                          <li>
                               <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
@@ -366,7 +369,67 @@
                         </li>
                         
                         
-                              <li>
+                        
+                        
+                             
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
+                                <img src="images/screens/wv-sunset.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">WV: {{{SUNSET}}}</span>
+                        </li>
+                                
+                        
+              
+
+                        
+                       
+                    </ul>
+                </div>
+                
+                     <div class="group middle">
+                    <ul class="items">
+                    
+                        
+                                  
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77599730" >
+                                <img src="images/screens/bmw.png" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">BMW:</span>  "NOTHING LESS"
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Agency:</span>  KBS+
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">BMW: NOTHING LESS</span>
+                        </li>
+                        
+             
+             
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
                                 <img src="images/screens/peta-promo.png" width="150" />
                              	<ul class="payload">
@@ -390,15 +453,69 @@
                             <span class="title">PETA: Promo</span>
                         </li>
                         
-
+                    
                         
-                       
-                    </ul>
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
+                                <img src="images/screens/dentist.png"  width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Susquehanna Bank:</span>  60 second spot
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">Susquehanna: 1:00 spot</span>
+                        </li>
+ 
+ 
+                     
+                    
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">WV: Dr. Dog</span>
+                        </li>
+                        
+                        
+                        
+                        
+                 
+                        
+                     
+                     
+                     
+                          </ul>
                 </div>
                 
-                     <div class="group middle">
+                 <div class="group last">
                     <ul class="items">
-                    
+                     
+              
+              
+                         
+                        
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56666151">
                                 <img src="images/screens/yukon2.jpg"  width="150" />
@@ -421,10 +538,10 @@
                             </a>
                             <span class="title">Yukon Kings: Doc Short </span>
                         </li>
-                    
-                    
-                    
-                    
+              
+              
+              
+                       
                     	 <li>
                             <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
                                 <img src="images/screens/charge-feature-doc.png" width="150" />
@@ -449,35 +566,11 @@
                             </a>
                             <span class="title">Charge: Feature Doc</span>
                         </li>
-                    
-                    
-                    
-                       <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
-                                <img src="images/screens/wv-sunset.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">WV: {{{SUNSET}}}</span>
-                        </li>
-                                 
                         
                         
                         
-           
                         
-                        
-                        
-                      	<li>
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56759650">
                                 <img src="images/screens/art21-trading.jpg"  width="150" />
                                       <ul class="payload">
@@ -495,100 +588,24 @@
                                     </li>
                                      </li>
                                         <li>
-                                       Episode #3 from Art 21's "New York Up Close," a primarily cinema vertie web series (Nominated for a 2012 WEBBY award.)
+                                       Episode #3 from Art 21's "New York Up Close," a primarily cinema vertie web series (Nominated for a 2012 										WEBBY award.)
                                     </li>
                                   
                                 </ul>
                             </a>
                             <span class="title">ART 21: Trading Art</span>
                         </li>
+       
                         
-                     
-                     
-                     
-                          </ul>
-                </div>
-                
-                 <div class="group last">
-                    <ul class="items">
-                     
+     
                         
-                        
-                 	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
-                                <img src="images/screens/dentist.png"  width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank:</span>  60 second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Susquehanna: 1:00 spot</span>
-                        </li>
-                                    
-                                      
-                              	<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56729972">
-                                <img src="images/screens/sb-business.jpg"  width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank "Business":</span>  :30 TV second spot
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
-                                  
-                                </ul>
-                            </a>
-                            <span class="title">Susquehanna: :30 spot</span>
-                        </li>
-                        
-                    
-                    
-                    
-                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">WV: Dr. Dog</span>
-                        </li>
-                        
-                        
-                        
-                                         	<li>
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
                                 <img src="images/screens/dearmom.jpg"  width="150" />
                                       <ul class="payload">
                               
                                         <li>
-                                        <span class="type">DEAR MOM:</span>  This is what I do for a living (BTS video from a feature doc shoot in Bolivia )
+                                        <span class="type">DEAR MOM:</span>  This is what I do for a living (BTS video from a feature doc shoot 												in Bolivia )
                                     </li>
                                   
                                 </ul>
