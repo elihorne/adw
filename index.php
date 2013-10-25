@@ -483,25 +483,35 @@
                         </li>
  
  
-                     
-                    
-                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
-                                <img src="images/screens/drdog.jpg" width="150" />
-                                      <ul class="payload">
+                                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77809645" >
+                                <img src="images/screens/jager2.jpg" width="150" />
+                             	<ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                        <span class="type">JŠgermeister:</span>  "Shotmeister"
                                     </li>
+                                  
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Art Director:</span>  Will Hall
                                     </li>
+                                    
+                                       <li>
+                                        <span class="type">Agency Producer:</span>  JULIANA BITAR
+                                    </li>
+                                   
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    </li>
+                                      
                                     <li>
-                                        <span class="type">Client:</span>  Weathervane Music Series
+                                        <span class="type">Agency:</span>  MRY
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WV: Dr. Dog</span>
+                            <span class="title">JŠgermeister: Shotmeister</span>
                         </li>
+                    
+             
                         
                         
                         
@@ -574,32 +584,24 @@
                         
                         
                         
-                        
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56759650">
-                                <img src="images/screens/art21-trading.jpg"  width="150" />
+                                    <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Rashid Johnson Trades Art with Angel Otero:</span>
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Director:</span>  Nick Ravich & Wesley Miller
+                                        <span class="type">Client:</span>  Weathervane Music Series
                                     </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Art 21
-                                    </li>
-                                     </li>
-                                        <li>
-                                       Episode #3 from Art 21's "New York Up Close," a primarily cinema vertie web series (Nominated for a 2012 										WEBBY award.)
-                                    </li>
-                                  
                                 </ul>
                             </a>
-                            <span class="title">ART 21: Trading Art</span>
+                            <span class="title">WV: Dr. Dog</span>
                         </li>
+
        
                         
      
