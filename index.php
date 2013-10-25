@@ -345,7 +345,7 @@
                  
                                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/77809645" >
-                                <img src="images/screens/jager2.jpg" width="150" />
+                                <img src="images/screens/jager.jpg" width="150" />
                              	<ul class="payload">
                                     <li>
                                         <span class="type">Jager:</span>  "Shotmeister"
