@@ -343,31 +343,37 @@
                         
                         
                  
-                 
-                        
-                                               
-                         <li>
-                              <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
-                                <img src="images/screens/ebay2.jpg" width="150" />
-                                      <ul class="payload">
+                                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77809645" >
+                                <img src="images/screens/jager2.jpg" width="150" />
+                             	<ul class="payload">
                                     <li>
-
-                                        <span class="type">EBAY: </span>  Journey of Style
+                                        <span class="type">Jager:</span>  "Shotmeister"
                                     </li>
+                                  
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Art Director:</span>  Will Hall
                                     </li>
+                                    
+                                       <li>
+                                        <span class="type">Agency Producer:</span>  JULIANA BITAR
+                                    </li>
+                                   
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    </li>
+                                      
                                     <li>
-                                        <span class="type">Director:</span>  Leon Yan
-                                    </li>
-                                        <li>
-                                        <span class="type">Creative Agency / Production House:</span> NeochaEDGE ///
+                                        <span class="type">Agency:</span>  MRY
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">EBAY: Journey of Style</span>
+                            <span class="title">Jager: Shotmeister</span>
                         </li>
+                 
                         
+                                               
+                  
                         
                         
                         
@@ -457,6 +463,31 @@
                             <span class="title">PETA: Promo</span>
                         </li>
                         
+                        
+                        
+                               <li>
+                              <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
+                                <img src="images/screens/ebay2.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+
+                                        <span class="type">EBAY: </span>  Journey of Style
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Leon Yan
+                                    </li>
+                                        <li>
+                                        <span class="type">Creative Agency / Production House:</span> NeochaEDGE ///
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">EBAY: Journey of Style</span>
+                        </li>
+                        
+                        
                     
                         
                         <li>
@@ -483,33 +514,7 @@
                         </li>
  
  
-                                       <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77809645" >
-                                <img src="images/screens/jager2.jpg" width="150" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">JŠgermeister:</span>  "Shotmeister"
-                                    </li>
-                                  
-                                    <li>
-                                        <span class="type">Art Director:</span>  Will Hall
-                                    </li>
-                                    
-                                       <li>
-                                        <span class="type">Agency Producer:</span>  JULIANA BITAR
-                                    </li>
-                                   
-                                      <li>
-                                        <span class="type">Director of Photography:</span>  Andrew David Watson
-                                    </li>
-                                      
-                                    <li>
-                                        <span class="type">Agency:</span>  MRY
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">JŠgermeister: Shotmeister</span>
-                        </li>
+                 
                     
              
                         
