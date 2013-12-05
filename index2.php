@@ -23,71 +23,68 @@
                     <ul class="items">
 						<li>
                             <a class="thumb" rel="http://player.vimeo.com/video/56958533">
-                                <img src="images/screens/weathervane-music-series.png" width="150"/>
+                                <img src="images/screens/redwing.jpg" width="150"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type"></span>
                                     </li>                                  
                                 </ul>
                             </a>
-                            <span class="title">2013 Director's Reel</span>
+                            <span class="title">Director/DP Reel</span>
                         </li>
    
    
                                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                         
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
-                                     <ul class="payload">
-                                    <li>
-                                        <span class="type">Liberty Vintage</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> ETSY.com
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Etsy: Liberty Vintage</span>
+                               
+                            <span class="title">RED WING BOOTS (SOON!)</span>
                         </li>
                         
                         
                                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77836000" title="KHOGY 		  														" caption="KHOGY" director="Andrew David Watson">
+                                <img src="images/screens/khogy.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">Liberty Vintage</span>
+                                        <span class="type">KHOGY</span> Fish for my Unborn Children
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> ETSY.com
+                                        <span class="type">Client:</span> KHOGY
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Liberty Vintage</span>
+                            <span class="title">KHOGY</span>
                         </li>
                         
                         
                                            <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/74758055" title="GILT" 
+                            caption="GILT" director="Andrew David Watson">
+                                <img src="images/screens/gilt.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">Liberty Vintage</span>
+                                        <span class="type">GILT & INFINITI</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> ETSY.com
+                                        <span class="type">Client:</span> GILT.com
                                     </li>
+                                    
+                                     <li>
+                                        <span class="type">Production Company:</span> MILK / LEGS 
+                                    </li>
+                                    
+                             
+                                    
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Liberty Vintage</span>
+                            <span class="title">GILT: INFINITI Q50</span>
                         </li>
                         
                  
@@ -335,7 +332,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">2013 Cinematography Reel</span>
+                            <span class="title">Cinematography Reel</span>
                         </li>
                     
                     
