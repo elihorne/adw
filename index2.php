@@ -102,13 +102,10 @@
                 
                 
                 
-                <div class="group">
-                
-            <div class="catagories">
-            <h4></h4>
-            </div>
-
+              <div class="group middle">
                     <ul class="items">
+
+               
                  
                         
                                        <li>
@@ -325,8 +322,11 @@
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
-            
-                <li>
+  
+                    <ul class="items"> 
+                    
+                    
+                        <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/56949256">
                                 <img src="images/screens/2012-creative-reel.jpg" width="150"/>
                                 <ul class="payload">
@@ -337,10 +337,9 @@
                             </a>
                             <span class="title">2013 Cinematography Reel</span>
                         </li>
-                        
-                        
-            
-                    <ul class="items"> 
+                    
+                    
+                    
                     	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/63966856">
                                 <img src="images/screens/bacon.jpg"  width="150" />
