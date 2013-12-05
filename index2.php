@@ -1,97 +1,48 @@
             <? $section = 'film'; ?>
             <? include('header.php'); ?>
             
+            
+            
+         
+            
+           
+            
+         
+            
+        
             <div class="films works">
-                <div class="allery-launcher">
-                    <h3>Reels</h3>
-                    
-                    
-                            <style type="text/css">
-                    .gallery-launcher{
-                    position:relative;
-                    margin:30px 0;
-                    }
-                    
-                    .gallery-launcher .message{
-                    position:absolute;
-                    opacity:0;
-                    top:0;
-                    left:0;
-                    -webkit-transition: opacity .15s linear;
-                    background:rgba(0,0,0,0.75);
-                    width:100%;
-                    height:100%;
-                    text-align:center;
-                    text-transform: uppercase;
-                    }
-                    
-                    .gallery-launcher .message p{
-                    line-height:300px;
-                    font-size:35px;
-                    font-weight: bold;
-                    }
-                    
-                    .gallery-launcher a{
-                    color:#fff;
-                    text-decoration: none;
-                    }
-                    
-                    .gallery-launcher:hover .message{
-                    opacity:1;
-                    }
-                    
-                </style>
+            
+           
                 
-                
-                    <ul class="gallery-toggle">
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251478">
-                                <img src="images/screens/2011-creative-reel.png" width="235"/>
-                                <ul class="payload">
-                                    <li>
-                                        <span class="type">2011 Creative Demo Reel</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Date:</span> November, 2011
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">2011 Creative Reel</span>
-                        </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251445">
-                                <img src="images/screens/2011-tv-eng-reel.png" alt="2011-tv-eng-reel" width="235" />
-                                <ul class="payload">
-                                    <li>
-                                        <span class="type">2011 ENG/TV Reel</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Date:</span> November, 2011
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">2011 TV/Eng Reel</span>
-                        </li>
-                    </ul>
-                </div>
                 <div class="group">
-                    <h3>Projects</h3>
+                
+            <div class="catagories">
+            <h4>DIRECTORIAL</h4>
+            </div>
+            
                     <ul class="items">
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty Vintage" caption="Liberty Vintage" director="Andrew David Watson">
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="235" />
+						<li>
+                            <a class="thumb" rel="http://player.vimeo.com/video/56958533">
+                                <img src="images/screens/weathervane-music-series.png" width="150"/>
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type"></span>
+                                    </li>                                  
+                                </ul>
+                            </a>
+                            <span class="title">2013 Director's Reel</span>
+                        </li>
+   
+   
+                                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
                                      <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -100,65 +51,94 @@
                             </a>
                             <span class="title">Etsy: Liberty Vintage</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
-                                <img src="images/screens/etsy-brazenhead-books.png" width="235" />
-                                      <ul class="payload">
+                        
+                        
+                                          <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                                     <ul class="payload">
                                     <li>
-                                        <span class="type">Brazenhead Books</span>
+                                        <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Brazenhead books</span>
+                            <span class="title">Etsy: Liberty Vintage</span>
                         </li>
                         
                         
-                     
-                        
-                        
-                        
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251042">
-                                <img src="images/screens/weathervane-music-series.png" width="235" />
-                                      <ul class="payload">
+                                           <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                                     <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>Twin Sister
+                                        <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>  WXPN / Weathervane Music Series
+                                        <span class="type">Client:</span> ETSY.com
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Weathervane Series</span>
+                            <span class="title">Etsy: Liberty Vintage</span>
                         </li>
+                        
+                 
+                        
+                             
+                    
+                        
+                        
                     </ul>
                 </div>
                 
                 
                 
                 
-                <div class="group middle">
-                    <h3> </h3>
+                <div class="group">
+                
+            <div class="catagories">
+            <h4></h4>
+            </div>
+
                     <ul class="items">
-                    
-                         <li>
+                 
+                        
+                                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
+                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Vintage</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Vintage</span>
+                        </li>
+                        
+                        
+                                 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="235" />
+                                <img src="images/screens/film-liberty.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Liberty Tools</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography, Editor
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -168,21 +148,351 @@
                             <span class="title">Etsy: Liberty Tools</span>
                         </li>
                         
-                    
-                    
-                    
+                        
                         <li>
-                            <a class="thumb" href="#" rel="images/screens/film-peta-promo.jpg" >
-                                <img src="images/screens/peta-promo.png" width="235" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26293855">
+                                <img src="images/screens/etsy-brazenhead-books.png" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Brazenhead Books</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Brazenhead books</span>
+                        </li>
+                        
+  						
+  						<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
+                                <img src="images/screens/bkwatches.jpg" width="150" />
                              	<ul class="payload">
                                     <li>
-                                        <span class="type">PETA:</span>  Promo
+                                        <span class="type">ETSY:</span>  Brooklyn Watches
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director / Director of Photography
+                                    </li>
+                                  
+                                     
+                                    <li>
+                                        <span class="type">Client:</span>  ETSY
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">ETSY: BK WATCHES</span>
+                        </li> 
+  				
+                
+              
+                        
+                        
+                        
+               
+     
+                 </ul>
+                </div>
+                
+		
+
+                <div class="group middle">
+                    <ul class="items">
+                    
+                    
+                    
+                    
+                           <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/78068001" title="Greg Packer: Most Quoted Man in News" caption="Greg Packer" director="Andrew David Watson">
+                                <img src="images/screens/gregpacker.jpg"/ width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">Greg Packer: Most Quoted Man in News</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> The New Yorker
+                                    </li>
+                                     <li>
+                                        <span class="type">Editor:</span> Josh Camerote
+                                    </li>
+                                     <li>
+                                        <span class="type">Sound Design:</span> Julienne Guffain 
+                                    </li>
+                                     <li>
+                                        <span class="type">Music:</span> Huma-Huma
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">The New Yorker</span>
+                        </li>
+                        
+                        
+                        
+                    
+        				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
+                                <img src="images/screens/cs2.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">WAITING OUT WINTER</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                    </li>
+                                    <li>
+                                        <span class="type">Music:</span>Huma-Huma
+                                    </li>
+                                     <li>
+                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Waiting Out Winter</span>
+                        </li>
+                    
+                    
+                    
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/60117701">
+                                <img src="images/screens/bilenky-clean.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                  
+                                      <li>
+                                        <span class="type">Editor:</span>  Josh Camerote
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> Bicycling Magazine
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Bicycling Magazine</span>
+                        </li>
+                    
+  
+                        
+                   
+                     
+         				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
+                                <img src="images/screens/rocket.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                    </li>
+                                    <li>
+                                        <span class="type">Personal Project</span>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Louis "Rocket" Re</span>
+                        </li>
+                           
+                      
+                        
+                        
+                 
+                               
+                 
+                   
+                 
+
+                        
+                    </ul>
+                </div>
+                
+           
+
+
+                <div class="group">
+                
+            <div class="catagories" width="340">
+            <h4>DIRECTOR OF PHOTOGRAPHY</h4>
+            </div>
+            
+            
+                <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56949256">
+                                <img src="images/screens/2012-creative-reel.jpg" width="150"/>
+                                <ul class="payload">
+                                    <li>
+                                        <span class="type"></span>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">2013 Cinematography Reel</span>
+                        </li>
+                        
+                        
+            
+                    <ul class="items"> 
+                    	<li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/63966856">
+                                <img src="images/screens/bacon.jpg"  width="150" />
+                                      <ul class="payload">
+                                    
+                                    <li>
+                                        <span class="type">Scope:</span> Bacon!
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Director:</span>  Brad Hasse
+                                    </li>
+                                    
+                                    <li>
+                                        <span class="type">Agency:</span>  Publicis Kaplan Thaler
+                                    </li>
+                                    
+                                        <li>
+                                        <span class="type">Production Company:</span>  East Pleasant
+                                    </li>
+                                    
+                                    
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">SCOPE: BACON!</span>
+                        </li>
+                        
+                    
+                    
+                    
+						  <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
+                                <img src="images/screens/starbucks.jpg" width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">STARBUCKS:</span> La BOULANGE
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
+                                        <span class="type">Director:</span>  Bennett Barbakow
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Houseblend Media
+                                    </li>
+                                     
+                                </ul>
+                            </a>
+                            <span class="title">STARBUCKS: LA BOULANGE</span>
+                        </li>
+                        
+                        
+                        
+                 
+                                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77809645" >
+                                <img src="images/screens/jager.jpg" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">Jager:</span>  "Shotmeister"
+                                    </li>
+                                  
+                                    <li>
+                                        <span class="type">Art Director:</span>  Will Hall
+                                    </li>
+                                    
+                                       <li>
+                                        <span class="type">Agency Producer:</span>  JULIANA BITAR
+                                    </li>
+                                   
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    </li>
+                                      
+                                    <li>
+                                        <span class="type">Agency:</span>  MRY
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Jager: Shotmeister</span>
+                        </li>
+                 
+                        
+                                               
+                  
+                        
+                        
+                        
+                             
+             
+                                
+                        
+              
+
+                        
+                       
+                    </ul>
+                </div>
+                
+                     <div class="group middle">
+                    <ul class="items">
+                    
+                        
+                                  
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77599730" >
+                                <img src="images/screens/bmw.jpg" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">BMW:</span>  "NOTHING LESS"
+                                    </li>
+                                  
+                                    <li>
                                         <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                   
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Agency:</span>  KBS+
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">BMW: NOTHING LESS</span>
+                        </li>
+                        
+             
+             
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">PETA:</span>  Promo
+                                    </li>
+                                 
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                    
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Shooters Inc.
@@ -194,18 +504,47 @@
                             </a>
                             <span class="title">PETA: Promo</span>
                         </li>
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
-                                <img src="images/screens/dentist.png"  width="235" />
+                        
+                        
+                        
+                               <li>
+                              <a class="thumb" href="#" rel="http://player.vimeo.com/video/56343120" >
+                                <img src="images/screens/ebay2.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Susquehanna Bank:</span>  60 second spot
+
+                                        <span class="type">EBAY: </span>  Journey of Style
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span>  Director of Photography
                                     </li>
                                     <li>
+                                        <span class="type">Director:</span>  Leon Yan
+                                    </li>
+                                        <li>
+                                        <span class="type">Creative Agency / Production House:</span> NeochaEDGE ///
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">EBAY: Journey of Style</span>
+                        </li>
+                        
+                        
+                    
+                        
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/32292195">
+                                <img src="images/screens/dentist.png"  width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Susquehanna Bank:</span>  60 second spot
+                                    </li>
+                                   
+                                    <li>
                                         <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
                                         <span class="type">Production Company:</span>  Shooters Inc.
@@ -213,95 +552,130 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">SB: Commercial</span>
+                            <span class="title">Susquehanna: 1:00 spot</span>
                         </li>
-                  
+ 
+ 
+                 
+                    
+             
+                        
+                        
+                        
+                        
+                 
                         
                      
-                        
-                        
-                    </ul>
+                     
+                     
+                          </ul>
                 </div>
-                <div class="group last">
-                    <h3> </h3>
+                
+                 <div class="group last">
                     <ul class="items">
-                    	
-                    	 <li>
-                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
-                                <img src="images/screens/charge-feature-doc.png" width="235" />
+                     
+              
+              
+                         
+                        
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/63096183">
+                                <img src="images/screens/yukon2.jpg"  width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Charge</span>  Feature Documentary
+                                        <span class="type">Yukon Kings:</span>  Documentary Short
+                                    </li>
+                                     <li>
+                                        <span class="type">Production Company:</span>  GO Films
+                                    </li>
+                                
+                                      <li>
+                                        <span class="type">Directed by:</span>  Emmanuel Vaughan-Lee
+                                    </li>
+                                     <li>
+                                     
+											Shot near the mouth of the Yukon River and the Bering Sea, 500 miles northwest of Anchorage. 
+                            		</li>       
+                                </ul>
+                            </a>
+                            <span class="title">Yukon Kings: Doc Short </span>
+                        </li>
+              
+              
+              
+                       
+                   <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
+                                <img src="images/screens/wv-sunset.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                   
-                                        <li>
-                                        <span class="type">Format:</span>  RED 4k
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                     <li>
-                                        <span class="type">Location:</span>  Bolivia
-                                    </li>
-                                    <li>
-                                        <span class="type"></span>  Sample footage available by request. 
+                                        <span class="type">Client:</span> Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Charge: Feature Doc</span>
+                            <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
-                    
-                    
-                    
+                        
+                        
+                        
+                                    <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/10827210">
+                                <img src="images/screens/drdog.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">  Weathervane Music Series:</span>  Man Suites (aka Dr. Dog)
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  Weathervane Music Series
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">WV: Dr. Dog</span>
+                        </li>
+
+       
+                        
+     
+                        
                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/8674980">
-                                <img src="images/screens/life-as-dad.png" width="235" />
-                                     <ul class="payload">
-                                    <li>
-                                        <span class="type">Life As Dad:</span> Documentary Short (Trailer)
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Anthony Gilmore
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Nameless Films
-                                    </li>
-                                       <li>
-                                        <span class="type">Location:</span>  Japan
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Life as Dad: Doc short</span>
-                        </li>
-                        
-                        
-                      <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/26251329">
-                                <img src="images/screens/counter-doers-spots.png" width="235" />
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/45606009">
+                                <img src="images/screens/dearmom.jpg"  width="150" />
                                       <ul class="payload">
-                                    <li>
-                                        <span class="type">Susquehanna Bank:</span>  Counter and Doers TV campaign
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
+                              
                                         <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
-                                    </li>
+                                        <span class="type">DEAR MOM:</span>  This is what I do for a living.                                    										</li>
+                                        
+                                        <li>BTS video from a feature doc shoot in Bolivia.
+                                        </li>
+                                        
+                                  
                                 </ul>
                             </a>
-                            <span class="title"> SB: Counter &amp; Doers</span>
+                            <span class="title">Dear Mom (JUST FOR FUN)</span>
                         </li>
+                        
+                        
+      
+                        
+                        
+           
                         
                        
                     </ul>
                 </div>
+
+                
+                
+                
             </div>
             <? include('footer.php'); ?>
             

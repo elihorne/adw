@@ -164,7 +164,7 @@
                     
                     
                            <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/73832738" title="Greg Packer: Most Quoted Man in News" caption="Greg Packer" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/78068001" title="Greg Packer: Most Quoted Man in News" caption="Greg Packer" director="Andrew David Watson">
                                 <img src="images/screens/gregpacker.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
@@ -537,7 +537,7 @@
                          
                         
                          <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56666151">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/63096183">
                                 <img src="images/screens/yukon2.jpg"  width="150" />
                                       <ul class="payload">
                                     <li>
@@ -551,7 +551,7 @@
                                         <span class="type">Directed by:</span>  Emmanuel Vaughan-Lee
                                     </li>
                                      <li>
-                                       An excerpt from the documentary short "Yukon Kings." 
+                                     
 											Shot near the mouth of the Yukon River and the Bering Sea, 500 miles northwest of Anchorage. 
                             		</li>       
                                 </ul>
@@ -617,8 +617,11 @@
                                       <ul class="payload">
                               
                                         <li>
-                                        <span class="type">DEAR MOM:</span>  This is what I do for a living (BTS video from a feature doc shoot 												in Bolivia )
-                                    </li>
+                                        <span class="type">DEAR MOM:</span>  This is what I do for a living.                                    										</li>
+                                        
+                                        <li>BTS video from a feature doc shoot in Bolivia.
+                                        </li>
+                                        
                                   
                                 </ul>
                             </a>
