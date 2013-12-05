@@ -23,7 +23,7 @@
                     <ul class="items">
 						<li>
                             <a class="thumb" rel="http://player.vimeo.com/video/56958533">
-                                <img src="images/screens/redwing.jpg" width="150"/>
+                                <img src="images/screens/weathervane-music-series.png" width="150"/>
                                 <ul class="payload">
                                     <li>
                                         <span class="type"></span>
@@ -36,7 +36,7 @@
    
                                         <li>
                          
-                                <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
+                                <img src="images/screens/redwing.jpg"/ width="150" />
                                
                             <span class="title">RED WING BOOTS (SOON!)</span>
                         </li>
