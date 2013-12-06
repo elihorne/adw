@@ -52,9 +52,7 @@
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
                                     </li>
-                                    <li>
-                                        <span class="type">Client:</span> KHOGY
-                                    </li>
+                                   
                                 </ul>
                             </a>
                             <span class="title">KHOGY</span>
@@ -62,7 +60,7 @@
                         
                         
                                            <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/74758055" title="GILT" 
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/81154251" title="GILT" 
                             caption="GILT" director="Andrew David Watson">
                                 <img src="images/screens/gilt.jpg"/ width="150" />
                                      <ul class="payload">
