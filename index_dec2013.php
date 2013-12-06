@@ -17,7 +17,7 @@
                 <div class="group">
                 
             <div class="catagories">
-            <h4>DIRECTORIAL</h4>
+            <h4>REELS</h4>
             </div>
             
                     <ul class="items">
@@ -30,60 +30,22 @@
                                     </li>                                  
                                 </ul>
                             </a>
-                            <span class="title">Director's Reel</span>
+                            <span class="title">2013 Director's Reel</span>
                         </li>
    
    
-                                        <li>
-                         
-                                <img src="images/screens/redwing.jpg"/ width="150" />
-                               
-                            <span class="title">RED WING (SOON!)</span>
-                        </li>
-                        
-                        
-                                          <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77836000" title="KHOGY 		  														" caption="KHOGY" director="Andrew David Watson">
-                                <img src="images/screens/khogy.jpg"/ width="150" />
-                                     <ul class="payload">
+                         <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56949256">
+                                <img src="images/screens/2012-creative-reel.jpg" width="150"/>
+                                <ul class="payload">
                                     <li>
-                                        <span class="type">KHOGY</span> Fish for my Unborn Children
+                                        <span class="type"></span>
                                     </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                   
                                 </ul>
                             </a>
-                            <span class="title">KHOGY</span>
+                            <span class="title">2013 Cinematography Reel</span>
                         </li>
                         
-                        
-                                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/81154251" title="GILT" 
-                            caption="GILT" director="Andrew David Watson">
-                                <img src="images/screens/gilt.jpg"/ width="150" />
-                                     <ul class="payload">
-                                    <li>
-                                        <span class="type">GILT & INFINITI</span>updated gilt reel
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> GILT.com
-                                    </li>
-                                    
-                                     <li>
-                                        <span class="type">Production Company:</span> MILK / LEGS 
-                                    </li>
-                                    
-                             
-                                    
-                                </ul>
-                            </a>
-                            <span class="title">GILT: INFINITI Q50</span>
-                        </li>
                         
                  
                         
@@ -97,10 +59,13 @@
                 
                 
                 
-              <div class="group middle">
-                    <ul class="items">
+                <div class="group">
+                
+            <div class="catagories">
+            <h4>DIRECTORIAL</h4>
+            </div>
 
-               
+                    <ul class="items">
                  
                         
                                        <li>
@@ -111,7 +76,7 @@
                                         <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -130,8 +95,8 @@
                                         <span class="type">Liberty Tools</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                                                            </li>
+                                        <span class="type">Roles:</span> Director, Director of Photography
+                                    </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
                                     </li>
@@ -149,7 +114,7 @@
                                         <span class="type">Brazenhead Books</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -168,7 +133,7 @@
                                         <span class="type">ETSY:</span>  Brooklyn Watches
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, DP
+                                        <span class="type">Roles:</span>  Director / Director of Photography
                                     </li>
                                   
                                      
@@ -203,10 +168,10 @@
                                 <img src="images/screens/gregpacker.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">The New Yorker: Most Quoted Man in News</span>
+                                        <span class="type">Greg Packer: Most Quoted Man in News</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
+                                        <span class="type">Roles:</span> Director, Director of Photography
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> The New Yorker
@@ -236,7 +201,7 @@
                                         <span class="type">WAITING OUT WINTER</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
+                                        <span class="type">Roles:</span> Director, Director of Photographer
                                     </li>
                                     <li>
                                         <span class="type">Music:</span>Huma-Huma
@@ -259,7 +224,7 @@
                                         <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, DP
+                                        <span class="type">Roles:</span>  Director, Director of Photography
                                     </li>
                                   
                                       <li>
@@ -285,7 +250,7 @@
                                         <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
+                                        <span class="type">Roles:</span> Director, Director of Photographer
                                     </li>
                                     <li>
                                         <span class="type">Personal Project</span>
@@ -317,24 +282,7 @@
             <h4>DIRECTOR OF PHOTOGRAPHY</h4>
             </div>
             
-  
                     <ul class="items"> 
-                    
-                    
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56949256">
-                                <img src="images/screens/2012-creative-reel.jpg" width="150"/>
-                                <ul class="payload">
-                                    <li>
-                                        <span class="type"></span>
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Cinematography Reel</span>
-                        </li>
-                    
-                    
-                    
                     	<li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/63966856">
                                 <img src="images/screens/bacon.jpg"  width="150" />
@@ -370,7 +318,27 @@
                     
                     
                     
-					
+						  <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
+                                <img src="images/screens/starbucks.jpg" width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">STARBUCKS:</span> La BOULANGE
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Director:</span>  Bennett Barbakow
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Houseblend Media
+                                    </li>
+                                     
+                                </ul>
+                            </a>
+                            <span class="title">STARBUCKS: LA BOULANGE</span>
+                        </li>
                         
                         
                         
@@ -408,33 +376,25 @@
                   
                         
                         
-                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="150" />
-                             	<ul class="payload">
+                        
+                             
+                       <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
+                                <img src="images/screens/wv-sunset.jpg" width="150" />
+                                      <ul class="payload">
                                     <li>
-                                        <span class="type">PETA:</span>  Promo
-                                    </li>
-                                 
-                                    <li>
-                                        <span class="type">Director:</span>  Scott Whitham
-                                    </li>
-                                    
-                                      <li>
-                                        <span class="type">Director of Photography:</span>  Andrew David Watson
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>  PETA
+                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> Weathervane Music Series
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">PETA: Promo</span>
+                            <span class="title">WV: {{{SUNSET}}}</span>
                         </li>
-                             
-             
                                 
                         
               
@@ -477,28 +437,31 @@
                         
              
              
-             	  <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
-                                <img src="images/screens/starbucks.jpg" width="150" />
-                                     <ul class="payload">
+                        <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="150" />
+                             	<ul class="payload">
                                     <li>
-                                        <span class="type">STARBUCKS:</span> La BOULANGE
+                                        <span class="type">PETA:</span>  Promo
                                     </li>
+                                 
                                     <li>
-                                        <span class="type">Roles:</span>  Director of Photography
+                                        <span class="type">Director:</span>  Scott Whitham
                                     </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Bennett Barbakow
+                                    
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>  Houseblend Media
+                                        <span class="type">Production Company:</span>  Shooters Inc.
                                     </li>
-                                     
+                                    <li>
+                                        <span class="type">Client:</span>  PETA
+                                    </li>
                                 </ul>
                             </a>
-                            <span class="title">STARBUCKS: LA BOULANGE</span>
+                            <span class="title">PETA: Promo</span>
                         </li>
-                     
                         
                         
                         
@@ -599,22 +562,29 @@
               
               
                        
-                   <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56730507">
-                                <img src="images/screens/wv-sunset.jpg" width="150" />
+                    	 <li>
+                            <a class="thumb" href="#" rel="images/screens/film-charge.jpg" >
+                                <img src="images/screens/charge-feature-doc.png" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">  Weathervane Music Series:</span>{{{SUNSET}}} ***Directors Cut
+                                        <span class="type">Charge</span>  Feature Documentary
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director of Photography
+                                    </li>
+                                   
+                                        <li>
+                                        <span class="type">Format:</span>  RED 4k
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span> Weathervane Music Series
+                                        <span class="type">Location:</span>  Bolivia
+                                    </li>
+                                    <li>
+                                        <span class="type"></span>  Sample footage available by request. 
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">WV: {{{SUNSET}}}</span>
+                            <span class="title">Charge: Feature Doc</span>
                         </li>
                         
                         
