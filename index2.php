@@ -30,7 +30,7 @@
                                     </li>                                  
                                 </ul>
                             </a>
-                            <span class="title">Director/DP Reel</span>
+                            <span class="title">Director's Reel</span>
                         </li>
    
    
@@ -38,7 +38,7 @@
                          
                                 <img src="images/screens/redwing.jpg"/ width="150" />
                                
-                            <span class="title">RED WING BOOTS (SOON!)</span>
+                            <span class="title">RED WING (SOON!)</span>
                         </li>
                         
                         
@@ -65,7 +65,7 @@
                                 <img src="images/screens/gilt.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">GILT & INFINITI</span>
+                                        <span class="type">GILT & INFINITI</span>updated gilt reel
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
@@ -111,7 +111,7 @@
                                         <span class="type">Liberty Vintage</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -130,8 +130,8 @@
                                         <span class="type">Liberty Tools</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
-                                    </li>
+                                        <span class="type">Roles:</span> Director, DP
+                                                                            </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
                                     </li>
@@ -149,7 +149,7 @@
                                         <span class="type">Brazenhead Books</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> ETSY.com
@@ -168,7 +168,7 @@
                                         <span class="type">ETSY:</span>  Brooklyn Watches
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director / Director of Photography
+                                        <span class="type">Roles:</span>  Director, DP
                                     </li>
                                   
                                      
@@ -203,10 +203,10 @@
                                 <img src="images/screens/gregpacker.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">Greg Packer: Most Quoted Man in News</span>
+                                        <span class="type">The New Yorker: Most Quoted Man in News</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photography
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
                                         <span class="type">Client:</span> The New Yorker
@@ -236,7 +236,7 @@
                                         <span class="type">WAITING OUT WINTER</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
                                         <span class="type">Music:</span>Huma-Huma
@@ -259,7 +259,7 @@
                                         <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span>  Director, Director of Photography
+                                        <span class="type">Roles:</span>  Director, DP
                                     </li>
                                   
                                       <li>
@@ -285,7 +285,7 @@
                                         <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, Director of Photographer
+                                        <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
                                         <span class="type">Personal Project</span>
@@ -370,27 +370,7 @@
                     
                     
                     
-						  <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
-                                <img src="images/screens/starbucks.jpg" width="150" />
-                                     <ul class="payload">
-                                    <li>
-                                        <span class="type">STARBUCKS:</span> La BOULANGE
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director of Photography
-                                    </li>
-                                    <li>
-                                        <span class="type">Director:</span>  Bennett Barbakow
-                                    </li>
-                                        <li>
-                                        <span class="type">Production Company:</span>  Houseblend Media
-                                    </li>
-                                     
-                                </ul>
-                            </a>
-                            <span class="title">STARBUCKS: LA BOULANGE</span>
-                        </li>
+					
                         
                         
                         
@@ -428,7 +408,31 @@
                   
                         
                         
-                        
+                           <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
+                                <img src="images/screens/peta-promo.png" width="150" />
+                             	<ul class="payload">
+                                    <li>
+                                        <span class="type">PETA:</span>  Promo
+                                    </li>
+                                 
+                                    <li>
+                                        <span class="type">Director:</span>  Scott Whitham
+                                    </li>
+                                    
+                                      <li>
+                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    </li>
+                                        <li>
+                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>  PETA
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">PETA: Promo</span>
+                        </li>
                              
              
                                 
@@ -473,31 +477,28 @@
                         
              
              
-                        <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/50156976" >
-                                <img src="images/screens/peta-promo.png" width="150" />
-                             	<ul class="payload">
+             	  <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/56326054">
+                                <img src="images/screens/starbucks.jpg" width="150" />
+                                     <ul class="payload">
                                     <li>
-                                        <span class="type">PETA:</span>  Promo
+                                        <span class="type">STARBUCKS:</span> La BOULANGE
                                     </li>
-                                 
                                     <li>
-                                        <span class="type">Director:</span>  Scott Whitham
+                                        <span class="type">Roles:</span>  Director of Photography
                                     </li>
-                                    
-                                      <li>
-                                        <span class="type">Director of Photography:</span>  Andrew David Watson
+                                    <li>
+                                        <span class="type">Director:</span>  Bennett Barbakow
                                     </li>
                                         <li>
-                                        <span class="type">Production Company:</span>  Shooters Inc.
+                                        <span class="type">Production Company:</span>  Houseblend Media
                                     </li>
-                                    <li>
-                                        <span class="type">Client:</span>  PETA
-                                    </li>
+                                     
                                 </ul>
                             </a>
-                            <span class="title">PETA: Promo</span>
+                            <span class="title">STARBUCKS: LA BOULANGE</span>
                         </li>
+                     
                         
                         
                         
