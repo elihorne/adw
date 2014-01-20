@@ -65,7 +65,7 @@
                                 <img src="images/screens/gilt.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">GILT & INFINITI</span>updated gilt reel
+                                        <span class="type">GILT & INFINITI</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
@@ -139,7 +139,7 @@
                    
         				 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/83500819">
-                                <img src="images/screens/spiewak.jpg" width="150" />
+                                <img src="images/screens/spiewak2.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Spiewak 1904 | An Icon Endures</span>
@@ -260,7 +260,7 @@
                                         <span class="type">Music:</span> Huma-Huma
                                     </li>
                                      <li>
-                                        <span class="type">Personal Project:</span> Vimeo Staff pick, 100,000+ view in first week
+                                        <span class="type">Personal Project:</span> Vimeo Staff pick
                                     </li>
                                 </ul>
                             </a>
