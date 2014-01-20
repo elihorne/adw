@@ -23,24 +23,12 @@ When not traveling for productions or off on solo motorcycle adventures, Andrew 
 <div class="biocontact">
             Andrew David Watson </br> 
             andrewdavidwatson@gmail.com</br>  
-            (c) 215.391.3850</br> 
             (w) 347.926.3456</br>
             <a href="http://instagram.com/andrewdavidwatson" target="_blank">instagram/andrewdavidwatson</a><br>
             <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewddwatson</a>
            </div> 
             
-<b>Representation:</b>               
-                
-<div class="biocontact">
-            Fresh Artist Management<br>
-			165 W. 46th Street, Suite 1002<br>
-			New York, NY 10036<br>
-			212-704-4355<br>
-			<a href="http://freshartistmanagement.com" target="_blank">www.feshartistmanagement.com</a>
-			</div>
- </br> 
-           
-           
+  
            
            
             </p>

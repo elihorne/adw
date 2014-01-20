@@ -102,8 +102,125 @@
 
                
                  
+                  <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/78068001" title="Greg Packer: Most Quoted Man in News" 								caption="Greg Packer" director="Andrew David Watson">
+                                <img src="images/screens/gregpacker.jpg"/ width="150" />
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">The New Yorker: Most Quoted Man in News</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span> The New Yorker
+                                    </li>
+                                     <li>
+                                        <span class="type">Editor:</span> Josh Camerote
+                                    </li>
+                                     <li>
+                                        <span class="type">Sound Design:</span> Julienne Guffain 
+                                    </li>
+                                     <li>
+                                        <span class="type">Music:</span> Huma-Huma
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">The New Yorker</span>
+                        </li>
                         
+                        
+                        
+                    
+        				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
+                                <img src="images/screens/cs2.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">WAITING OUT WINTER</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                    </li>
+                                    <li>
+                                        <span class="type">Music:</span>Huma-Huma
+                                    </li>
+                                     <li>
+                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Waiting Out Winter</span>
+                        </li>
+                    
+                    
+                   
+                   
+                   
+        				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/83500819">
+                                <img src="images/screens/spiewak.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">SPIEWAK</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                    </li>
+                                    <li>
+                                        <span class="type">Client:</span>SPIEWAK
+                                    </li>
+                                     <li>
+                                        <span class="type">AGENCY:</span>P+W
+                                    </li>
+                                        <li>
+                                        <span class="type">CREATIVE PRODUCER:</span>LAUREN Sieczkowski
+                                       </li>
                                        <li>
+                                        <span class="type">EDITOR:</span>JOSH CAMEROTE
+                                    </li>
+                                  
+                                </ul>
+                            </a>
+                            <span class="title">SPIEWAK 1904</span>
+                        </li>
+                    
+  
+                        
+                   
+                     
+         				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
+                                <img src="images/screens/rocket.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                    </li>
+                                    <li>
+                                        <span class="type">Personal Project</span>
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Louis "Rocket" Re</span>
+                        </li>
+                        
+                        
+               
+     
+                 </ul>
+                </div>
+                
+		
+
+                <div class="group middle">
+                    <ul class="items">
+                    
+      
+   					
+   					 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/20789680" title="Liberty 		  														Vintage" caption="Liberty Vintage" director="Andrew David Watson">
                                 <img src="images/screens/etsy-liberty-vintage.png"/ width="150" />
                                      <ul class="payload">
@@ -160,97 +277,7 @@
                         </li>
                         
   						
-  						<li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/42434522" >
-                                <img src="images/screens/bkwatches.jpg" width="150" />
-                             	<ul class="payload">
-                                    <li>
-                                        <span class="type">ETSY:</span>  Brooklyn Watches
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, DP
-                                    </li>
-                                  
-                                     
-                                    <li>
-                                        <span class="type">Client:</span>  ETSY
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">ETSY: BK WATCHES</span>
-                        </li> 
-  				
-                
-              
-                        
-                        
-                        
-               
-     
-                 </ul>
-                </div>
-                
-		
-
-                <div class="group middle">
-                    <ul class="items">
-                    
-                    
-                    
-                    
-                           <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/78068001" title="Greg Packer: Most Quoted Man in News" caption="Greg Packer" director="Andrew David Watson">
-                                <img src="images/screens/gregpacker.jpg"/ width="150" />
-                                     <ul class="payload">
-                                    <li>
-                                        <span class="type">The New Yorker: Most Quoted Man in News</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> The New Yorker
-                                    </li>
-                                     <li>
-                                        <span class="type">Editor:</span> Josh Camerote
-                                    </li>
-                                     <li>
-                                        <span class="type">Sound Design:</span> Julienne Guffain 
-                                    </li>
-                                     <li>
-                                        <span class="type">Music:</span> Huma-Huma
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">The New Yorker</span>
-                        </li>
-                        
-                        
-                        
-                    
-        				 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
-                                <img src="images/screens/cs2.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">WAITING OUT WINTER</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Music:</span>Huma-Huma
-                                    </li>
-                                     <li>
-                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Waiting Out Winter</span>
-                        </li>
-                    
-                    
-                    
+  				 
                          <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/60117701">
                                 <img src="images/screens/bilenky-clean.jpg" width="150" />
@@ -273,31 +300,8 @@
                             <span class="title">Bicycling Magazine</span>
                         </li>
                     
-  
-                        
-                   
-                     
-         				 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
-                                <img src="images/screens/rocket.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Personal Project</span>
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Louis "Rocket" Re</span>
-                        </li>
-                           
-                      
-                        
-                        
+                
+
                  
                                
                  
