@@ -162,7 +162,7 @@
                                   
                                 </ul>
                             </a>
-                            <span class="title">SPIEWAK: AN ICON ENDURES</span>
+                            <span class="title">SPIEWAK: 1904</span>
                         </li>
                     
                     
