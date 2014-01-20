@@ -142,22 +142,22 @@
                                 <img src="images/screens/spiewak.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">SPIEWAK</span>
+                                        <span class="type">Spiewak 1904 | An Icon Endures</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
-                                        <span class="type">Client:</span>SPIEWAK
+                                        <span class="type">Client:</span> SPIEWAK
                                     </li>
                                      <li>
-                                        <span class="type">AGENCY:</span>P+W
+                                        <span class="type">AGENCY:</span> P+W
                                     </li>
                                         <li>
-                                        <span class="type">CREATIVE PRODUCER:</span>LAUREN Sieczkowski
+                                        <span class="type">CREATIVE PRODUCER:</span> LAUREN Sieczkowski
                                        </li>
                                        <li>
-                                        <span class="type">EDITOR:</span>JOSH CAMEROTE
+                                        <span class="type">EDITOR:</span> JOSH CAMEROTE
                                     </li>
                                   
                                 </ul>
@@ -167,24 +167,30 @@
                     
                     
                     
-                                 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="150" />
+                               <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/60117701">
+                                <img src="images/screens/bilenky-clean.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Liberty Tools</span>
+                                        <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
                                     </li>
                                     <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                                                            </li>
+                                        <span class="type">Roles:</span>  Director, DP
+                                    </li>
+                                  
+                                      <li>
+                                        <span class="type">Editor:</span>  Josh Camerote
+                                    </li>
                                     <li>
-                                        <span class="type">Client:</span> ETSY.com
+                                        <span class="type">Client:</span> Bicycling Magazine
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Liberty Tools</span>
+                            <span class="title">Bicycling Magazine</span>
                         </li>
-  
+                    
+                    
+             
                         
                    
                      
@@ -251,10 +257,10 @@
                                         <span class="type">Roles:</span> Director, DP
                                     </li>
                                     <li>
-                                        <span class="type">Music:</span>Huma-Huma
+                                        <span class="type">Music:</span> Huma-Huma
                                     </li>
                                      <li>
-                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
+                                        <span class="type">Personal Project:</span> Vimeo Staff pick, 100,000+ view in first week
                                     </li>
                                 </ul>
                             </a>
@@ -263,6 +269,24 @@
                         
                         
                         
+                     <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-liberty.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                                                            </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
+  
                         
                         
                         
@@ -286,28 +310,7 @@
                         
   						
   				 
-                         <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/60117701">
-                                <img src="images/screens/bilenky-clean.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">Bicycling Magazine:</span>Bilenky Cycle Works
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span>  Director, DP
-                                    </li>
-                                  
-                                      <li>
-                                        <span class="type">Editor:</span>  Josh Camerote
-                                    </li>
-                                    <li>
-                                        <span class="type">Client:</span> Bicycling Magazine
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Bicycling Magazine</span>
-                        </li>
-                    
+              
                 
 
                  
