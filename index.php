@@ -131,27 +131,7 @@
                         
                         
                         
-                    
-        				 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
-                                <img src="images/screens/cs2.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">WAITING OUT WINTER</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Music:</span>Huma-Huma
-                                    </li>
-                                     <li>
-                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Waiting Out Winter</span>
-                        </li>
+               
                     
                     
                    
@@ -185,6 +165,25 @@
                             <span class="title">SPIEWAK 1904</span>
                         </li>
                     
+                    
+                    
+                                 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
+                                <img src="images/screens/film-liberty.jpg" width="150" />
+                                      <ul class="payload">
+                                    <li>
+                                        <span class="type">Liberty Tools</span>
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                                                            </li>
+                                    <li>
+                                        <span class="type">Client:</span> ETSY.com
+                                    </li>
+                                </ul>
+                            </a>
+                            <span class="title">Etsy: Liberty Tools</span>
+                        </li>
   
                         
                    
@@ -239,23 +238,32 @@
                         </li>
                         
                         
-                                 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/31575162">
-                                <img src="images/screens/film-liberty.jpg" width="150" />
+                        
+                             
+        				 <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/59380598">
+                                <img src="images/screens/cs2.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
-                                        <span class="type">Liberty Tools</span>
+                                        <span class="type">WAITING OUT WINTER</span>
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
-                                                                            </li>
+                                    </li>
                                     <li>
-                                        <span class="type">Client:</span> ETSY.com
+                                        <span class="type">Music:</span>Huma-Huma
+                                    </li>
+                                     <li>
+                                        <span class="type">Personal Project:</span>Vimeo Staff pick, 100,000+ view in first week
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">Etsy: Liberty Tools</span>
+                            <span class="title">Waiting Out Winter</span>
                         </li>
+                        
+                        
+                        
+                        
                         
                         
                         <li>
