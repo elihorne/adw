@@ -30,7 +30,7 @@
                                     </li>                                  
                                 </ul>
                             </a>
-                            <span class="title">Director's Reel</span>
+                            <span class="title">Director / DP Reel</span>
                         </li>
    
    
