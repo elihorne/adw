@@ -35,11 +35,12 @@
    
    
                                <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77836000" title="REDWING 		  														" caption="REDWING: JUSTIN VERNON" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/84010720" title="REDWING 		  														" caption="REDWING: JUSTIN VERNON" director="Andrew David Watson">
                                 <img src="images/screens/redwing.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">RED WING</span> Fish for my Unborn Children
+                                        <span class="type">RED WING</span>Made in the Land of Wheat and Maize | Justin Vernon
+
                                     </li>
                                     <li>
                                         <span class="type">Roles:</span> Director, DP
