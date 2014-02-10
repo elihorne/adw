@@ -39,7 +39,7 @@
                                 <img src="images/screens/redwing.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
-                                        <span class="type">RED WING</span>Made in the Land of Wheat and Maize | Justin Vernon
+                                        <span class="type">RED WING:  </span>Made in the Land of Wheat and Maize | Justin Vernon
 
                                     </li>
                                     <li>
@@ -158,7 +158,7 @@
                    
         				 <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/83500819">
-                                <img src="images/screens/spiewak2.jpg" width="150" />
+                                <img src="images/screens/spiewak.jpg" width="150" />
                                       <ul class="payload">
                                     <li>
                                         <span class="type">Spiewak 1904 | An Icon Endures</span>
