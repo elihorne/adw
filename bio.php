@@ -15,13 +15,13 @@ List are more fun then awkward third person bios, so here are some interesting f
 
 <br>- My work has taken me to such distinct locales as Bolivia, Colombia, Haiti, South Africa, China, Japan, Korea, Hong Kong, Philippines, France, UK, Germany, Costa Rica... you get the picture.  In fact, you can see the pictures here on my <a href="http://www.andrewdavidwatson.com/blog">Blog!</a>.<br>
 
-<br>- I have worked with agencies such as: KBS+, JWT, Draft FCB, Publicies, P+W, <br>
+<br>- I have worked with agencies such as: KBS+, MRY, JWT, Draft FCB, PUBLICIS, P+W, <br>
 
-<br>  I'm as comfortable working in the wilderness with a small crew as I am in a midtown studio packed full of agency folks. <br>
+<br>- I'm as comfortable working in the wilderness with a small crew as I am in a midtown studio packed full of agency folks. <br>
 
-<br> - Personal projects of mine have received combined views of over a million, while also screening in various festivals and picking up Vimeo Staff picks along the way. <br>
+<br>- Personal projects of mine have received combined views of over a million, while also screening in various festivals and picking up Vimeo Staff picks along the way. <br>
 
-<br> I have a bunch of random credits on networks such as PBS, Showtime, BBC, IFC, TLC.... Some clients and brands I have shot for include: The New Yorker, ETSY, Red Wing Heritage, Macy's, Puma, Tate Modern, PETA<br>
+<br>- I have a bunch of random credits on networks such as PBS, Showtime, BBC, IFC, TLC.... Some clients and brands I have shot for include: The New Yorker, ETSY, Red Wing Heritage, Macy's, Puma, Tate Modern. <br>
 
 <br>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level? Ask me about it, its an interesting story.
 <br><br>
