@@ -34,13 +34,31 @@
                         </li>
    
    
-                                        <li>
-                         
+                               <li>
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/77836000" title="REDWING 		  														" caption="REDWING: JUSTIN VERNON" director="Andrew David Watson">
                                 <img src="images/screens/redwing.jpg"/ width="150" />
-                               
-                            <span class="title">RED WING (SOON!)</span>
+                                     <ul class="payload">
+                                    <li>
+                                        <span class="type">RED WING</span> Fish for my Unborn Children
+                                    </li>
+                                    <li>
+                                        <span class="type">Roles:</span> Director, DP
+                                    </li>
+                                     <li>
+                                        <span class="type">Agency:</span> Paul + WIlliams
+                                    </li>
+                                      <li>
+                                        <span class="type">Editor:</span> Josh Camerote
+                                    </li>
+                                   
+                                     <li>
+                                        <span class="type">Music:</span> Volcano Choir, The Shouting Matches
+                                    </li>
+                                   
+                                </ul>
+                            </a>
+                            <span class="title">RED WING: JUSTIN VERNON</span>
                         </li>
-                        
                         
                                           <li>
                             <a class="thumb" href="#" rel="http://player.vimeo.com/video/77836000" title="KHOGY 		  														" caption="KHOGY" director="Andrew David Watson">
@@ -151,7 +169,7 @@
                                         <span class="type">Client:</span> SPIEWAK
                                     </li>
                                      <li>
-                                        <span class="type">AGENCY:</span> P+W
+                                        <span class="type">AGENCY:</span> Paul + Williams
                                     </li>
                                         <li>
                                         <span class="type">CREATIVE PRODUCER:</span> LAUREN Sieczkowski
