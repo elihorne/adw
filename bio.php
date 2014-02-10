@@ -7,22 +7,32 @@
                 
     <div class="biobody">           
                 
-As the son of a woodworker and the grandson of an auto-body mechanic, its no coincidence that Andrew David Watson's directorial work focuses on the world of craftsmanship and heritage.  Growing up with his own tool box since an early age, Andrew is as comfortable servicing the carbs on his 40 year old vintage motorcycle as he is behind a camera.  <p></p>
+List are more fun then awkward third person bios, so here are some interesting facts:<br><br>
 
-Between a background in traditional documentary storytelling, experience as a commercial DP and extensive international productions under his belt, Andrew brings a very unique and hard to acquire skill set to any project... not to mention his own distinctive style.  Through his directing and DP work, Andrew has collaborated with agencies such as Anomaly, Publicis, Draft FCB and brands such as ETSY, Starbucks, Ebay and Bicycling Magazine.<p>
-</p>
+<br>- I'm a NYC based Director / DP.  My directional focus is creative nonfiction, while my DP focus is anything I can make beautiful.
 
-<p>As a Director of Photography Andrew has worked with networks such as PBS, BBC, Sky Arts, Showtime and IFC.  Andrew is currently DP on the feature documentary Charge (A Cinereach Production), which was a 2013 recipient of the prestigious MacArthur Grant.  Through his DP work, Andrew has shot in distinct locations such as Colombia, Bolivia, South Africa, China and Sri Lanka.  Whether its working at altitudes exceeding 17,000 ft or hanging out of helicopters, Andrew's always up for an adventure.  </p>
-When not traveling for productions or off on solo motorcycle adventures, Andrew resides in the wonderful metropolis of New York City. 
-   </div>
+<br>- I love anything and everything with two wheels, especially vintage motorcycles and steel framed bicycles. It keeps me a kid at heart.
+
+<br>- My work has taken me to such distinct locales as Bolivia, Colombia, Haiti, South Africa, China, Japan, Korea, Hong Kong, Philippines, France, UK, Germany, Costa Rica... you get the picture.  In fact, you can see the pictures here on my <a href="http://www.andrewdaviwatson.com/blog">Blog!</a>.
+
+<br>- I have worked with agencies such as: KBS+, JWT, Draft FCB, Publicies, P+W, 
+
+<br>  I'm as comfortable working in the wilderness with a small crew as I am in a midtown studio packed full of agency folks. 
+
+<br> - Personal projects of mine have received combined views of over a million, while also screening in various festivals and picking up Vimeo Staff picks along the way. 
+
+<br> I have a bunch of random credits on networks such as PBS, Showtime, BBC, IFC, TLC.... Some clients and brands I have shot for include: The New Yorker, ETSY, Red Wing Heritage, Macy's, Puma, Tate Modern, PETA
+
+<br>- Did you know a 2000 watt generator will not power a 800watt HMI at 14,000 feet above sea level? Ask me about it, its an interesting story.
+
    
 <p> <p></p> </p>   
                     
-<b>For coffee dates or work inquires:</b>               
+<b>For work inquires or bike rides:</b>               
                 
 <div class="biocontact">
             Andrew David Watson </br> 
-            andrewdavidwatson@gmail.com</br>  
+            andrew@andrewdavidwatson.com</br>  
             (w) 347.926.3456</br>
             <a href="http://instagram.com/andrewdavidwatson" target="_blank">instagram/andrewdavidwatson</a><br>
             <a href="http://www.twitter.com/andrewdwatson" target="_blank">twitter/andrewddwatson</a>
