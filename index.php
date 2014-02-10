@@ -35,7 +35,7 @@
    
    
                                <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/84010720" title="REDWING 		  														" caption="REDWING: JUSTIN VERNON" director="Andrew David Watson">
+                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/84010720" title="REDWING" 		  													 caption="REDWING: JUSTIN VERNON" director="Andrew David Watson">
                                 <img src="images/screens/redwing.jpg"/ width="150" />
                                      <ul class="payload">
                                     <li>
@@ -50,6 +50,9 @@
                                     </li>
                                       <li>
                                         <span class="type">Editor:</span> Josh Camerote
+                                    </li>
+                                       <li>
+                                        <span class="type">Sound MIX:</span> Julienne Guffain 
                                     </li>
                                    
                                      <li>
@@ -145,7 +148,7 @@
                                     </li>
                                 </ul>
                             </a>
-                            <span class="title">The New Yorker</span>
+                            <span class="title">MOST QUOTED MAN</span>
                         </li>
                         
                         
