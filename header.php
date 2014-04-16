@@ -40,9 +40,7 @@
                             <a href=".">MOTION</a>
                         </li>
                         
-                         <li>
-                            <a href="./photography.php">Stills</a>
-                        </li>
+                       
                  
                         <li>
                             <a href="./bio.php">ABOUT</a>
