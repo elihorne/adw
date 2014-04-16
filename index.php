@@ -233,32 +233,7 @@
                     
                     
              
-             
-             
-             
-                        
-                   /*
-                     
-         				 <li>
-                            <a class="thumb" href="#" rel="http://player.vimeo.com/video/40447513">
-                                <img src="images/screens/rocket.jpg" width="150" />
-                                      <ul class="payload">
-                                    <li>
-                                        <span class="type">The American Eagle Flies Again -- Louis "Rocket" Re</span>
-                                    </li>
-                                    <li>
-                                        <span class="type">Roles:</span> Director, DP
-                                    </li>
-                                    <li>
-                                        <span class="type">Personal Project</span>
-                                    </li>
-                                </ul>
-                            </a>
-                            <span class="title">Louis "Rocket" Re</span>
-                        </li>
-                        
-                        */
-                        
+      
                
      
                  </ul>
