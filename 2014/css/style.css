@@ -1,0 +1,342 @@
+
+body{
+background-color:#222;
+font-family:"helvetica",'arial',sans-serif;
+color:#fff;
+font-size:15px;
+}
+
+ol, ul{
+margin:0;
+padding:0;
+}
+
+
+.wrap{
+width:1000px;
+margin:0 auto;
+}
+
+.replaced{
+text-indent: -9999em;
+overflow: hidden;
+display: block;
+}
+
+.header{
+overflow:hidden;
+margin-bottom:30px;
+margin-top:35px;
+}
+
+.brand{
+float:left;
+}
+
+.brand h1{
+text-transform: uppercase;
+color:#ff0101;
+font-size:40px;
+margin:0;
+padding:0;
+line-height:35px;
+}
+
+.brand h2{
+text-transform: uppercase;
+font-size:22px;
+margin:0;
+padding:0;
+text-shadow:0 1px 1px rgba(0,0,0,0.15)
+}
+
+.sections{
+float:right;
+text-align:right;
+}
+
+.sections ul{
+margin:0;
+}
+
+.sections li {
+list-style-type:none;
+}
+
+.sections li a{
+font-weight:bold;
+text-transform:uppercase;
+text-decoration:none;
+font-size:15px;
+color:#fff;
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.sections li a:hover{
+color:#222;
+}
+
+.works{
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.photography{
+float:center;
+margin-right:25px;
+width:175px;
+}
+
+
+
+.works .group{
+float:left;
+margin-right:20px;
+width:150px;
+}
+
+
+.films .group.last{
+padding-top:25px;
+}
+
+.works .group.last{
+margin-right:0;
+padding-top:25px;
+}
+
+
+.films .group.middle{
+padding-top:25px;
+}
+
+
+.films .group.middle.dp{
+padding-top:25px;
+}
+
+
+.catagories{
+white-space:nowrap;
+font-size:13px;
+text-transform: uppercase;
+color:#fff;
+text-align: left;
+padding-bottom: 6px;
+
+}
+
+
+.biobody{
+font-size:13px;
+color:#fff;
+text-align: left;
+padding-bottom: 25px;
+
+}
+
+.biocontact{
+font-size:13px;
+color:#fff;
+text-align: left;
+padding-bottom: 10px;
+
+}
+
+
+
+.works .group.middle{
+margin-right:25;
+padding-top:25px;
+}
+
+
+
+
+
+
+
+
+.works .group ul{
+padding:0;
+margin:0;
+}
+
+.works .group li{
+list-style-type:none;
+margin:0;
+padding:0;
+margin-bottom:25px;
+}
+
+.works .group h3, .bio h3{
+font-size:22px;
+text-transform: uppercase;
+margin:0 0 3px;
+}
+
+.works .group h4, .bio h3{
+font-size:13px;
+text-transform: uppercase;
+margin:0 0 3px;
+}
+
+.works .items .thumb{
+display:block;
+height:100%;
+overflow:hidden;
+line-height:0;
+-webkit-transition: all 0.25s ease-in;
+}
+
+.works .items .thumb .payload{
+display:none;
+}
+
+.works .items .thumb img{
+min-width:150px;
+}
+
+.works .items > li:hover{
+-webkit-box-shadow:0 0 6px #000;
+}
+
+.works .items span{
+display:block;
+color:#ff0101;
+text-transform:uppercase;
+font-size:10px;
+margin-top:0;
+display:block;
+background:rgba(0,0,0,0.5);
+padding:4px;
+text-shadow:0 1px 1px rgba(0,0,0,0.25);
+color:#fff;
+
+}
+
+.bio{
+width:100%;
+text-shadow:0 1px 1px rgba(0,0,0,0.25)
+}
+
+.bio p{
+line-height:16px;
+}
+
+.bio .contact span{
+display:block;
+}
+
+a, a:visited, a:link, a:active, a:hover {
+text-transform: uppercase;
+color:#ff0101;
+}
+
+.shadow{
+display:none;
+position:fixed;
+top:0;
+right:0;
+bottom:0;
+left:0;
+background:rgba(0,0,0,0.85);
+z-index:5;
+}
+
+.super-pop{
+position:absolute;
+text-align:center;
+color:#333;
+text-transform:uppercase;
+left:50%;
+top:50%;
+background:rgba(0,0,0,0.9);
+-webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
+border:5px solid #000;
+}
+
+.super-pop.vimeo{
+width:640px;
+min-height:360px;
+margin-left:-320px;
+margin-top:-200px;
+}
+
+.super-pop iframe{
+margin:0;
+padding:0;
+}
+
+.super-pop .payload{
+line-height:16px;
+margin:0;
+font-size:12px;
+padding:0;
+color:#f1f1f1;
+text-align:left;
+padding:6px;
+list-style:none;
+}
+
+.payload .type{
+font-weight:bold;
+}
+
+.super-pop.photo{
+
+margin-left:-500px;
+margin-top:-276px;
+border:5px solid #000;
+}
+
+.super-pop.photo img{
+max-width:1000px;
+max-height:667px;
+}
+
+
+.items .gallery{
+display:none;
+}
+
+.super-pop .right{
+position:absolute;
+right:0;
+top:0;
+height:100%;
+width:7%;
+z-index:500;
+}
+
+.super-pop .left{
+position:absolute;
+left:0;
+top:0;
+height:100%;
+width:7%;
+z-index:500;
+display:none;
+}
+
+.super-pop .left:hover{
+background:url(../images/arrow-left.png) center center no-repeat;
+}
+
+.super-pop .right:hover{
+background:url(../images/arrow-right.png) center center no-repeat;
+}
+
+.super-pop .close{
+background:url(../images/close.png) left top no-repeat;
+width:30px;
+height:30px;
+position:absolute;
+left:-15px;
+top:-15px;
+z-index:600;
+}
+
+.shadowbox{
+-webkit-box-shadow:0 0 10px rgba(0,0,0,0.75);
+}
+
